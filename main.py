@@ -151,7 +151,7 @@ def notify_available(product, price):
     discord_message = f"@everyone ✅ Produkt **{product['name']}** dostępny za **{price}**!\n🔗 {product['url']}"
     sms_message = f"{product['name']} dostępny za {price}. Link: {product['url']}"
     send_to_discord(discord_message)
-    #send_sms(sms_message)
+    send_sms(sms_message)
     play_sound()
 
 def notify_unavailable(product):
