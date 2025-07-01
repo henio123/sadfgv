@@ -40,10 +40,10 @@ jobs:
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add notified.json
         if ! git diff --cached --quiet; then
-          git commit -m "test"
+          git commit -m "Aktualizacja notified.json przez workflow"
           git push
         else
-          echo 
+          echo "Brak zmian w notified.json - push pominięty"
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
