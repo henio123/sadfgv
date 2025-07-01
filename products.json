@@ -2,17 +2,20 @@
   {
     "name": "White Flare Elite Trainer Box",
     "url": "https://juniorkurczak.pl/products/white-flare-elite-trainer-box",
-    "store": "juniorkurczak"
+    "store": "juniorkurczak",
+    "target_price": 216.95
   },
   {
     "name": "Black Bolt Elite Trainer Box",
     "url": "https://juniorkurczak.pl/products/black-bolt-elite-trainer-box",
-    "store": "juniorkurczak"
+    "store": "juniorkurczak",
+    "target_price": 216.95
   },
   {
     "name": "Marnie Rival Battle Deck",
     "url": "https://juniorkurczak.pl/products/marnie-rival-battle-deck",
-    "store": "juniorkurczak"
+    "store": "juniorkurczak",
+    "target_price": 66.95
   },
   {
     "name": "White Flare Black Bolt Unova Victini",
@@ -27,6 +30,12 @@
     "target_price": null
   },
   {
+    "name": "blister",
+    "url": "https://juniorkurczak.pl/products/destined-rivals-checklane-blister",
+    "store": "juniorkurczak",
+    "target_price": null
+  },
+  {
     "name": "White Flare Elite Trainer Box - strefa-tcg",
     "url": "https://strefa-tcg.pl/pl/p/Pokemon-TCG-Scarlet-Violet-White-Flare-Elite-Trainer-Box/1263",
     "store": "strefa_tcg",
@@ -37,11 +46,5 @@
     "url": "https://juniorkurczak.pl/products/scarlet-violet-151-booster-bundle",
     "store": "juniorkurczak",
     "target_price": null
-  },
-  {
-    "name": "scarlegt-violet-151-booster-bundle",
-    "url": "https://juniorkurczak.pl/products/scarlet-violet-151-booster-bundle",
-    "store": "juniorkurczak",
-    "target_price": 54.0
   }
 ]
