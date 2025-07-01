@@ -262,9 +262,9 @@ def main():
     with ThreadPoolExecutor(max_workers=5) as executor:
         futures = [executor.submit(check_product, p, notified) for p in PRODUCTS]
         for future in as_completed(futures):
-            pass  # Wszystkie taski wykonane
-        save_notified(notified)
-    print(f"[{timestamp()}] ✅ Sprawdzanie zakończone.")
+            pass 
+    save_notified(notified)
+    print(f"[{timestamp()}] ✅ Sprawdzenie zakończone.")
     
 if __name__ == "__main__":
     main()
