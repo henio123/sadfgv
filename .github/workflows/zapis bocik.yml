@@ -36,7 +36,7 @@ jobs:
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python your_bot_script.py
+          python main.py
 
       - name: Commit and push notified.json if changed
         env:
