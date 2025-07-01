@@ -30,8 +30,8 @@
     "timestamp": "2025-07-01 02:07:50"
   },
   "blister": {
-    "available": true,
-    "price": "23.95zł",
-    "timestamp": "2025-07-01 02:07:50"
+    "available": false,
+    "price": "Brak ceny",
+    "timestamp": "2025-07-01 08:00:58"
   }
 }
