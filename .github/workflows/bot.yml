@@ -2,7 +2,7 @@ name: Run Price Bot
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # co 15 minut
+    - cron: '*/5 * * * *'  # co 15 minut
   workflow_dispatch:        # pozwala uruchomić ręcznie
 
 jobs:
@@ -31,4 +31,4 @@ jobs:
         TO_PHONE_NUMBER: ${{ secrets.TO_PHONE_NUMBER }}
         WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
       run: |
-        python bot.py
+        python main.py
