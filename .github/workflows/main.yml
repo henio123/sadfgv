@@ -5,7 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '*/7 * * * *'  
+    - cron: '*/15 * * * *'  
+workflow_dispatch:
 
 jobs:
   run-bot:
