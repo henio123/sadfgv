@@ -30,7 +30,17 @@ SELECTORS = {
         "availability": "#box_productfull div.basket button > span",
         "unavailability": "p.center.mt-2.r--fs-xl.js__product-availability",
         "price": "#box_productfull div.basket em"
+    }, 
+ "loficards": {
+        "availability": "div:has(span:contains('Mało')), div:has(span:contains('szt. Do koszyka'))",
+        "unavailability": "div:has(span:contains('Brak towaru'))",
+        "price": ".core_cardPriceSpecial"  # dostosuj, jeśli element ma inną klasę
     },
+    "boosterpoint": {
+        "availability": "button.single_add_to_cart_button",
+        "unavailability": ".product-stock",
+        "price": "p.price > span:nth-child(1) > ins:nth-child(3) > span:nth-child(1) > bdi:nth-child(1)"
+    }
 }
 
 
