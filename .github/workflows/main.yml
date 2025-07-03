@@ -34,3 +34,12 @@ jobs:
 
       - name: 🚀 Run script
         run: python main.py
+
+      - name: 📤 Commit notified.json
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git pull --rebase
+          git add notified.json
+          git commit -m "🔄 Update notified.json [skip ci]" || echo "No changes to commit"
+          git push
