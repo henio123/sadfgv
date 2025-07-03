@@ -270,7 +270,7 @@ def send_sms(message):
 def notify_available(product, price):
     print(f"[{timestamp()}] ✅ {product['name']} dostępny! Cena: {price}")
     discord_message = f"@everyone ✅ Produkt **{product['name']}** dostępny za **{price}**!\n🔗 {product['url']}"
-    sms_message = f"{product['name']} dostępny za {price}. Link: {product['url']}"
+   # sms_message = f"{product['name']} dostępny za {price}. Link: {product['url']}"
     telegram_message= f"{product['name']} dostępny za {price}. Link: {product['url']}"
     send_to_discord(discord_message)
     send_sms(sms_message)
@@ -287,7 +287,7 @@ def notify_price_change(product, old_price, new_price):
         f"Stara cena: {old_price}\nNowa cena: {new_price}\n"
         f"{product['url']}"
     )
-    sms_message = (
+   # sms_message = (
         f"Cena SPADŁA: {product['name']}\n"
         f"Stara: {old_price}\nNowa: {new_price}\n"
         f"Link: {product['url']}"
