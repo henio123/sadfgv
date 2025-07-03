@@ -81,5 +81,74 @@
     "name": "Pokémon TCG: Scarlet & Violet – Black Bolt – Elite Trainer Box – Zekrom",
     "url": "https://boosterpoint.pl/produkt/pokemon-tcg-scarlet-violet-black-bolt-elite-trainer-box-zekrom/",
     "store": "boosterpoint"
+  },
+  {
+    "name": "Pokemon TCG Scarlet & Violet Destined Rivals Elite Trainer Box (Empik)",
+    "url": "https://www.empik.com/karty-pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-the-pokemon-company-international,p1605015549,zabawki-p",
+    "store": "empik",
+    "target_price": 240.0
+  },
+  {
+    "name": "Pokemon TCG Scarlet & Violet Destined Rivals Premium Checklane Blister (Empik)",
+    "url": "https://www.empik.com/karty-pokemon-tcg-scarlet-violet-destined-rivals-premium-checklane-blister-skeledirge-togek-the-pokemon-company-international,p1605015521,zabawki-p",
+    "store": "empik"
+  },
+  {
+    "name": "Pokemon TCG Rival Battle Deck Marnie (Świat Kart)",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-Rival-Battle-Deck-Marnie/886",
+    "store": "swiatkart"
+  },
+  {
+    "name": "Pokemon TCG Surging Sparks Booster Pack (Świat Kart)",
+    "url": "https://swiatkart.com.pl/pl/p/Pokemon-TCG-Scarlet-Violet-Surging-Sparks-Booster-Pack/98",
+    "store": "swiatkart"
+  },
+  {
+    "name": "Pokemon TCG White Flare Elite Trainer Box",
+    "url": "https://wilczek.poznan.pl/pokemon-tcg-white-flare-elite-trainer-box.html",
+    "store": "wilczek"
+  },
+  {
+    "name": "Pokemon TCG White Flare + Black Bolt ETB (Strefa Kart)",
+    "url": "https://strefakart.pl/product/pokemon-tcg-white-flare-black-bolt-elite-trainer-box-reshiram/",
+    "store": "strefakart",
+    "target_price": 240.0
+  },
+  {
+    "name": "Pokemon TCG 151 Booster Bundle (Redraft)",
+    "url": "https://redraft.pl/pl/p/Pokemon-TCG-151-Booster-Bundle/282",
+    "store": "redraft",
+    "target_price": 250.0
+  },
+  {
+    "name": "Pokemon TCG Destined Rivals ETB (Flamberg)",
+    "url": "https://flamberg.com.pl/pl/products/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-198596",
+    "store": "flamberg"
+  },
+  {
+    "name": "Pokemon TCG Team Rocket's Mewtwo EX Box (Battle Stash)",
+    "url": "https://battlestash.pl/produkt/pokemon-tcg-team-rockets-mewtwo-ex-box/",
+    "store": "battlestash"
+  },
+  {
+    "name": "Pokemon TCG Black Bolt ETB (Mały Smutny Miś)",
+    "url": "https://malysmutnymis.pl/pokemon-tcg-black-bolt-elite-trainer-box-eng-pre-order",
+    "store": "malysmutnymis"
+  },
+  {
+    "name": "Pokemon TCG Destined Rivals ETB (PokeTrader)",
+    "url": "https://poketrader.eu/pokemon-tcg-scarlet-violet-destined-rivals-elite-trainer-box-etb-p-614.html",
+    "store": "poketrader"
+  },
+  {
+    "name": "Karty Pokémon TCG: Team Rocket’s Mewtwo ex Box",
+    "url": "https://www.empik.com/karty-pokemon-tcg-team-rocket-s-mewtwo-ex-box-the-pokemon-company-international,p1613197273,zabawki-p",
+    "store": "empik",
+    "target_price": 110.0
+  },
+  {
+    "name": "Pokémon TCG - White Flare & Black Bolt - Black Bolt - Elite Trainer Box",
+    "url": "https://wilczek.poznan.pl/pokemon-tcg-black-bolt-elite-trainer-box.html",
+    "store": "wilczek"
   }
 ]
