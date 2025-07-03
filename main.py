@@ -288,10 +288,10 @@ def notify_price_change(product, old_price, new_price):
         f"{product['url']}"
     )
    # sms_message = (
-        f"Cena SPADŁA: {product['name']}\n"
-        f"Stara: {old_price}\nNowa: {new_price}\n"
-        f"Link: {product['url']}"
-    )
+    #    f"Cena SPADŁA: {product['name']}\n"
+      #  f"Stara: {old_price}\nNowa: {new_price}\n"
+     #   f"Link: {product['url']}"
+  #  )
     telegram_message = (
         f"Cena SPADŁA: {product['name']}\n"
         f"Stara: {old_price}\nNowa: {new_price}\n"
