@@ -101,9 +101,9 @@
   },
   "swiatkart": {
     "Pokemon TCG Rival Battle Deck Marnie (Świat Kart)": {
-      "available": false,
+      "available": true,
       "price": "79,99 zł",
-      "timestamp": "2025-07-03 17:38:49"
+      "timestamp": "2025-07-04 22:59:06"
     },
     "Pokemon TCG Surging Sparks Booster Pack (Świat Kart)": {
       "available": true,
