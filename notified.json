@@ -106,9 +106,9 @@
       "timestamp": "2025-07-07 18:45:10"
     },
     "test": {
-      "available": true,
-      "price": "29,99 zł",
-      "timestamp": "2025-07-07 08:57:09"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-07 22:46:54"
     }
   },
   "wilczek": {
