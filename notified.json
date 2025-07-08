@@ -101,9 +101,9 @@
   },
   "swiatkart": {
     "Pokemon TCG Rival Battle Deck Marnie (Świat Kart)": {
-      "available": false,
+      "available": true,
       "price": "79,99 zł",
-      "timestamp": "2025-07-08 12:52:29"
+      "timestamp": "2025-07-08 18:14:34"
     },
     "test": {
       "available": true,
