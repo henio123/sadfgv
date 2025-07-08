@@ -101,14 +101,14 @@
   },
   "swiatkart": {
     "Pokemon TCG Rival Battle Deck Marnie (Świat Kart)": {
-      "available": false,
+      "available": true,
       "price": "79,99 zł",
-      "timestamp": "2025-07-07 18:45:10"
+      "timestamp": "2025-07-08 07:01:35"
     },
     "test": {
-      "available": true,
-      "price": "29,99 zł",
-      "timestamp": "2025-07-07 22:55:26"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-08 07:01:47"
     }
   },
   "wilczek": {
@@ -125,9 +125,9 @@
   },
   "strefakart": {
     "Pokemon TCG White Flare + Black Bolt ETB (Strefa Kart)": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-08 06:50:21"
+      "available": true,
+      "price": "299,00zł",
+      "timestamp": "2025-07-08 07:01:13"
     }
   },
   "redraft": {
