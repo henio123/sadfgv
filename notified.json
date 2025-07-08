@@ -106,9 +106,9 @@
       "timestamp": "2025-07-08 18:46:06"
     },
     "test": {
-      "available": true,
-      "price": "29,99 zł",
-      "timestamp": "2025-07-08 14:36:01"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-08 23:38:52"
     }
   },
   "wilczek": {
@@ -125,9 +125,9 @@
   },
   "strefakart": {
     "Pokemon TCG White Flare + Black Bolt ETB (Strefa Kart)": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-08 23:23:20"
+      "available": true,
+      "price": "299,00zł",
+      "timestamp": "2025-07-08 23:38:02"
     }
   },
   "redraft": {
