@@ -89,9 +89,9 @@
       "timestamp": "2025-07-05 12:46:26"
     },
     "Karty Pokémon TCG: Team Rocket’s Mewtwo ex Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-05 12:46:27"
+      "available": true,
+      "price": "129,99 zł",
+      "timestamp": "2025-07-09 03:14:32"
     },
     "Pokemon TCG Scarlet & Violet Destined Rivals Elite Trainer Box (Empik)": {
       "available": true,
@@ -101,9 +101,9 @@
   },
   "swiatkart": {
     "Pokemon TCG Rival Battle Deck Marnie (Świat Kart)": {
-      "available": false,
+      "available": true,
       "price": "79,99 zł",
-      "timestamp": "2025-07-08 18:46:06"
+      "timestamp": "2025-07-09 03:14:31"
     },
     "test": {
       "available": true,
