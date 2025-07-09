@@ -40,7 +40,11 @@
     "White Flare Elite Trainer Box - strefa-tcg": {
       "available": true,
       "price": "289,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-07-09 13:43:43"
+=======
+      "timestamp": "2025-07-09 13:44:17"
+>>>>>>> Stashed changes
     }
   },
   "loficards": {
@@ -77,7 +81,11 @@
     "Pokémon TCG: Destined Rivals - Elite Trainer Box": {
       "available": true,
       "price": "359,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-07-09 13:43:51"
+=======
+      "timestamp": "2025-07-09 13:44:22"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare - Elite Trainer Box (PREORDER)": {
       "available": false,
@@ -116,7 +124,11 @@
     "Pokemon TCG Scarlet & Violet Destined Rivals Elite Trainer Box (Empik)": {
       "available": true,
       "price": "358,88 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-07-09 13:43:47"
+=======
+      "timestamp": "2025-07-09 13:44:16"
+>>>>>>> Stashed changes
     }
   },
   "swiatkart": {
@@ -216,7 +228,11 @@
     "Pokemon TCG Destined Rivals ETB (Flamberg)": {
       "available": true,
       "price": "349,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-07-09 13:43:47"
+=======
+      "timestamp": "2025-07-09 13:44:20"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
       "available": false,
@@ -231,14 +247,22 @@
     "Scarlet and Violet 151 - Booster Bundle Pokémon TCG": {
       "available": true,
       "price": "414,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-07-09 13:43:58"
+=======
+      "timestamp": "2025-07-09 13:44:29"
+>>>>>>> Stashed changes
     }
   },
   "battlestash": {
     "Pokemon TCG Team Rocket's Mewtwo EX Box (Battle Stash)": {
       "available": true,
       "price": "89.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-07-09 13:43:50"
+=======
+      "timestamp": "2025-07-09 13:44:21"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Destined Rivals Elite Trainer Box - BattleStash (battlestash)": {
       "available": false,
@@ -248,7 +272,11 @@
     "Pokémon TCG: Scarlet and Violet 151 Booster Bundle - BattleStash (battlestash)": {
       "available": true,
       "price": "275.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-07-09 13:43:56"
+=======
+      "timestamp": "2025-07-09 13:44:27"
+>>>>>>> Stashed changes
     }
   },
   "malysmutnymis": {
@@ -346,12 +374,20 @@
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
       "available": true,
       "price": "284,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-07-09 13:44:05"
+=======
+      "timestamp": "2025-07-09 13:44:35"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
       "available": true,
       "price": "349,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-07-09 13:44:05"
+=======
+      "timestamp": "2025-07-09 13:44:35"
+>>>>>>> Stashed changes
     }
   },
   "strefamtg": {
