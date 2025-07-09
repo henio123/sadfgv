@@ -1,5 +1,7 @@
-beautifulsoup4
 requests
+beautifulsoup4
 twilio
 python-dotenv
-selenium
+playwright
+flask
+Pillow
