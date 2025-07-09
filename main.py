@@ -292,34 +292,45 @@ def check_product(product, notified, group_target_price=None):
         current_price_value = parse_price(price)
         target_price = group_target_price or product.get("target_price")
 
+        # === Produkt stał się dostępny ===
         if available and last_state != True:
             notified[store][name] = {"available": True, "price": price, "timestamp": timestamp()}
+
             if target_price is None or (current_price_value is not None and current_price_value <= target_price):
                 notify_available(product, price)
+
+            # Historia ceny nawet jeśli nie powiadamiamy
             if old_price and price != old_price:
                 old_val = parse_price(old_price)
                 new_val = current_price_value
                 if old_val is not None and new_val is not None:
                     log_price_history(product, old_price, price)
 
+        # === Produkt stał się niedostępny ===
         elif not available and last_state != False:
             notify_unavailable(product)
             notified[store][name] = {"available": False, "price": price, "timestamp": timestamp()}
 
+        # === Produkt nadal dostępny, ale cena się zmieniła ===
         elif available and price and old_price and price != old_price:
             old_val = parse_price(old_price)
             new_val = current_price_value
+
             if old_val is not None and new_val is not None:
                 if new_val < old_val:
-                    notify_price_change(product, old_price, price)
+                    if target_price is None or new_val <= target_price:
+                        notify_price_change(product, old_price, price)
                 elif new_val > old_val:
-                    notify_price_increase(product, old_price, price)
+                    if target_price is None or new_val <= target_price:
+                        notify_price_increase(product, old_price, price)
+
                 log_price_history(product, old_price, price)
                 notified[store][name]["price"] = price
                 notified[store][name]["timestamp"] = timestamp()
 
     except Exception as e:
         print(f"[{timestamp()}] ⚠️ Błąd przy {product['name']}: {e}")
+
 
 
 def main():
