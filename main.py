@@ -323,19 +323,17 @@ def check_product(product, notified, group_target_price=None):
 
 
 def main():
-
     notified = load_notified()
+    target_price_map = build_target_price_map(PRODUCTS)
 
     with ThreadPoolExecutor(max_workers=5) as executor:
-
-        futures = [executor.submit(check_product, p, notified) for p in PRODUCTS]
+        futures = [executor.submit(check_product, p, notified, target_price_map.get(p.get("product_id")))
+                   for p in PRODUCTS]
 
         for future in as_completed(futures):
-
-            pass 
+            pass
 
     save_notified(notified)
-
     print(f"[{timestamp()}] ✅ Sprawdzenie zakończone.")
 
 
