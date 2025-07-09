@@ -237,8 +237,9 @@ def notify_price_change(product, old_price, new_price):
 
 def notify_price_increase(product, old_price, new_price):
     target_price = product.get("target_price")
-    if target_price is not None and new_price > target_price:
-        return  # Nie wysyłaj powiadomienia, jeśli cena jest wyższa niż target
+    new_val = parse_price(new_price)
+    if target_price is not None and new_val is not None and new_val > target_price:
+        return  # Nie wysyłaj powiadomienia, jeśli cena przekracza target
 
     print(f"[{timestamp()}] 🔺 Cena wzrosła dla {product['name']}! {old_price} → {new_price}")
     msg = (
@@ -248,6 +249,7 @@ def notify_price_increase(product, old_price, new_price):
     )
     send_to_discord(msg)
     send_telegram(msg)
+
 
 
 def play_sound():
@@ -321,24 +323,29 @@ def check_product(product, notified, group_target_price=None):
 
 
 def main():
-
     notified = load_notified()
+    selenium_products = [p for p in PRODUCTS if SELECTORS.get(p["store"], {}).get("use_selenium")]
+    simple_products = [p for p in PRODUCTS if not SELECTORS.get(p["store"], {}).get("use_selenium")]
+    target_price_map = build_target_price_map(PRODUCTS)
 
     with ThreadPoolExecutor(max_workers=5) as executor:
+        while True:
+            print(f"\n[{timestamp()}] 🔍 Sprawdzanie produktów (najpierw requests)...\n")
+            for group in [simple_products, selenium_products]:
+                futures = [
+                    executor.submit(check_product, p, notified, target_price_map.get(p.get("product_id")))
+                    for p in group
+                ]
+                for future in as_completed(futures):
+                    pass
+            save_notified(notified)
 
-        futures = [executor.submit(check_product, p, notified) for p in PRODUCTS]
-
-        for future in as_completed(futures):
-
-            pass 
-
-    save_notified(notified)
-
-    print(f"[{timestamp()}] ✅ Sprawdzenie zakończone.")
-
+            print(f"\n[{timestamp()}] ⏳ Następne sprawdzenie za {CHECK_INTERVAL} sekund...\n")
+            for remaining in range(CHECK_INTERVAL, 0, -1):
+                print(f"\r[{timestamp()}] ⏳ Odliczanie: {remaining} sekund ", end="", flush=True)
+                time.sleep(1)
+            print()
 
 
 if __name__ == "__main__":
-
     main()
-
