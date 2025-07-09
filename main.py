@@ -321,29 +321,24 @@ def check_product(product, notified, group_target_price=None):
 
 
 def main():
+
     notified = load_notified()
-    selenium_products = [p for p in PRODUCTS if SELECTORS.get(p["store"], {}).get("use_selenium")]
-    simple_products = [p for p in PRODUCTS if not SELECTORS.get(p["store"], {}).get("use_selenium")]
-    target_price_map = build_target_price_map(PRODUCTS)
 
     with ThreadPoolExecutor(max_workers=5) as executor:
-        while True:
-            print(f"\n[{timestamp()}] 🔍 Sprawdzanie produktów (najpierw requests)...\n")
-            for group in [simple_products, selenium_products]:
-                futures = [
-                    executor.submit(check_product, p, notified, target_price_map.get(p.get("product_id")))
-                    for p in group
-                ]
-                for future in as_completed(futures):
-                    pass
-            save_notified(notified)
 
-            print(f"\n[{timestamp()}] ⏳ Następne sprawdzenie za {CHECK_INTERVAL} sekund...\n")
-            for remaining in range(CHECK_INTERVAL, 0, -1):
-                print(f"\r[{timestamp()}] ⏳ Odliczanie: {remaining} sekund ", end="", flush=True)
-                time.sleep(1)
-            print()
+        futures = [executor.submit(check_product, p, notified) for p in PRODUCTS]
+
+        for future in as_completed(futures):
+
+            pass 
+
+    save_notified(notified)
+
+    print(f"[{timestamp()}] ✅ Sprawdzenie zakończone.")
+
 
 
 if __name__ == "__main__":
+
     main()
+
