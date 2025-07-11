@@ -239,9 +239,9 @@
   },
   "battlestash": {
     "Pokemon TCG Team Rocket's Mewtwo EX Box (Battle Stash)": {
-      "available": true,
+      "available": false,
       "price": "89.00zł",
-      "timestamp": "2025-07-09 14:45:21"
+      "timestamp": "2025-07-11 20:43:35"
     },
     "Pokémon TCG Destined Rivals Elite Trainer Box - BattleStash (battlestash)": {
       "available": false,
