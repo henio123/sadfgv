@@ -24,6 +24,26 @@
       "available": false,
       "price": "139.95zł",
       "timestamp": "2025-07-09 14:45:07"
+    },
+    "White Flare Booster Bundle": {
+      "available": false,
+      "price": "115.95zł",
+      "timestamp": "2025-07-11 02:25:02"
+    },
+    "Destined Rivals - Booster": {
+      "available": false,
+      "price": "18.95zł",
+      "timestamp": "2025-07-11 02:25:02"
+    },
+    "Black Bolt Booster Bundle": {
+      "available": false,
+      "price": "115.95zł",
+      "timestamp": "2025-07-11 02:25:02"
+    },
+    "White Flare Elite Trainer Box": {
+      "available": false,
+      "price": "216.95zł",
+      "timestamp": "2025-07-11 02:25:07"
     }
   },
   "strefa_tcg": {
@@ -58,6 +78,21 @@
       "available": false,
       "price": "279,00 zł",
       "timestamp": "2025-07-09 14:45:20"
+    },
+    "Pokémon TCG: Team Rocket’s Mewtwo ex Box": {
+      "available": true,
+      "price": "129,00 zł",
+      "timestamp": "2025-07-11 02:25:12"
+    },
+    "Pokémon TCG: Black Bolt - Elite Trainer Box (PREORDER)": {
+      "available": false,
+      "price": "279,00 zł",
+      "timestamp": "2025-07-11 02:25:15"
+    },
+    "Pokémon TCG: Destined Rivals - Booster": {
+      "available": false,
+      "price": "26,99 zł",
+      "timestamp": "2025-07-11 02:25:15"
     }
   },
   "boosterpoint": {
@@ -89,6 +124,21 @@
       "available": false,
       "price": "79,99 zł",
       "timestamp": "2025-07-09 14:45:18"
+    },
+    "Pokémon TCG:  Black Bolt - Elite Trainer Box - Zekrom": {
+      "available": false,
+      "price": "279,99 zł",
+      "timestamp": "2025-07-11 02:25:13"
+    },
+    "Pokémon TCG:  Black Bolt & White Flare - Elite Trainer Box - Reshiram/Zekrom - Zestaw": {
+      "available": false,
+      "price": "559,98 zł",
+      "timestamp": "2025-07-11 02:25:14"
+    },
+    "Pokémon TCG: White Flare - Elite Trainer Box - Reshiram": {
+      "available": true,
+      "price": "279,99 zł",
+      "timestamp": "2025-07-11 02:25:15"
     }
   },
   "wilczek": {
@@ -202,6 +252,21 @@
       "available": true,
       "price": "275.00zł",
       "timestamp": "2025-07-09 14:45:25"
+    },
+    "Pokémon TCG: Scarlet and Violet 151 Booster Bundle": {
+      "available": true,
+      "price": "275.00zł",
+      "timestamp": "2025-07-11 02:25:07"
+    },
+    "Pokémon TCG Temporal Forces Elite Trainer Box Iron Leaves": {
+      "available": false,
+      "price": "200.00zł",
+      "timestamp": "2025-07-11 02:25:08"
+    },
+    "Pokémon TCG: Twilight Masquerade Elite Trainer Box": {
+      "available": false,
+      "price": "200.00zł",
+      "timestamp": "2025-07-11 02:25:08"
     }
   },
   "malysmutnymis": {
@@ -293,6 +358,11 @@
       "available": true,
       "price": "Brak ceny",
       "timestamp": "2025-07-09 14:45:32"
+    },
+    "Team Rocket's Mewtwo ex Box": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-11 02:25:09"
     }
   },
   "basanti": {
@@ -305,6 +375,16 @@
       "available": true,
       "price": "284,90 zł",
       "timestamp": "2025-07-09 14:45:35"
+    },
+    "Pokémon TCG: Scarlet and Violet 151 - Elite Trainer Box": {
+      "available": true,
+      "price": "829,90 zł",
+      "timestamp": "2025-07-11 02:25:08"
+    },
+    "Pokémon TCG: Scarlet & Violet - Elite Trainer Box (VIOLET)": {
+      "available": true,
+      "price": "249,90 zł",
+      "timestamp": "2025-07-11 02:25:11"
     }
   },
   "strefamtg": {
@@ -363,6 +443,13 @@
       "available": true,
       "price": "385,00 zł",
       "timestamp": "2025-07-09 14:45:38"
+    }
+  },
+  "dragoneye": {
+    "Pokémon TCG: Rival Battle Deck - Marnie": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-07-11 02:25:03"
     }
   }
 }
