@@ -389,14 +389,14 @@
   },
   "strefamtg": {
     "Pokemon TCG Scarlet and Violet 151 Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-12 14:48:46"
+      "available": true,
+      "price": "300,00 zł",
+      "timestamp": "2025-07-12 14:58:31"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-12 14:48:46"
+      "available": true,
+      "price": "400,00 zł",
+      "timestamp": "2025-07-12 14:58:21"
     }
   },
   "xjoy": {
