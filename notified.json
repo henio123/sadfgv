@@ -180,39 +180,39 @@
   },
   "strefakart": {
     "Pokemon TCG White Flare + Black Bolt ETB (Strefa Kart)": {
-      "available": true,
-      "price": "299,00zł",
-      "timestamp": "2025-07-09 14:45:12"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-12 15:43:29"
     },
     "Pokemon TCG:  Black Bolt – Booster Bundle – Zekrom": {
-      "available": true,
-      "price": "199,00zł",
-      "timestamp": "2025-07-09 14:45:25"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-12 15:43:43"
     },
     "Pokemon TCG: White Flare – Booster Bundle – Reshiram": {
-      "available": true,
-      "price": "199,00zł",
-      "timestamp": "2025-07-09 14:45:25"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-12 15:43:44"
     },
     "Pokémon TCG: Scarlet and Violet 151 – Booster Bundle": {
-      "available": true,
-      "price": "499,00zł",
-      "timestamp": "2025-07-09 14:45:25"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-12 15:43:43"
     },
     "Pokemon TCG: White Flare & Black Bolt – Elite Trainer Box – Zekrom": {
-      "available": true,
-      "price": "299,00zł",
-      "timestamp": "2025-07-09 14:45:25"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-12 15:43:45"
     },
     "Pokemon TCG: Team Rocket’s Mewtwo ex Box": {
-      "available": true,
-      "price": "149,00zł",
-      "timestamp": "2025-07-09 14:45:25"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-12 15:43:46"
     },
     "Pokémon TCG: Destined Rivals – Elite Trainer Box ETB": {
-      "available": true,
-      "price": "399,00zł",
-      "timestamp": "2025-07-09 14:45:26"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-12 15:43:54"
     }
   },
   "flamberg": {
