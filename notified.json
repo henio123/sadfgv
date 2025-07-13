@@ -126,19 +126,19 @@
       "timestamp": "2025-07-09 14:45:18"
     },
     "Pokémon TCG:  Black Bolt - Elite Trainer Box - Zekrom": {
-      "available": false,
+      "available": true,
       "price": "279,99 zł",
-      "timestamp": "2025-07-11 02:25:13"
+      "timestamp": "2025-07-13 20:31:35"
     },
     "Pokémon TCG:  Black Bolt & White Flare - Elite Trainer Box - Reshiram/Zekrom - Zestaw": {
-      "available": false,
+      "available": true,
       "price": "559,98 zł",
-      "timestamp": "2025-07-11 02:25:14"
+      "timestamp": "2025-07-13 20:31:36"
     },
     "Pokémon TCG: White Flare - Elite Trainer Box - Reshiram": {
-      "available": false,
+      "available": true,
       "price": "279,99 zł",
-      "timestamp": "2025-07-11 19:57:05"
+      "timestamp": "2025-07-13 20:31:36"
     }
   },
   "wilczek": {
