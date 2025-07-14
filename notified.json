@@ -180,39 +180,39 @@
   },
   "strefakart": {
     "Pokemon TCG White Flare + Black Bolt ETB (Strefa Kart)": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-14 07:43:42"
+      "available": true,
+      "price": "299,00zł",
+      "timestamp": "2025-07-14 07:55:48"
     },
     "Pokemon TCG:  Black Bolt – Booster Bundle – Zekrom": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-14 07:43:55"
+      "available": true,
+      "price": "199,00zł",
+      "timestamp": "2025-07-14 07:56:02"
     },
     "Pokemon TCG: White Flare – Booster Bundle – Reshiram": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-14 07:43:55"
+      "available": true,
+      "price": "199,00zł",
+      "timestamp": "2025-07-14 07:56:02"
     },
     "Pokémon TCG: Scarlet and Violet 151 – Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-14 07:43:56"
+      "available": true,
+      "price": "499,00zł",
+      "timestamp": "2025-07-14 07:56:02"
     },
     "Pokemon TCG: White Flare & Black Bolt – Elite Trainer Box – Zekrom": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-14 07:43:57"
+      "available": true,
+      "price": "299,00zł",
+      "timestamp": "2025-07-14 07:56:02"
     },
     "Pokemon TCG: Team Rocket’s Mewtwo ex Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-14 07:43:57"
+      "available": true,
+      "price": "149,00zł",
+      "timestamp": "2025-07-14 07:56:03"
     },
     "Pokémon TCG: Destined Rivals – Elite Trainer Box ETB": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-14 07:44:05"
+      "available": true,
+      "price": "399,00zł",
+      "timestamp": "2025-07-14 07:56:03"
     }
   },
   "flamberg": {
@@ -401,14 +401,14 @@
   },
   "xjoy": {
     "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt - Elite Trainer Box Zekrom": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-14 07:44:17"
+      "available": true,
+      "price": "299,99 zł",
+      "timestamp": "2025-07-14 07:56:12"
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - White Flare - Elite Trainer Box Reshiram": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-14 07:44:17"
+      "available": true,
+      "price": "299,99 zł",
+      "timestamp": "2025-07-14 07:56:14"
     }
   },
   "tcglove": {
