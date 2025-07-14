@@ -55,14 +55,14 @@
   },
   "loficards": {
     "Pokémon TCG: Black Bolt - Booster Bundle": {
-      "available": false,
-      "price": "109,00 zł",
-      "timestamp": "2025-07-09 14:45:11"
+      "available": true,
+      "price": "149,00 zł",
+      "timestamp": "2025-07-14 15:01:24"
     },
     "Pokemon TCG White Flare Booster Bundle (Preorder)": {
-      "available": false,
-      "price": "109,00 zł",
-      "timestamp": "2025-07-09 14:45:11"
+      "available": true,
+      "price": "149,00 zł",
+      "timestamp": "2025-07-14 15:01:24"
     },
     "151 etb": {
       "available": false,
