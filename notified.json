@@ -340,24 +340,24 @@
   },
   "centrum-mtg": {
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom ( Planowana premiera: 22 sierpnia 2025 r.)": {
-      "available": true,
+      "available": false,
       "price": "Brak ceny",
-      "timestamp": "2025-07-09 14:45:32"
+      "timestamp": "2025-07-14 21:58:31"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram ( Planowana premiera: 22 sierpnia 2025 r.)": {
-      "available": true,
+      "available": false,
       "price": "Brak ceny",
-      "timestamp": "2025-07-09 14:45:32"
+      "timestamp": "2025-07-14 21:58:31"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box (Planowana premiera: 18 lipca 2025 r.)": {
-      "available": true,
+      "available": false,
       "price": "Brak ceny",
-      "timestamp": "2025-07-09 14:45:32"
+      "timestamp": "2025-07-14 21:58:31"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box (Planowana premiera: 18 lipca 2025 r.)": {
-      "available": true,
+      "available": false,
       "price": "Brak ceny",
-      "timestamp": "2025-07-09 14:45:32"
+      "timestamp": "2025-07-14 21:58:31"
     },
     "Team Rocket's Mewtwo ex Box": {
       "available": false,
