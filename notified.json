@@ -440,9 +440,9 @@
   },
   "pokecollect": {
     "Pokémon TCG Destined Rivals Elite Trainer Box": {
-      "available": true,
-      "price": "385,00 zł",
-      "timestamp": "2025-07-09 14:45:38"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-15 22:32:58"
     }
   },
   "dragoneye": {
