@@ -115,8 +115,8 @@
   "empik": {
     "Pokemon TCG Scarlet & Violet Destined Rivals Elite Trainer Box (Empik)": {
       "available": true,
-      "price": "368,80 zł",
-      "timestamp": "2025-07-15 14:19:49"
+      "price": "369,00 zł",
+      "timestamp": "2025-07-16 19:44:35"
     }
   },
   "swiatkart": {
@@ -180,39 +180,39 @@
   },
   "strefakart": {
     "Pokemon TCG White Flare + Black Bolt ETB (Strefa Kart)": {
-      "available": true,
-      "price": "299,00zł",
-      "timestamp": "2025-07-15 07:19:31"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-16 19:44:46"
     },
     "Pokemon TCG:  Black Bolt – Booster Bundle – Zekrom": {
-      "available": true,
-      "price": "199,00zł",
-      "timestamp": "2025-07-15 07:19:42"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-16 19:44:58"
     },
     "Pokemon TCG: White Flare – Booster Bundle – Reshiram": {
-      "available": true,
-      "price": "199,00zł",
-      "timestamp": "2025-07-15 07:19:42"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-16 19:44:59"
     },
     "Pokémon TCG: Scarlet and Violet 151 – Booster Bundle": {
-      "available": true,
-      "price": "499,00zł",
-      "timestamp": "2025-07-15 07:19:42"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-16 19:45:00"
     },
     "Pokemon TCG: White Flare & Black Bolt – Elite Trainer Box – Zekrom": {
-      "available": true,
-      "price": "299,00zł",
-      "timestamp": "2025-07-15 07:19:42"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-16 19:45:01"
     },
     "Pokemon TCG: Team Rocket’s Mewtwo ex Box": {
-      "available": true,
-      "price": "149,00zł",
-      "timestamp": "2025-07-15 07:19:42"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-16 19:45:01"
     },
     "Pokémon TCG: Destined Rivals – Elite Trainer Box ETB": {
-      "available": true,
-      "price": "399,00zł",
-      "timestamp": "2025-07-15 07:19:43"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-16 19:45:09"
     }
   },
   "flamberg": {
