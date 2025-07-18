@@ -200,14 +200,14 @@
       "timestamp": "2025-07-17 10:44:55"
     },
     "Pokemon TCG: White Flare & Black Bolt – Elite Trainer Box – Zekrom": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-18 17:54:55"
+      "available": true,
+      "price": "299,00zł",
+      "timestamp": "2025-07-18 18:20:57"
     },
     "Pokemon TCG: Team Rocket’s Mewtwo ex Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-18 17:54:55"
+      "available": true,
+      "price": "149,00zł",
+      "timestamp": "2025-07-18 18:20:58"
     },
     "Pokémon TCG: Destined Rivals – Elite Trainer Box ETB": {
       "available": true,
@@ -232,9 +232,9 @@
       "timestamp": "2025-07-09 14:45:25"
     },
     "Scarlet and Violet 151 - Booster Bundle Pokémon TCG": {
-      "available": true,
-      "price": "414,00 PLN",
-      "timestamp": "2025-07-09 14:45:27"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-18 18:22:37"
     }
   },
   "battlestash": {
@@ -297,21 +297,21 @@
   },
   "strefamarzen": {
     "Pokemon TCG 151  Booster Bundle": {
-      "available": true,
-      "price": "279,99 zł",
-      "timestamp": "2025-07-09 14:45:28"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-18 18:21:46"
     }
   },
   "zgrani": {
     "POKEMON Elite Trainer Box Destined Rivals pudło 9x booster KARTY ORYGINALNE": {
-      "available": true,
-      "price": "439,99 zł",
-      "timestamp": "2025-07-09 14:45:28"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-18 18:22:26"
     },
     "Zestaw Pokemon Tcg Scarlet & Violet 151 Bundle 6x Booster ORYGINALNE KARTY": {
-      "available": true,
-      "price": "349,99 zł",
-      "timestamp": "2025-07-09 14:45:29"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-18 18:23:05"
     }
   },
   "pokeshop": {
