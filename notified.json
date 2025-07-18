@@ -126,9 +126,9 @@
       "timestamp": "2025-07-09 14:45:18"
     },
     "Pokémon TCG:  Black Bolt - Elite Trainer Box - Zekrom": {
-      "available": false,
+      "available": true,
       "price": "279,99 zł",
-      "timestamp": "2025-07-18 05:36:43"
+      "timestamp": "2025-07-18 10:34:55"
     },
     "Pokémon TCG:  Black Bolt & White Flare - Elite Trainer Box - Reshiram/Zekrom - Zestaw": {
       "available": true,
@@ -413,9 +413,9 @@
   },
   "tcglove": {
     "Pokemon TCG: Scarlet & Violet SV 10 Destined Rivals Elite Trainer Box": {
-      "available": false,
+      "available": true,
       "price": "359,00 zł",
-      "timestamp": "2025-07-17 05:31:49"
+      "timestamp": "2025-07-18 10:34:40"
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster bundle": {
       "available": true,
