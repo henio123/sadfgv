@@ -93,9 +93,9 @@
       "timestamp": "2025-07-21 17:57:24"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
-      "available": true,
-      "price": "110,00 zł",
-      "timestamp": "2025-07-21 17:59:12"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-22 20:03:07"
     }
   },
   "loficards": {
@@ -1028,9 +1028,9 @@
       "timestamp": "2025-07-22 13:57:37"
     },
     "PreOrder Pokemon TCG: Mega Evolution 01 - Elite Trainer Box - Lucario": {
-      "available": true,
+      "available": false,
       "price": "259,00 zł",
-      "timestamp": "2025-07-22 18:42:06"
+      "timestamp": "2025-07-22 20:01:35"
     },
     "PreOrder Pokemon TCG: Mega Evolution 01 - Elite Trainer Box - Gardevoir/Lucario Zestaw": {
       "available": true,
