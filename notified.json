@@ -651,24 +651,24 @@
       "timestamp": "2025-07-09 14:45:29"
     },
     "Pokémon TCG: White Flare - Binder Collection - Reshiram": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-22 09:54:10"
+      "available": true,
+      "price": "209,99 zł",
+      "timestamp": "2025-07-22 10:16:12"
     },
     "Pokémon TCG: Black Bolt - Binder Collection - Zekrom": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-22 09:54:12"
+      "available": true,
+      "price": "209,99 zł",
+      "timestamp": "2025-07-22 10:16:13"
     },
     "Pokémon TCG: Black Bolt - Elite Trainer Box - Zekrom": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-22 09:54:14"
+      "available": true,
+      "price": "329,99 zł",
+      "timestamp": "2025-07-22 10:16:13"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Victini Illustration Collection": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-22 09:54:16"
+      "available": true,
+      "price": "119,99 zł",
+      "timestamp": "2025-07-22 10:16:14"
     },
     "Pokémon TCG: White Flare - Elite Trainer Box - Reshiram": {
       "available": true,
@@ -676,9 +676,9 @@
       "timestamp": "2025-07-21 18:02:30"
     },
     "Pokémon TCG: Destined Rivals - Booster": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-22 09:54:18"
+      "available": true,
+      "price": "31,99 zł",
+      "timestamp": "2025-07-22 10:16:14"
     },
     "Pokemon TCG: Scarlet & Violet 151 - Booster": {
       "available": true,
@@ -1008,14 +1008,14 @@
       "timestamp": "2025-07-21 17:57:45"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
-      "available": false,
+      "available": true,
       "price": "179,00 zł",
-      "timestamp": "2025-07-22 04:12:30"
+      "timestamp": "2025-07-22 10:16:24"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
-      "available": false,
+      "available": true,
       "price": "179,00 zł",
-      "timestamp": "2025-07-22 04:12:30"
+      "timestamp": "2025-07-22 10:16:24"
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster": {
       "available": true,
