@@ -66,9 +66,9 @@
       "timestamp": "2025-07-23 07:04:35"
     },
     "White Flare & Black Bolt Unova Mini Tin": {
-      "available": false,
+      "available": true,
       "price": "42.95zł",
-      "timestamp": "2025-07-23 11:28:28"
+      "timestamp": "2025-07-23 13:56:09"
     }
   },
   "strefa_tcg": {
@@ -1033,9 +1033,9 @@
       "timestamp": "2025-07-22 20:01:35"
     },
     "PreOrder Pokemon TCG: Mega Evolution 01 - Elite Trainer Box - Gardevoir/Lucario Zestaw": {
-      "available": true,
+      "available": false,
       "price": "539,00 zł",
-      "timestamp": "2025-07-23 12:36:47"
+      "timestamp": "2025-07-23 13:55:20"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
       "available": true,
