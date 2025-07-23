@@ -1578,14 +1578,14 @@
       "timestamp": "2025-07-21 17:59:03"
     },
     "Pokemon TCG: Team Rocket's Mewtwo ex Box": {
-      "available": true,
-      "price": "119,00 zł",
-      "timestamp": "2025-07-21 17:59:03"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-23 10:48:47"
     },
     "Pokemon TCG: Destined Rivals Elite Trainer Box": {
-      "available": true,
-      "price": "329,00 zł",
-      "timestamp": "2025-07-21 17:59:03"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-23 10:48:47"
     },
     "Pokemon TCG: Destined Rivals - Booster": {
       "available": true,
