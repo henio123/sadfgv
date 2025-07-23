@@ -1117,14 +1117,14 @@
       "timestamp": "2025-07-11 02:25:03"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle": {
-      "available": false,
+      "available": true,
       "price": "149,90 zł",
-      "timestamp": "2025-07-21 17:57:24"
+      "timestamp": "2025-07-23 15:53:14"
     },
     "Pokémon TCG: Scarlet & Violet -White Flare - Booster Bundle": {
-      "available": false,
+      "available": true,
       "price": "149,90 zł",
-      "timestamp": "2025-07-21 17:57:25"
+      "timestamp": "2025-07-23 15:53:14"
     }
   },
   "mycards": {
