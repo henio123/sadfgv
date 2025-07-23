@@ -83,9 +83,9 @@
       "timestamp": "2025-07-22 10:59:20"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
-      "available": true,
-      "price": "179,00 zł",
-      "timestamp": "2025-07-21 17:57:24"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-23 19:35:42"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
@@ -1367,13 +1367,13 @@
     },
     "Pokémon TCG: Scarlet & Violet – Black Bolt – Booster Bundle – Zekrom": {
       "available": true,
-      "price": "139,99zł",
-      "timestamp": "2025-07-21 17:58:13"
+      "price": "149,99zł",
+      "timestamp": "2025-07-23 19:35:22"
     },
     "Pokémon TCG: Scarlet & Violet – White Flare – Booster Bundle – Reshiram": {
       "available": true,
-      "price": "139,99zł",
-      "timestamp": "2025-07-21 17:58:13"
+      "price": "149,99zł",
+      "timestamp": "2025-07-23 19:35:23"
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Gardevoir": {
       "available": false,
