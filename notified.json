@@ -365,9 +365,9 @@
       "timestamp": "2025-07-21 17:57:41"
     },
     "Pokemon TCG: White Flare & Black Bolt – Binder Collection – Zekrom": {
-      "available": true,
-      "price": "199,00złPierwotna cena wynosiła: 199,00 zł.189,00złAktualna cena wynosi: 189,00 zł.Najniższa cena sprzed 30 dni przed obniżką:189,00zł.",
-      "timestamp": "2025-07-21 17:57:41"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-23 21:30:35"
     },
     "Pokemon TCG: White Flare & Black Bolt – Unova Victini Illustration Collection": {
       "available": true,
@@ -927,8 +927,8 @@
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
       "available": true,
-      "price": "289,99 zł",
-      "timestamp": "2025-07-22 21:31:05"
+      "price": "279,99 zł",
+      "timestamp": "2025-07-23 21:30:35"
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - White Flare - Binder Collection": {
       "available": true,
