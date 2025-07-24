@@ -1091,13 +1091,13 @@
     },
     "[ Przedsprzedaż] Pokémon TCG White Flare Elite Trainer Box Reshiram": {
       "available": true,
-      "price": "278,00 zł",
-      "timestamp": "2025-07-24 13:14:37"
+      "price": "279,00 zł",
+      "timestamp": "2025-07-24 15:01:18"
     },
     "[ Przedsprzedaż ] Pokémon TCG Black Bolt Elite Trainer Box Zekrom": {
       "available": true,
-      "price": "282,00 zł",
-      "timestamp": "2025-07-23 07:53:47"
+      "price": "283,00 zł",
+      "timestamp": "2025-07-24 15:01:19"
     },
     "Pokémon TCG Destined Rivals Booster Box": {
       "available": false,
@@ -1122,9 +1122,9 @@
       "timestamp": "2025-07-24 10:14:48"
     },
     "Pokémon TCG: Scarlet & Violet -White Flare - Booster Bundle": {
-      "available": true,
+      "available": false,
       "price": "149,90 zł",
-      "timestamp": "2025-07-23 15:53:14"
+      "timestamp": "2025-07-24 14:59:32"
     }
   },
   "mycards": {
