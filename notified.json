@@ -46,14 +46,14 @@
       "timestamp": "2025-07-11 02:25:07"
     },
     "White Flare Binder Collection": {
-      "available": true,
-      "price": "165.95zł",
-      "timestamp": "2025-07-22 14:40:59"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-24 11:25:26"
     },
     "Black Bolt Binder Collection": {
-      "available": true,
-      "price": "165.95zł",
-      "timestamp": "2025-07-22 14:41:16"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-24 11:25:27"
     },
     "Destined Rivals - Elite Trainer Box": {
       "available": false,
@@ -61,9 +61,9 @@
       "timestamp": "2025-07-21 17:57:17"
     },
     "White Flare & Black Bolt - Unova Poster Collection": {
-      "available": true,
-      "price": "99.95zł",
-      "timestamp": "2025-07-24 08:00:18"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-24 11:26:15"
     },
     "White Flare & Black Bolt Unova Mini Tin": {
       "available": false,
@@ -256,9 +256,9 @@
       "timestamp": "2025-07-21 17:57:40"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-24 11:01:15"
+      "available": true,
+      "price": "109,99 złCena109,99 złCena regularna:109,99 zł-0%Najniższa cena z 30 dni przed obniżką:1,00 zł+10899%Promocja trwa do %s",
+      "timestamp": "2025-07-24 11:26:16"
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box  Lucario": {
       "available": false,
