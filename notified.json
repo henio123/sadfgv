@@ -1117,9 +1117,9 @@
       "timestamp": "2025-07-11 02:25:03"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle": {
-      "available": true,
+      "available": false,
       "price": "149,90 zł",
-      "timestamp": "2025-07-23 15:53:14"
+      "timestamp": "2025-07-24 10:14:48"
     },
     "Pokémon TCG: Scarlet & Violet -White Flare - Booster Bundle": {
       "available": true,
@@ -1588,9 +1588,9 @@
       "timestamp": "2025-07-23 10:48:47"
     },
     "Pokemon TCG: Destined Rivals - Booster": {
-      "available": true,
-      "price": "24,00 zł",
-      "timestamp": "2025-07-21 17:59:20"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-24 10:17:07"
     }
   },
   "lochyikoty": {
