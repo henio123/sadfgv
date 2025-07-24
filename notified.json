@@ -540,9 +540,9 @@
   },
   "lootquest": {
     "Pokémon TCG: Destined Rivals – Elite Trainer Box": {
-      "available": true,
-      "price": "399,99zł",
-      "timestamp": "2025-07-09 14:45:29"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-24 08:40:41"
     },
     "Pokémon TCG: White Flare – Binder Collection (PREORDER)": {
       "available": false,
