@@ -78,14 +78,14 @@
       "timestamp": "2025-07-14 21:47:36"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
-      "available": true,
-      "price": "179,00 zł",
-      "timestamp": "2025-07-22 10:59:20"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-25 05:27:59"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
-      "available": true,
-      "price": "179,00 zł",
-      "timestamp": "2025-07-24 06:42:42"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-25 05:27:55"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
@@ -1144,9 +1144,9 @@
       "timestamp": "2025-07-24 23:30:15"
     },
     "Pokémon TCG: Scarlet & Violet - 151 - Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 04:56:11"
+      "available": true,
+      "price": "333,00 zł",
+      "timestamp": "2025-07-25 05:26:39"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Elite Trainer Box set - PREORDER": {
       "available": false,
