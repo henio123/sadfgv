@@ -256,9 +256,9 @@
       "timestamp": "2025-07-21 17:57:40"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
-      "available": false,
+      "available": true,
       "price": "109,99 złCena109,99 złCena regularna:109,99 zł-0%Najniższa cena z 30 dni przed obniżką:1,00 zł+10899%Promocja trwa do %s",
-      "timestamp": "2025-07-25 19:48:06"
+      "timestamp": "2025-07-25 20:46:49"
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box  Lucario": {
       "available": false,
@@ -833,8 +833,8 @@
   "basanti": {
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
       "available": true,
-      "price": "349,90 zł",
-      "timestamp": "2025-07-09 14:45:35"
+      "price": "369,90 zł",
+      "timestamp": "2025-07-25 20:47:51"
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
       "available": true,
@@ -1595,36 +1595,36 @@
   },
   "lochyikoty": {
     "Pokemon TCG: Destined Rivals - Booster Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 19:59:26"
+      "available": true,
+      "price": "1 014,30 zł",
+      "timestamp": "2025-07-25 20:47:47"
     },
     "Pokemon TCG: 151 - Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 19:59:27"
+      "available": true,
+      "price": "310,50 zł",
+      "timestamp": "2025-07-25 20:47:47"
     },
     "Pokemon TCG: Destined Rivals - Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 19:59:29"
+      "available": true,
+      "price": "398,48 zł",
+      "timestamp": "2025-07-25 20:47:47"
     }
   },
   "moriongames": {
     "POKEMON Team Rocket,s MEWTWO-EX Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 20:00:07"
+      "available": true,
+      "price": "140,00 zł.",
+      "timestamp": "2025-07-25 20:47:48"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box GARDEVOIR": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 19:59:29"
+      "available": true,
+      "price": "320,00 zł.",
+      "timestamp": "2025-07-25 20:47:48"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box LUCARIO": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 19:59:32"
+      "available": true,
+      "price": "320,00 zł.",
+      "timestamp": "2025-07-25 20:47:48"
     },
     "POKEMON SV 10 Destined Rivals Elite  Trainer Box": {
       "available": false,
