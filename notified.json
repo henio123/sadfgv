@@ -1144,9 +1144,9 @@
       "timestamp": "2025-07-24 23:30:15"
     },
     "Pokémon TCG: Scarlet & Violet - 151 - Booster Bundle": {
-      "available": true,
-      "price": "333,00 zł",
-      "timestamp": "2025-07-24 06:42:29"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-25 04:56:11"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Elite Trainer Box set - PREORDER": {
       "available": false,
@@ -1595,36 +1595,36 @@
   },
   "lochyikoty": {
     "Pokemon TCG: Destined Rivals - Booster Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 04:14:36"
+      "available": true,
+      "price": "1 014,30 zł",
+      "timestamp": "2025-07-25 04:57:23"
     },
     "Pokemon TCG: 151 - Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 04:14:36"
+      "available": true,
+      "price": "310,50 zł",
+      "timestamp": "2025-07-25 04:57:24"
     },
     "Pokemon TCG: Destined Rivals - Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 04:14:37"
+      "available": true,
+      "price": "398,48 zł",
+      "timestamp": "2025-07-25 04:57:24"
     }
   },
   "moriongames": {
     "POKEMON Team Rocket,s MEWTWO-EX Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 04:15:16"
+      "available": true,
+      "price": "140,00 zł.",
+      "timestamp": "2025-07-25 04:57:25"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box GARDEVOIR": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 04:14:38"
+      "available": true,
+      "price": "320,00 zł.",
+      "timestamp": "2025-07-25 04:57:25"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box LUCARIO": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-25 04:14:41"
+      "available": true,
+      "price": "320,00 zł.",
+      "timestamp": "2025-07-25 04:57:25"
     },
     "POKEMON SV 10 Destined Rivals Elite  Trainer Box": {
       "available": false,
