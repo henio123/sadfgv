@@ -246,9 +246,9 @@
       "timestamp": "2025-07-25 23:37:05"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Victini Illustration Collection": {
-      "available": true,
-      "price": "114,99 złCena114,99 złCena regularna:114,99 zł-0%Najniższa cena z 30 dni przed obniżką:1,00 zł+11399%Promocja trwa do %s",
-      "timestamp": "2025-07-21 17:57:26"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-26 14:09:45"
     },
     "Pokémon TCG: Black Bolt - Binder Collection - Zekrom": {
       "available": true,
@@ -1149,9 +1149,9 @@
       "timestamp": "2025-07-25 05:26:39"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Elite Trainer Box set - PREORDER": {
-      "available": false,
+      "available": true,
       "price": "558,00 zł",
-      "timestamp": "2025-07-21 17:58:17"
+      "timestamp": "2025-07-26 14:10:18"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Unova Victini Illustration Collection -  PREORDER": {
       "available": true,
@@ -1159,9 +1159,9 @@
       "timestamp": "2025-07-24 18:55:36"
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box - ENG": {
-      "available": false,
-      "price": "315,00 zł",
-      "timestamp": "2025-07-21 17:59:16"
+      "available": true,
+      "price": "349,00 zł",
+      "timestamp": "2025-07-26 14:11:15"
     }
   },
   "redraft": {
