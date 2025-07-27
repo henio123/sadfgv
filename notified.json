@@ -1376,14 +1376,14 @@
       "timestamp": "2025-07-23 19:35:23"
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Gardevoir": {
-      "available": true,
+      "available": false,
       "price": "274,99zł",
-      "timestamp": "2025-07-25 22:41:37"
+      "timestamp": "2025-07-27 11:47:55"
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Lucario": {
-      "available": true,
+      "available": false,
       "price": "274,99zł",
-      "timestamp": "2025-07-25 22:41:38"
+      "timestamp": "2025-07-27 11:47:55"
     },
     "Pokémon TCG: Team Rocket’s Mewtwo ex Box": {
       "available": false,
