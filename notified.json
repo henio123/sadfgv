@@ -922,13 +922,13 @@
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster": {
       "available": true,
-      "price": "46,99 zł",
-      "timestamp": "2025-07-22 21:31:05"
+      "price": "49,99 zł",
+      "timestamp": "2025-07-28 09:00:48"
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
       "available": true,
-      "price": "289,99 zł",
-      "timestamp": "2025-07-27 19:51:33"
+      "price": "299,99 zł",
+      "timestamp": "2025-07-28 09:00:48"
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - White Flare - Binder Collection": {
       "available": true,
@@ -1048,9 +1048,9 @@
       "timestamp": "2025-07-21 17:58:35"
     },
     "Pokemon TCG: Scarlet & Violet SV 10 Destined Rivals Booster Box": {
-      "available": true,
+      "available": false,
       "price": "959,00 zł",
-      "timestamp": "2025-07-28 08:38:24"
+      "timestamp": "2025-07-28 09:01:29"
     },
     "Pokemon TCG: Team Rocket's Mewtwo ex Box": {
       "available": false,
