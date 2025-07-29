@@ -256,9 +256,9 @@
       "timestamp": "2025-07-21 17:57:40"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
-      "available": true,
-      "price": "109,99 złCena109,99 złCena regularna:109,99 zł-0%Najniższa cena z 30 dni przed obniżką:1,00 zł+10899%Promocja trwa do %s",
-      "timestamp": "2025-07-28 19:28:02"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-28 23:58:45"
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box  Lucario": {
       "available": false,
@@ -1376,14 +1376,14 @@
       "timestamp": "2025-07-28 16:29:47"
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Gardevoir": {
-      "available": false,
-      "price": "274,99zł",
-      "timestamp": "2025-07-27 11:47:55"
+      "available": true,
+      "price": "299,99zł",
+      "timestamp": "2025-07-28 23:58:55"
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Lucario": {
-      "available": false,
-      "price": "274,99zł",
-      "timestamp": "2025-07-27 11:47:55"
+      "available": true,
+      "price": "299,99zł",
+      "timestamp": "2025-07-28 23:58:55"
     },
     "Pokémon TCG: Team Rocket’s Mewtwo ex Box": {
       "available": false,
