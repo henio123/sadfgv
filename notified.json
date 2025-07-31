@@ -1053,9 +1053,9 @@
       "timestamp": "2025-07-28 09:39:27"
     },
     "Pokemon TCG: Team Rocket's Mewtwo ex Box": {
-      "available": false,
+      "available": true,
       "price": "145,00 zł",
-      "timestamp": "2025-07-24 17:24:13"
+      "timestamp": "2025-07-31 14:57:50"
     },
     "Pokemon TCG: Scarlet & Violet - Unova Mini Tin - Bundle (8)": {
       "available": false,
@@ -1595,36 +1595,36 @@
   },
   "lochyikoty": {
     "Pokemon TCG: Destined Rivals - Booster Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-31 14:35:51"
+      "available": true,
+      "price": "1 014,30 zł",
+      "timestamp": "2025-07-31 14:58:56"
     },
     "Pokemon TCG: 151 - Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-31 14:35:53"
+      "available": true,
+      "price": "310,50 zł",
+      "timestamp": "2025-07-31 14:58:56"
     },
     "Pokemon TCG: Destined Rivals - Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-31 14:35:53"
+      "available": true,
+      "price": "398,48 zł",
+      "timestamp": "2025-07-31 14:58:57"
     }
   },
   "moriongames": {
     "POKEMON Team Rocket,s MEWTWO-EX Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-31 14:36:32"
+      "available": true,
+      "price": "155,00 zł.",
+      "timestamp": "2025-07-31 14:58:58"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box GARDEVOIR": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-31 14:35:56"
+      "available": true,
+      "price": "320,00 zł.",
+      "timestamp": "2025-07-31 14:58:58"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box LUCARIO": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-31 14:36:07"
+      "available": true,
+      "price": "320,00 zł.",
+      "timestamp": "2025-07-31 14:58:58"
     },
     "POKEMON SV 10 Destined Rivals Elite  Trainer Box": {
       "available": false,
