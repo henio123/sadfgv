@@ -770,24 +770,24 @@
   },
   "centrum-mtg": {
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom ( Planowana premiera: 22 sierpnia 2025 r.)": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-31 11:49:39"
+      "available": true,
+      "price": "240,00",
+      "timestamp": "2025-07-31 11:58:48"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram ( Planowana premiera: 22 sierpnia 2025 r.)": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-31 11:49:39"
+      "available": true,
+      "price": "240,00",
+      "timestamp": "2025-07-31 11:58:48"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box (Planowana premiera: 18 lipca 2025 r.)": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-31 11:49:57"
+      "available": true,
+      "price": "299,00",
+      "timestamp": "2025-07-31 11:58:49"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box (Planowana premiera: 18 lipca 2025 r.)": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-31 11:50:00"
+      "available": true,
+      "price": "299,00",
+      "timestamp": "2025-07-31 11:58:49"
     },
     "Team Rocket's Mewtwo ex Box": {
       "available": true,
@@ -820,9 +820,9 @@
       "timestamp": "2025-07-21 17:58:08"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection (Planowana premiera: sierpień 2025 r.)": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-07-31 11:49:56"
+      "available": true,
+      "price": "99,00",
+      "timestamp": "2025-07-31 11:58:49"
     },
     "Pokémon TCG: Unova Mini Tin - Bundle": {
       "available": false,
