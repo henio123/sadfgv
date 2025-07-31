@@ -770,24 +770,24 @@
   },
   "centrum-mtg": {
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom ( Planowana premiera: 22 sierpnia 2025 r.)": {
-      "available": true,
+      "available": false,
       "price": "Brak ceny",
-      "timestamp": "2025-07-14 22:27:08"
+      "timestamp": "2025-07-31 11:49:39"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram ( Planowana premiera: 22 sierpnia 2025 r.)": {
-      "available": true,
+      "available": false,
       "price": "Brak ceny",
-      "timestamp": "2025-07-14 22:27:08"
+      "timestamp": "2025-07-31 11:49:39"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box (Planowana premiera: 18 lipca 2025 r.)": {
-      "available": true,
+      "available": false,
       "price": "Brak ceny",
-      "timestamp": "2025-07-14 22:26:55"
+      "timestamp": "2025-07-31 11:49:57"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box (Planowana premiera: 18 lipca 2025 r.)": {
-      "available": true,
+      "available": false,
       "price": "Brak ceny",
-      "timestamp": "2025-07-14 22:47:00"
+      "timestamp": "2025-07-31 11:50:00"
     },
     "Team Rocket's Mewtwo ex Box": {
       "available": true,
@@ -820,9 +820,9 @@
       "timestamp": "2025-07-21 17:58:08"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection (Planowana premiera: sierpień 2025 r.)": {
-      "available": true,
-      "price": "99,00",
-      "timestamp": "2025-07-21 17:58:15"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-07-31 11:49:56"
     },
     "Pokémon TCG: Unova Mini Tin - Bundle": {
       "available": false,
@@ -1096,8 +1096,8 @@
     },
     "[ Przedsprzedaż ] Pokémon TCG Black Bolt Elite Trainer Box Zekrom": {
       "available": true,
-      "price": "296,00 zł",
-      "timestamp": "2025-07-31 06:18:46"
+      "price": "298,00 zł",
+      "timestamp": "2025-07-31 11:50:26"
     },
     "Pokémon TCG Destined Rivals Booster Box": {
       "available": false,
