@@ -46,9 +46,9 @@
       "timestamp": "2025-07-11 02:25:07"
     },
     "White Flare Binder Collection": {
-      "available": true,
-      "price": "165.95zł",
-      "timestamp": "2025-07-31 05:51:59"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-03 08:22:15"
     },
     "Black Bolt Binder Collection": {
       "available": true,
@@ -1003,9 +1003,9 @@
       "timestamp": "2025-07-14 09:36:56"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
-      "available": false,
-      "price": "115,00 zł",
-      "timestamp": "2025-08-02 08:00:55"
+      "available": true,
+      "price": "119,00 zł",
+      "timestamp": "2025-08-03 08:22:52"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
       "available": false,
@@ -1024,8 +1024,8 @@
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": true,
-      "price": "99,00 zł",
-      "timestamp": "2025-07-30 13:47:07"
+      "price": "105,00 zł",
+      "timestamp": "2025-08-03 08:23:19"
     },
     "PreOrder Pokemon TCG: Mega Evolution 01 - Elite Trainer Box - Lucario": {
       "available": false,
