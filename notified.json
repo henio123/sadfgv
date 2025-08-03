@@ -1071,8 +1071,8 @@
   "pokecollect": {
     "Pokémon TCG Destined Rivals Elite Trainer Box": {
       "available": true,
-      "price": "375,00 zł",
-      "timestamp": "2025-07-17 13:46:42"
+      "price": "377,00 zł",
+      "timestamp": "2025-08-03 20:35:39"
     },
     "Pokémon TCG Black Bolt Binder Collection Zekrom": {
       "available": true,
@@ -1100,9 +1100,9 @@
       "timestamp": "2025-08-03 13:02:41"
     },
     "Pokémon TCG Destined Rivals Booster Box": {
-      "available": true,
-      "price": "1 125,00 zł",
-      "timestamp": "2025-08-01 09:57:27"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-03 20:35:39"
     },
     "Pokémon TCG Unova Mini Tin Bundle (8)": {
       "available": true,
