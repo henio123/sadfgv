@@ -46,14 +46,14 @@
       "timestamp": "2025-07-11 02:25:07"
     },
     "White Flare Binder Collection": {
-      "available": true,
-      "price": "165.95zł",
-      "timestamp": "2025-08-03 08:45:48"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-04 15:25:16"
     },
     "Black Bolt Binder Collection": {
-      "available": true,
-      "price": "165.95zł",
-      "timestamp": "2025-07-31 05:51:59"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-04 15:25:17"
     },
     "Destined Rivals - Elite Trainer Box": {
       "available": false,
