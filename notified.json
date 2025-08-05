@@ -46,9 +46,9 @@
       "timestamp": "2025-07-11 02:25:07"
     },
     "White Flare Binder Collection": {
-      "available": true,
-      "price": "165.95zł",
-      "timestamp": "2025-08-05 17:39:58"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-05 18:29:40"
     },
     "Black Bolt Binder Collection": {
       "available": false,
@@ -61,9 +61,9 @@
       "timestamp": "2025-07-21 17:57:17"
     },
     "White Flare & Black Bolt - Unova Poster Collection": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-05 17:17:11"
+      "available": true,
+      "price": "99.95zł",
+      "timestamp": "2025-08-05 18:30:48"
     },
     "White Flare & Black Bolt Unova Mini Tin": {
       "available": false,
