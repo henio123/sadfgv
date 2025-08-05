@@ -667,8 +667,8 @@
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": true,
-      "price": "119,99 zł",
-      "timestamp": "2025-08-04 16:41:26"
+      "price": "129,99 zł",
+      "timestamp": "2025-08-05 16:41:53"
     },
     "Pokémon TCG: White Flare - Elite Trainer Box - Reshiram": {
       "available": true,
@@ -1595,36 +1595,36 @@
   },
   "lochyikoty": {
     "Pokemon TCG: Destined Rivals - Booster Box": {
-      "available": true,
-      "price": "1 014,30 zł",
-      "timestamp": "2025-08-05 11:59:29"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-05 16:44:18"
     },
     "Pokemon TCG: 151 - Booster Bundle": {
-      "available": true,
-      "price": "310,50 zł",
-      "timestamp": "2025-08-05 11:59:29"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-05 16:44:18"
     },
     "Pokemon TCG: Destined Rivals - Elite Trainer Box": {
-      "available": true,
-      "price": "398,48 zł",
-      "timestamp": "2025-08-05 11:59:30"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-05 16:44:19"
     }
   },
   "moriongames": {
     "POKEMON Team Rocket,s MEWTWO-EX Box": {
-      "available": true,
-      "price": "155,00 zł.",
-      "timestamp": "2025-08-05 11:59:30"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-05 16:44:58"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box GARDEVOIR": {
-      "available": true,
-      "price": "320,00 zł.",
-      "timestamp": "2025-08-05 11:59:30"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-05 16:44:22"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box LUCARIO": {
-      "available": true,
-      "price": "320,00 zł.",
-      "timestamp": "2025-08-05 11:59:30"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-05 16:44:27"
     },
     "POKEMON SV 10 Destined Rivals Elite  Trainer Box": {
       "available": false,
