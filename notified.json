@@ -46,9 +46,9 @@
       "timestamp": "2025-07-11 02:25:07"
     },
     "White Flare Binder Collection": {
-      "available": true,
-      "price": "165.95zł",
-      "timestamp": "2025-08-05 21:42:00"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-05 22:18:18"
     },
     "Black Bolt Binder Collection": {
       "available": true,
@@ -350,9 +350,9 @@
       "timestamp": "2025-08-02 17:39:41"
     },
     "Pokemon TCG: Team Rocket’s Mewtwo ex Box": {
-      "available": true,
+      "available": false,
       "price": "149,00złPierwotna cena wynosiła: 149,00 zł.129,00złAktualna cena wynosi: 129,00 zł.Najniższa cena sprzed 30 dni przed obniżką:129,00zł.",
-      "timestamp": "2025-08-02 17:40:55"
+      "timestamp": "2025-08-05 22:20:24"
     },
     "Pokémon TCG: Destined Rivals – Elite Trainer Box ETB": {
       "available": false,
@@ -1145,8 +1145,8 @@
     },
     "Pokémon TCG: Scarlet & Violet - 151 - Booster Bundle": {
       "available": true,
-      "price": "299,00 zł",
-      "timestamp": "2025-08-02 17:16:25"
+      "price": "333,00 zł",
+      "timestamp": "2025-08-05 22:18:48"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Elite Trainer Box set - PREORDER": {
       "available": true,
