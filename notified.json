@@ -78,9 +78,9 @@
       "timestamp": "2025-07-14 21:47:36"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
-      "available": true,
-      "price": "179,00 zł",
-      "timestamp": "2025-08-06 05:06:24"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-06 16:32:06"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
       "available": true,
@@ -1452,9 +1452,9 @@
   },
   "aleplanszowki": {
     "Pokémon TCG: Scarlet & Violet - Team Rocket’s Mewtwo ex Box": {
-      "available": true,
-      "price": "179,95 zł",
-      "timestamp": "2025-08-04 16:42:46"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-06 16:34:04"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt & White Flare - Binder Collection - Reshiram": {
       "available": true,
