@@ -216,9 +216,9 @@
       "timestamp": "2025-07-09 14:45:18"
     },
     "Pokémon TCG:  Black Bolt - Elite Trainer Box - Zekrom": {
-      "available": true,
+      "available": false,
       "price": "289,99 złCena289,99 złCena regularna:289,99 zł-0%Najniższa cena z 30 dni przed obniżką:1,00 zł+28899%Promocja trwa do %s",
-      "timestamp": "2025-08-06 10:38:56"
+      "timestamp": "2025-08-07 20:48:40"
     },
     "Pokémon TCG:  Black Bolt & White Flare - Elite Trainer Box - Reshiram/Zekrom - Zestaw": {
       "available": false,
@@ -251,14 +251,14 @@
       "timestamp": "2025-08-07 08:56:21"
     },
     "Pokémon TCG: Black Bolt - Binder Collection - Zekrom": {
-      "available": true,
+      "available": false,
       "price": "189,99 złCena189,99 złCena regularna:189,99 zł-0%Najniższa cena z 30 dni przed obniżką:1,00 zł+18899%Promocja trwa do %s",
-      "timestamp": "2025-08-05 21:56:02"
+      "timestamp": "2025-08-07 20:48:26"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
-      "available": true,
+      "available": false,
       "price": "109,99 złCena109,99 złCena regularna:109,99 zł-0%Najniższa cena z 30 dni przed obniżką:1,00 zł+10899%Promocja trwa do %s",
-      "timestamp": "2025-08-07 17:36:02"
+      "timestamp": "2025-08-07 20:49:24"
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box  Lucario": {
       "available": false,
