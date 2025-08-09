@@ -978,9 +978,9 @@
   },
   "tcglove": {
     "Pokemon TCG: Scarlet & Violet SV 10 Destined Rivals Elite Trainer Box": {
-      "available": true,
+      "available": false,
       "price": "359,00 zł",
-      "timestamp": "2025-08-06 17:35:53"
+      "timestamp": "2025-08-09 07:23:57"
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster bundle": {
       "available": false,
@@ -1018,9 +1018,9 @@
       "timestamp": "2025-07-29 12:55:49"
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster": {
-      "available": true,
+      "available": false,
       "price": "55,00 zł",
-      "timestamp": "2025-07-21 17:57:47"
+      "timestamp": "2025-08-09 07:20:54"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": true,
