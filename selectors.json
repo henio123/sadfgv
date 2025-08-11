@@ -8,8 +8,7 @@
   "loficards": {
     "price": "div.col-xs-12 > div.product-price > span.price-special > span.core_priceFormat.core_cardPriceSpecial",
     "title": "section.heading.inside.to-left > ul > li > h1.title",
-    "availability": "div.row > div.col-xs-12 > div.product-add-to-cart > button.add-to-cart.ng-scope",
-    "use_selenium": true
+    "availability": "body > main > section.product-card.mod-product-card-1 > div > div > div:nth-child(1) > div > div.col-xxs.col-sm-7.col-md-7 > section > div:nth-child(2) > div > div.product-add-to-cart > div > div > div.col-xs-6 > input"
   },
   "boosterpoint": {
     "price": "p.price > span:nth-child(1) > bdi:nth-child(1)",
@@ -258,6 +257,30 @@
     "price": ".current-price > span:nth-child(1)",
     "title": "div.row.pp_stick_parent > div.col-lg-6.col-content.pp_stick_it > div.col-content-inside > h1.h1.product-title",
     "availability": ".product-quantities",
+    "use_selenium": false
+  },
+   "bastacenter": {
+    "price": "body > main > div:nth-child(2) > div > div.mt-xs-2.grid__col.grid__col_xs-12.grid__col_sm-12.grid__col_lg-grow.grid__col_xxl-grow.pb-xs-2.pb-sm-2.pb-lg-2.pb-xxl-2 > div:nth-child(5) > product-price > h-tab-panel.js__product-price-gross > h-tab-panel > div > div.product-price__base-price",
+    "title": "div.grid__row.grid__row_xs-hcenter.grid__row_sm-hcenter.grid__row_lg-hcenter.grid__row_xxl-hcenter.grid__row_xs-vtop.grid__row_sm-vtop.grid__row_lg-vtop.grid__row_xxl-vtop > div.mt-xs-2.grid__col.grid__col_xs-12.grid__col_sm-12.grid__col_lg-grow.grid__col_xxl-grow.pb-xs-2.pb-sm-2.pb-lg-2.pb-xxl-2 > div.module > h1.section-title.product-section-title",
+    "availability": "div > buy-button.product-actions__buy-button > div.product-actions__add-to-basket > button.btn.btn_primary.btn_full-width",
+    "use_selenium": false
+  },
+  "pokegemcollector": {
+    "price": "div.basket > div.price > div.price__container > em.main-price",
+    "title": "div.centercol.s-grid-9 > div.box.row > div.boxhead > h1.name",
+    "availability": "#box_productfull > div.innerbox.product-main-box > div > div > div:nth-child(2) > div.availability.row > div > div.shipping-costs > a > span",
+    "use_selenium": false
+  },
+  "vanaheim": {
+    "price": "li > p.our_order_price > span.our_price_display > span",
+    "title": "div > div.clearfix > div > h1.vh-product-title",
+    "availability": "#pb-left-column > p:nth-child(9)",
+    "use_selenium": false
+  },
+  "am76": {
+    "price": "div.row > div.col-sm-4 > span.new > span.price.toolip-info",
+    "title": "div.col-sm-10 > div.page-header > header > h1",
+    "availability": "div.media-body > div.row > div.col-sm-4 > div.small.alert.alert-success",
     "use_selenium": false
   }
 }
