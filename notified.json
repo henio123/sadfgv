@@ -951,39 +951,39 @@
       "timestamp": "2025-08-11 20:03:13"
     },
     "Pokémon TCG: Destined Rivals - Booster Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:03:51"
+      "available": true,
+      "price": "1 249,99 zł",
+      "timestamp": "2025-08-11 20:37:01"
     },
     "Pokemon TCG: Scarlet & Violet 151 - Booster Bundle (6 boosterów)": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:04:18"
+      "available": true,
+      "price": "499,99 zł",
+      "timestamp": "2025-08-11 20:37:27"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Mini Tin - Display": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:04:36"
+      "available": true,
+      "price": "559,99 zł",
+      "timestamp": "2025-08-11 20:37:38"
     },
     "Pokémon TCG: Destined Rivals - Checklane - Zarude": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:06:24"
+      "available": true,
+      "price": "44,99 zł",
+      "timestamp": "2025-08-11 20:38:34"
     },
     "Pokémon TCG: Destined Rivals - Sleeved Booster": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:06:24"
+      "available": true,
+      "price": "39,99 zł",
+      "timestamp": "2025-08-11 20:38:34"
     },
     "Pokémon TCG: White Flare - Tech Sticker - Gothitelle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:08:16"
+      "available": true,
+      "price": "84,99 zł",
+      "timestamp": "2025-08-11 20:40:08"
     },
     "Pokémon TCG: Black Bolt - Tech Sticker - Reuniclus": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:08:17"
+      "available": true,
+      "price": "84,99 zł",
+      "timestamp": "2025-08-11 20:40:09"
     }
   },
   "poke-collectibles": {
@@ -2310,36 +2310,36 @@
   },
   "lochyikoty": {
     "Pokemon TCG: Destined Rivals - Booster Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:04:45"
+      "available": true,
+      "price": "1 014,30 zł",
+      "timestamp": "2025-08-11 20:37:46"
     },
     "Pokemon TCG: 151 - Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:04:46"
+      "available": true,
+      "price": "310,50 zł",
+      "timestamp": "2025-08-11 20:37:47"
     },
     "Pokemon TCG: Destined Rivals - Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:04:47"
+      "available": true,
+      "price": "398,48 zł",
+      "timestamp": "2025-08-11 20:37:47"
     }
   },
   "moriongames": {
     "POKEMON Team Rocket,s MEWTWO-EX Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:05:25"
+      "available": true,
+      "price": "155,00 zł.",
+      "timestamp": "2025-08-11 20:37:48"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box GARDEVOIR": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:04:59"
+      "available": true,
+      "price": "400,00 zł.",
+      "timestamp": "2025-08-11 20:37:47"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box LUCARIO": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:05:17"
+      "available": true,
+      "price": "400,00 zł.",
+      "timestamp": "2025-08-11 20:37:47"
     },
     "POKEMON SV 10 Destined Rivals Elite  Trainer Box": {
       "available": false,
@@ -2347,14 +2347,14 @@
       "timestamp": "2025-07-21 17:59:20"
     },
     "POKEMON SV 10 Destined Rivals Booster": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:07:24"
+      "available": true,
+      "price": "30,00 zł.",
+      "timestamp": "2025-08-11 20:39:23"
     },
     "POKEMON Scarlet and Violet 151 Booster  Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 20:08:09"
+      "available": true,
+      "price": "300,00 zł.",
+      "timestamp": "2025-08-11 20:40:04"
     }
   },
   "mepel": {
