@@ -69,6 +69,16 @@
       "available": false,
       "price": "42.95zł",
       "timestamp": "2025-07-23 17:47:08"
+    },
+    "Destined Rivals - Sleeved Booster": {
+      "available": false,
+      "price": "18.95zł",
+      "timestamp": "2025-08-11 15:53:22"
+    },
+    "Destined Rivals – Checklane Blister": {
+      "available": false,
+      "price": "23.95zł",
+      "timestamp": "2025-08-11 15:53:22"
     }
   },
   "strefa_tcg": {
@@ -96,6 +106,16 @@
       "available": false,
       "price": "110,00 zł",
       "timestamp": "2025-07-27 15:50:03"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
+      "available": false,
+      "price": "68,00 zł",
+      "timestamp": "2025-08-11 15:53:49"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle": {
+      "available": false,
+      "price": "68,00 zł",
+      "timestamp": "2025-08-11 15:53:49"
     }
   },
   "loficards": {
@@ -121,8 +141,8 @@
     },
     "Pokémon TCG: White Flare - Elite Trainer Box (PREORDER)": {
       "available": true,
-      "price": "309,00 zł",
-      "timestamp": "2025-08-09 01:00:57"
+      "price": "309.00",
+      "timestamp": "2025-08-11 15:50:52"
     },
     "Pokémon TCG: Team Rocket’s Mewtwo ex Box": {
       "available": false,
@@ -131,8 +151,8 @@
     },
     "Pokémon TCG: Black Bolt - Elite Trainer Box (PREORDER)": {
       "available": true,
-      "price": "309,00 zł",
-      "timestamp": "2025-08-09 01:00:55"
+      "price": "309.00",
+      "timestamp": "2025-08-11 15:50:52"
     },
     "Pokémon TCG: Destined Rivals - Booster": {
       "available": false,
@@ -141,28 +161,38 @@
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection (PREORDER)": {
       "available": true,
-      "price": "119,00 zł",
-      "timestamp": "2025-08-08 12:58:31"
+      "price": "119.00",
+      "timestamp": "2025-08-11 15:50:33"
     },
     "Pokémon TCG: White Flare - Binder Collection (PREORDER)": {
       "available": true,
-      "price": "179,00 zł",
-      "timestamp": "2025-08-05 14:03:44"
+      "price": "179.00",
+      "timestamp": "2025-08-11 15:50:51"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection (PREORDER)": {
       "available": true,
-      "price": "129,00 zł",
-      "timestamp": "2025-08-01 14:45:40"
+      "price": "129.00",
+      "timestamp": "2025-08-11 15:50:50"
     },
     "Pokémon TCG: Black Bolt - Binder Collection (PREORDER)": {
       "available": true,
-      "price": "179,00 zł",
-      "timestamp": "2025-07-21 17:57:29"
+      "price": "179.00",
+      "timestamp": "2025-08-11 15:50:51"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Mini Tin Display (PREORDER)": {
       "available": false,
       "price": "340,00 zł",
       "timestamp": "2025-07-21 17:59:06"
+    },
+    "Pokémon TCG: Mega Evolution – Elite Trainer Box (Lucario)": {
+      "available": false,
+      "price": "289.00",
+      "timestamp": "2025-08-11 15:54:50"
+    },
+    "Pokémon TCG: Mega Evolution - Elite Trainer Box (Gardevoir)": {
+      "available": false,
+      "price": "289.00",
+      "timestamp": "2025-08-11 15:54:51"
     }
   },
   "boosterpoint": {
@@ -200,6 +230,31 @@
       "available": true,
       "price": "375,00zł",
       "timestamp": "2025-08-08 13:01:06"
+    },
+    "Pokémon TCG: Scarlet & Violet – Black Bolt – Tech Sticker – Reuniclus": {
+      "available": false,
+      "price": "68,95zł",
+      "timestamp": "2025-08-11 15:53:44"
+    },
+    "Pokémon TCG: Scarlet & Violet – White Flare – Tech Sticker – Gothitelle": {
+      "available": false,
+      "price": "68,95zł",
+      "timestamp": "2025-08-11 15:53:45"
+    },
+    "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Victini Illustration Collection": {
+      "available": false,
+      "price": "99,00zł",
+      "timestamp": "2025-08-11 15:53:45"
+    },
+    "Pokémon TCG: Scarlet & Violet – Destined Rivals – booster pack": {
+      "available": false,
+      "price": "27,50zł",
+      "timestamp": "2025-08-11 15:54:04"
+    },
+    "Pokémon TCG: Scarlet & Violet – Destined Rivals – booster box": {
+      "available": false,
+      "price": "849,00zł",
+      "timestamp": "2025-08-11 15:54:04"
     }
   },
   "empik": {
@@ -321,6 +376,21 @@
       "available": false,
       "price": "974,99 zł",
       "timestamp": "2025-07-21 17:58:36"
+    },
+    "Pokémon TCG - Destined Rivals - 3-Pack Blister": {
+      "available": false,
+      "price": "99,99 zł",
+      "timestamp": "2025-08-11 15:53:34"
+    },
+    "Pokémon TCG - Destined Rivals - Booster": {
+      "available": true,
+      "price": "27,99 zł",
+      "timestamp": "2025-08-11 15:53:34"
+    },
+    "Pokémon TCG - Destined Rivals - Checklane Blister": {
+      "available": false,
+      "price": "29,99 zł",
+      "timestamp": "2025-08-11 15:53:35"
     }
   },
   "strefakart": {
@@ -403,6 +473,36 @@
       "available": false,
       "price": "30,00zł",
       "timestamp": "2025-07-21 17:59:16"
+    },
+    "Pokemon TCG: White Flare & Black Bolt – Binder Collection – Reshiram": {
+      "available": true,
+      "price": "199,00złPierwotna cena wynosiła: 199,00 zł.189,00złAktualna cena wynosi: 189,00 zł.Najniższa cena sprzed 30 dni przed obniżką:189,00zł.",
+      "timestamp": "2025-08-11 15:53:27"
+    },
+    "Pokemon TCG: Black Bolt – Tech Sticker – Reuniclus": {
+      "available": true,
+      "price": "99,00złPierwotna cena wynosiła: 99,00 zł.79,00złAktualna cena wynosi: 79,00 zł.Najniższa cena sprzed 30 dni przed obniżką:79,00zł.",
+      "timestamp": "2025-08-11 15:53:38"
+    },
+    "Pokemon TCG: White Flare – Tech Sticker – Gothitelle": {
+      "available": true,
+      "price": "99,00złPierwotna cena wynosiła: 99,00 zł.79,00złAktualna cena wynosi: 79,00 zł.Najniższa cena sprzed 30 dni przed obniżką:159,00zł.",
+      "timestamp": "2025-08-11 15:53:38"
+    },
+    "Pokemon TCG: Black Bolt – Binder – Reshiram": {
+      "available": true,
+      "price": "99,00zł",
+      "timestamp": "2025-08-11 15:54:20"
+    },
+    "Pokemon TCG: Mega Evolution – Elite Trainer Box – Lucario": {
+      "available": true,
+      "price": "399,00złPierwotna cena wynosiła: 399,00 zł.389,00złAktualna cena wynosi: 389,00 zł.Najniższa cena sprzed 30 dni przed obniżką:349,00zł.",
+      "timestamp": "2025-08-11 15:54:40"
+    },
+    "Pokemon TCG: Mega Evolution – Elite Trainer Box – Gardevoir": {
+      "available": true,
+      "price": "399,00złPierwotna cena wynosiła: 399,00 zł.349,00złAktualna cena wynosi: 349,00 zł.Najniższa cena sprzed 30 dni przed obniżką:349,00zł.",
+      "timestamp": "2025-08-11 15:54:41"
     }
   },
   "flamberg": {
@@ -425,6 +525,61 @@
       "available": true,
       "price": "414,00 PLN",
       "timestamp": "2025-07-18 19:28:00"
+    },
+    "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
+      "available": false,
+      "price": "349,00 PLN",
+      "timestamp": "2025-08-11 15:54:05"
+    },
+    "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster": {
+      "available": false,
+      "price": "30,00 PLN",
+      "timestamp": "2025-08-11 15:54:05"
+    },
+    "Pokémon TCG: Scarlet & Violet 10,5 - Black Bolt - Elite Trainer Box": {
+      "available": true,
+      "price": "299,00 PLN",
+      "timestamp": "2025-08-11 15:54:19"
+    },
+    "Pokémon TCG: Scarlet & Violet 10,5 - Black Bolt - Binder Collection - Zekrom": {
+      "available": true,
+      "price": "189,00 PLN",
+      "timestamp": "2025-08-11 15:54:19"
+    },
+    "Pokémon TCG: Scarlet & Violet 10,5 - White Flare & Black Bolt - Unova Poster Collection": {
+      "available": true,
+      "price": "129,00 PLN",
+      "timestamp": "2025-08-11 15:54:20"
+    },
+    "Pokémon TCG: Scarlet & Violet 10,5 - White Flare & Black Bolt - Unova Victini Illustration Collection": {
+      "available": true,
+      "price": "119,00 PLN",
+      "timestamp": "2025-08-11 15:54:21"
+    },
+    "Pokémon TCG: Scarlet & Violet 10,5 - White Flare - Elite Trainer Box": {
+      "available": true,
+      "price": "299,00 PLN",
+      "timestamp": "2025-08-11 15:54:36"
+    },
+    "Pokémon TCG: Scarlet & Violet 10,5 - White Flare - Binder Collection - Reshiram": {
+      "available": true,
+      "price": "189,00 PLN",
+      "timestamp": "2025-08-11 15:54:37"
+    },
+    "Pokémon TCG: Team Rocket's Mewtwo ex Box": {
+      "available": true,
+      "price": "169,00 PLN",
+      "timestamp": "2025-08-11 15:54:54"
+    },
+    "Pokémon TCG: Rival Battle Deck - Marnie": {
+      "available": false,
+      "price": "99,00 PLN",
+      "timestamp": "2025-08-11 15:54:54"
+    },
+    "Unova Mini Tin 10,5  -Alomomola , Axew Pokemon TCG": {
+      "available": true,
+      "price": "65,00 PLN",
+      "timestamp": "2025-08-11 15:54:55"
     }
   },
   "battlestash": {
@@ -467,6 +622,36 @@
       "available": false,
       "price": "89.00zł",
       "timestamp": "2025-07-21 17:58:46"
+    },
+    "Pokémon TCG White Flare Binder Collection Reshiram": {
+      "available": true,
+      "price": "170.00zł",
+      "timestamp": "2025-08-11 15:53:18"
+    },
+    "Pokémon TCG: Destined Rivals Booster Box": {
+      "available": false,
+      "price": "750.00zł",
+      "timestamp": "2025-08-11 15:53:18"
+    },
+    "Pokémon TCG Black Bolt Binder Collection Zekrom": {
+      "available": true,
+      "price": "170.00zł",
+      "timestamp": "2025-08-11 15:53:18"
+    },
+    "Pokémon TCG Black Bolt & White Flare Unova Poster Collection": {
+      "available": true,
+      "price": "105.00zł",
+      "timestamp": "2025-08-11 15:53:19"
+    },
+    "Pokémon TCG: Shrouded Fable – Elite Trainer Box": {
+      "available": false,
+      "price": "180.00zł",
+      "timestamp": "2025-08-11 15:53:27"
+    },
+    "Pokémon TCG: Unova Mini Tin Bundle": {
+      "available": true,
+      "price": "420.00zł",
+      "timestamp": "2025-08-11 15:54:19"
     }
   },
   "malysmutnymis": {
@@ -536,6 +721,11 @@
       "available": true,
       "price": "30,99 zł",
       "timestamp": "2025-08-04 16:44:00"
+    },
+    "Pokemon TCG: Scarlet & Violet - White Flare - Booster": {
+      "available": true,
+      "price": "24,99 zł",
+      "timestamp": "2025-08-11 15:53:28"
     }
   },
   "lootquest": {
@@ -583,6 +773,46 @@
       "available": false,
       "price": "999,99zł",
       "timestamp": "2025-07-21 17:58:33"
+    },
+    "Pokémon TCG: Destined Rivals – 3PK Blister – Zebstrika": {
+      "available": false,
+      "price": "134,99zł",
+      "timestamp": "2025-08-11 15:53:24"
+    },
+    "Pokémon TCG: Black Bolt & White Flare – Unova Mini Tin – Zestaw (8 wzorów)": {
+      "available": false,
+      "price": "599,99zł",
+      "timestamp": "2025-08-11 15:54:21"
+    },
+    "Pokémon TCG: Black Bolt – Booster Bundle (PREORDER)": {
+      "available": false,
+      "price": "219,99zł",
+      "timestamp": "2025-08-11 15:54:21"
+    },
+    "Pokémon TCG: White Flare – Booster Bundle (PREORDER)": {
+      "available": false,
+      "price": "219,99zł",
+      "timestamp": "2025-08-11 15:54:37"
+    },
+    "Pokémon TCG: 151 – Booster Bundle": {
+      "available": false,
+      "price": "499,99zł",
+      "timestamp": "2025-08-11 15:54:46"
+    },
+    "Pokémon TCG: 151 – Booster": {
+      "available": false,
+      "price": "99,99zł",
+      "timestamp": "2025-08-11 15:54:47"
+    },
+    "Pokémon TCG: Mega Evolution – Elite Trainer Box – Gardevoir (PREORDER)": {
+      "available": false,
+      "price": "499,99zł",
+      "timestamp": "2025-08-11 15:54:49"
+    },
+    "Pokémon TCG: Mega Evolution – Elite Trainer Box – Lucario (PREORDER)": {
+      "available": false,
+      "price": "499,99zł",
+      "timestamp": "2025-08-11 15:54:50"
     }
   },
   "strefamarzen": {
@@ -615,6 +845,26 @@
       "available": true,
       "price": "Brak ceny",
       "timestamp": "2025-07-21 17:59:07"
+    },
+    "Pokemon TCG Scarlet & Violet Destined Rivals Booster": {
+      "available": true,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:54:05"
+    },
+    "Pokemon TCG Scarlet & Violet Black Bolt - Tech Sticker - Reuniclus": {
+      "available": true,
+      "price": "75,99 zł",
+      "timestamp": "2025-08-11 15:54:22"
+    },
+    "Pokemon TCG Scarlet & Violet White Flare Tech Sticker Gothitelle": {
+      "available": true,
+      "price": "75,99 zł",
+      "timestamp": "2025-08-11 15:54:36"
+    },
+    "Pokemon TCG Scarlet&Violet Black Bolt & White Flare Victini Illustration Collection": {
+      "available": true,
+      "price": "99,99 zł",
+      "timestamp": "2025-08-11 15:54:55"
     }
   },
   "zgrani": {
@@ -632,6 +882,11 @@
       "available": true,
       "price": "119,99 zł",
       "timestamp": "2025-07-21 17:58:04"
+    },
+    "Pokemon TCG Scarlet Violet 151 Booster Pokemony saszetka ORYGINALNE KARTY": {
+      "available": true,
+      "price": "54,99 zł",
+      "timestamp": "2025-08-11 15:53:36"
     }
   },
   "pokeshop": {
@@ -709,6 +964,26 @@
       "available": true,
       "price": "559,99 zł",
       "timestamp": "2025-08-11 14:22:57"
+    },
+    "Pokémon TCG: Destined Rivals - Checklane - Zarude": {
+      "available": true,
+      "price": "44,99 zł",
+      "timestamp": "2025-08-11 15:53:26"
+    },
+    "Pokémon TCG: Destined Rivals - Sleeved Booster": {
+      "available": true,
+      "price": "39,99 zł",
+      "timestamp": "2025-08-11 15:53:27"
+    },
+    "Pokémon TCG: White Flare - Tech Sticker - Gothitelle": {
+      "available": true,
+      "price": "84,99 zł",
+      "timestamp": "2025-08-11 15:54:51"
+    },
+    "Pokémon TCG: Black Bolt - Tech Sticker - Reuniclus": {
+      "available": true,
+      "price": "84,99 zł",
+      "timestamp": "2025-08-11 15:54:53"
     }
   },
   "poke-collectibles": {
@@ -766,6 +1041,21 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-07-21 17:59:08"
+    },
+    "Pokémon TCG: Scarlet & Violet – Black Bolt Booster": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:53:27"
+    },
+    "Pokémon TCG: Scarlet & Violet – White Flare Booster": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:53:28"
+    },
+    "Pokémon TCG: Scarlet & Violet – Destined Rivals Booster": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:54:06"
     }
   },
   "centrum-mtg": {
@@ -828,6 +1118,16 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-07-22 19:27:33"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus (Planowana premiera: 1 sierpnia 2025)": {
+      "available": true,
+      "price": "96,00",
+      "timestamp": "2025-08-11 15:53:39"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle (Planowana premiera: 1 sierpnia 2025)": {
+      "available": true,
+      "price": "96,00",
+      "timestamp": "2025-08-11 15:53:39"
     }
   },
   "basanti": {
@@ -838,8 +1138,8 @@
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
       "available": true,
-      "price": "284,90 zł",
-      "timestamp": "2025-07-09 14:45:35"
+      "price": "289,90 zł",
+      "timestamp": "2025-08-11 15:54:46"
     },
     "Pokémon TCG: Scarlet and Violet 151 - Elite Trainer Box": {
       "available": true,
@@ -860,6 +1160,21 @@
       "available": true,
       "price": "159,90 zł",
       "timestamp": "2025-07-21 17:58:46"
+    },
+    "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
+      "available": true,
+      "price": "124,90 zł",
+      "timestamp": "2025-08-11 15:53:19"
+    },
+    "Zestaw: 2x Pokémon TCG: Black Bolt & White Flare - Binder Collection - Reshiram + /Zekrom": {
+      "available": true,
+      "price": "389,90 zł",
+      "timestamp": "2025-08-11 15:53:21"
+    },
+    "Zestaw: 8x Pokémon TCG: Unova Mini Tin - Bundle": {
+      "available": true,
+      "price": "499,90 zł",
+      "timestamp": "2025-08-11 15:53:22"
     }
   },
   "strefamtg": {
@@ -907,6 +1222,11 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-07-21 17:59:07"
+    },
+    "Pokemon SV10 Destined Rivals Booster Box": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:53:20"
     }
   },
   "xjoy": {
@@ -974,6 +1294,26 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-08-01 13:26:22"
+    },
+    "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box(36)": {
+      "available": true,
+      "price": "999,99 zł",
+      "timestamp": "2025-08-11 15:53:20"
+    },
+    "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt - Tech Sticker - Reuniclus": {
+      "available": true,
+      "price": "89,99 zł",
+      "timestamp": "2025-08-11 15:53:50"
+    },
+    "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt & White Flare Victini Illustration Collection": {
+      "available": true,
+      "price": "119,99 zł",
+      "timestamp": "2025-08-11 15:53:51"
+    },
+    "Pokémon TCG: Scarlet & Violet 10.5 -  White Flare - Tech Sticker - Gothitelle": {
+      "available": true,
+      "price": "89,99 zł",
+      "timestamp": "2025-08-11 15:53:51"
     }
   },
   "tcglove": {
@@ -1066,6 +1406,51 @@
       "available": true,
       "price": "29,00 zł",
       "timestamp": "2025-07-21 17:59:32"
+    },
+    "Pokemon 3 Karty Promo - z zestawu Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
+      "available": true,
+      "price": "9,00 zł",
+      "timestamp": "2025-08-11 15:53:28"
+    },
+    "Pokemon Plakat - z zestawu  Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
+      "available": true,
+      "price": "5,00 zł",
+      "timestamp": "2025-08-11 15:53:28"
+    },
+    "PreOrder Pokemon TCG: Mega Evolution 01 - Elite Trainer Box - Gardevoir": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:53:28"
+    },
+    "Pokemon TCG: Scarlet & Violet - Black Bolt - Booster": {
+      "available": true,
+      "price": "26,00 zł",
+      "timestamp": "2025-08-11 15:53:29"
+    },
+    "Pokemon TCG: Scarlet & Violet - White Flare - Booster": {
+      "available": true,
+      "price": "26,00 zł",
+      "timestamp": "2025-08-11 15:53:31"
+    },
+    "Pokemon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
+      "available": true,
+      "price": "105,00 zł",
+      "timestamp": "2025-08-11 15:53:31"
+    },
+    "Pokemon TCG: Scarlet and Violet 151 - Booster Bundle 10-Pack": {
+      "available": true,
+      "price": "3 199,00 zł",
+      "timestamp": "2025-08-11 15:53:33"
+    },
+    "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
+      "available": true,
+      "price": "79,00 zł",
+      "timestamp": "2025-08-11 15:53:40"
+    },
+    "PreOrder Pokemon TCG: Scarlet & Violet - White Flare  - Tech Sticker - Gothitelle": {
+      "available": true,
+      "price": "79,00 zł",
+      "timestamp": "2025-08-11 15:53:40"
     }
   },
   "pokecollect": {
@@ -1108,6 +1493,21 @@
       "available": true,
       "price": "479,90 zł",
       "timestamp": "2025-07-24 06:44:02"
+    },
+    "Pokémon TCG Black Bolt Tech Sticker Reuniclus": {
+      "available": true,
+      "price": "79,00 zł",
+      "timestamp": "2025-08-11 15:53:58"
+    },
+    "Pokémon TCG White Flare & Black Bolt Unova Victini Illustration Collection": {
+      "available": true,
+      "price": "130,00 zł",
+      "timestamp": "2025-08-11 15:54:00"
+    },
+    "Pokémon TCG White Flare Tech Sticker Gothitelle": {
+      "available": true,
+      "price": "79,00 zł",
+      "timestamp": "2025-08-11 15:54:00"
     }
   },
   "dragoneye": {
@@ -1125,6 +1525,16 @@
       "available": false,
       "price": "149,90 zł",
       "timestamp": "2025-07-26 12:00:55"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle": {
+      "available": false,
+      "price": "65,00 zł",
+      "timestamp": "2025-08-11 15:53:49"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
+      "available": false,
+      "price": "65,00 zł",
+      "timestamp": "2025-08-11 15:53:50"
     }
   },
   "mycards": {
@@ -1162,6 +1572,36 @@
       "available": true,
       "price": "349,00 zł",
       "timestamp": "2025-07-26 14:11:15"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster": {
+      "available": true,
+      "price": "26,90 zł",
+      "timestamp": "2025-08-11 15:53:23"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Booster": {
+      "available": true,
+      "price": "26,90 zł",
+      "timestamp": "2025-08-11 15:53:25"
+    },
+    "Pokémon TCG: Scarlet & Violet -  Black Bolt - Tech Sticker - Reuniclus": {
+      "available": true,
+      "price": "89,00 zł",
+      "timestamp": "2025-08-11 15:53:47"
+    },
+    "Pokémon TCG: Scarlet & Violet -  White Flare - Tech Sticker - Gothitelle": {
+      "available": true,
+      "price": "89,00 zł",
+      "timestamp": "2025-08-11 15:53:49"
+    },
+    "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36 booster)": {
+      "available": true,
+      "price": "999,00 zł",
+      "timestamp": "2025-08-11 15:54:02"
+    },
+    "Pokémon TCG: Scarlet & Violet - Team Rocket's Mewtwo ex Box - 4 boostery": {
+      "available": true,
+      "price": "119,00 zł",
+      "timestamp": "2025-08-11 15:54:03"
     }
   },
   "redraft": {
@@ -1206,6 +1646,66 @@
       "available": true,
       "price": "299,99 zł",
       "timestamp": "2025-08-04 16:42:56"
+    },
+    "Pokémon TCG Scarlet & Violet Black Bolt - Booster": {
+      "available": true,
+      "price": "29,99 zł",
+      "timestamp": "2025-08-11 15:53:35"
+    },
+    "Pokémon TCG Scarlet & Violet White Flare - Booster": {
+      "available": true,
+      "price": "29,99 zł",
+      "timestamp": "2025-08-11 15:53:35"
+    },
+    "Pokémon TCG: Trick or Trade - Booster Bundle (35)": {
+      "available": true,
+      "price": "124,99 zł",
+      "timestamp": "2025-08-11 15:53:35"
+    },
+    "Pokémon TCG: Black Bolt & White Flare – Unova Mini Tin Display (8 wzorów)": {
+      "available": true,
+      "price": "449,99 zł",
+      "timestamp": "2025-08-11 15:54:21"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection": {
+      "available": true,
+      "price": "189,99 zł",
+      "timestamp": "2025-08-11 15:54:22"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:54:22"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection (limit 2 sztuk na osobę)": {
+      "available": true,
+      "price": "84,99 zł",
+      "timestamp": "2025-08-11 15:54:22"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection (limit 2 sztuk na osobę)": {
+      "available": true,
+      "price": "84,99 zł",
+      "timestamp": "2025-08-11 15:54:22"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection": {
+      "available": true,
+      "price": "189,99 zł",
+      "timestamp": "2025-08-11 15:54:37"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:54:37"
+    },
+    "Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir (limit 1 sztuki na osobę)": {
+      "available": true,
+      "price": "249,99 zł",
+      "timestamp": "2025-08-11 15:54:49"
+    },
+    "Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario (limit 1 sztuki na osobę)": {
+      "available": true,
+      "price": "249,99 zł",
+      "timestamp": "2025-08-11 15:54:50"
     }
   },
   "kantodrop": {
@@ -1248,6 +1748,16 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-07-21 17:58:38"
+    },
+    "PREORDER LIMIT 6SZT/OS Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:53:51"
+    },
+    "PREORDER LIMIT 6SZT/OS Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:53:51"
     }
   },
   "rebel": {
@@ -1300,6 +1810,41 @@
       "available": false,
       "price": "95,95zł",
       "timestamp": "2025-07-21 17:58:55"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
+      "available": false,
+      "price": "68,95zł",
+      "timestamp": "2025-08-11 15:53:46"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle": {
+      "available": false,
+      "price": "68,95zł",
+      "timestamp": "2025-08-11 15:53:46"
+    },
+    "Pokémon TCG: Scarlet & Violet - Destined Rivals - Sleeved Booster Box (24)": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:54:10"
+    },
+    "Pokémon TCG: Scarlet & Violet - Destined Rivals - Sleeved Booster": {
+      "available": false,
+      "price": "18,95zł",
+      "timestamp": "2025-08-11 15:54:11"
+    },
+    "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
+      "available": false,
+      "price": "216,95zł",
+      "timestamp": "2025-08-11 15:54:12"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
+      "available": false,
+      "price": "99,95zł",
+      "timestamp": "2025-08-11 15:54:28"
+    },
+    "Pokémon TCG: Unova Mini Tin - Alomomola - Axew": {
+      "available": false,
+      "price": "42,95zł",
+      "timestamp": "2025-08-11 15:54:28"
     }
   },
   "hejmistrzu": {
@@ -1404,6 +1949,31 @@
       "available": false,
       "price": "49,99zł",
       "timestamp": "2025-07-22 22:44:16"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection | PL Card World (plcardworld)": {
+      "available": false,
+      "price": "99,99zł",
+      "timestamp": "2025-08-11 15:53:13"
+    },
+    "Pokémon TCG: Black Bolt – Booster": {
+      "available": false,
+      "price": "20,99zł",
+      "timestamp": "2025-08-11 15:53:36"
+    },
+    "Pokémon TCG: White Flare – Booster": {
+      "available": false,
+      "price": "20,99zł",
+      "timestamp": "2025-08-11 15:53:37"
+    },
+    "Pokémon TCG: Scarlet & Violet – Black Bolt – Tech Sticker – Reuniclus": {
+      "available": false,
+      "price": "68,95zł",
+      "timestamp": "2025-08-11 15:53:58"
+    },
+    "Pokémon TCG: Scarlet & Violet – White Flare – Tech Sticker – Gothitelle": {
+      "available": false,
+      "price": "68,95zł",
+      "timestamp": "2025-08-11 15:53:58"
     }
   },
   "heartspub": {
@@ -1448,6 +2018,26 @@
       "available": false,
       "price": "999,95 zł",
       "timestamp": "2025-07-21 17:59:37"
+    },
+    "Pokémon TCG: S&V Black Bolt/White Flare - zestaw Booster Bundle - Reshiram+Zekrom": {
+      "available": false,
+      "price": "359,95 zł",
+      "timestamp": "2025-08-11 15:53:56"
+    },
+    "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
+      "available": false,
+      "price": "339,95 zł",
+      "timestamp": "2025-08-11 15:54:10"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Mini Tin - Zestaw (8...": {
+      "available": false,
+      "price": "480,00 zł",
+      "timestamp": "2025-08-11 15:54:26"
+    },
+    "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
+      "available": false,
+      "price": "269,95 zł",
+      "timestamp": "2025-08-11 15:54:50"
     }
   },
   "aleplanszowki": {
@@ -1485,6 +2075,41 @@
       "available": false,
       "price": "24,95 zł",
       "timestamp": "2025-07-21 17:59:23"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:53:24"
+    },
+    "Pokémon TCG: Unova Mini Tin (1x)": {
+      "available": false,
+      "price": "49,95 zł",
+      "timestamp": "2025-08-11 15:53:25"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle": {
+      "available": false,
+      "price": "68,95 zł",
+      "timestamp": "2025-08-11 15:53:57"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
+      "available": false,
+      "price": "68,95 zł",
+      "timestamp": "2025-08-11 15:53:57"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collectio": {
+      "available": false,
+      "price": "109,95 zł",
+      "timestamp": "2025-08-11 15:53:57"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box": {
+      "available": true,
+      "price": "279,95 zł",
+      "timestamp": "2025-08-11 15:54:01"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box": {
+      "available": true,
+      "price": "279,95 zł",
+      "timestamp": "2025-08-11 15:54:01"
     }
   },
   "pikashop": {
@@ -1532,6 +2157,31 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-08-01 23:47:33"
+    },
+    "Pokemon Destined Rivals Booster Saszetka": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:53:36"
+    },
+    "Pokemon 151 Booster Saszetka Oryginalna": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:53:37"
+    },
+    "Pokemon White Flare & Black Bolt – Unova Victini Illustration Collection": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:54:24"
+    },
+    "PRZEDSPRZEDAŻ Pokemon White Flare & Black Bolt – Binder Collection – Reshiram": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:54:24"
+    },
+    "PRZEDSPRZEDAŻ Pokemon White Flare & Black Bolt – Unova Poster Collection": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:54:25"
     }
   },
   "panmysza": {
@@ -1554,6 +2204,41 @@
       "available": false,
       "price": "105,00 zł",
       "timestamp": "2025-07-21 17:59:09"
+    },
+    "Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
+      "available": false,
+      "price": "330,00 zł",
+      "timestamp": "2025-08-11 15:54:08"
+    },
+    "Scarlet & Violet - Black Bolt - Elite Trainer Box - Zekrom": {
+      "available": true,
+      "price": "310,00 zł",
+      "timestamp": "2025-08-11 15:54:26"
+    },
+    "Scarlet & Violet - Black Bolt & White Flare - Unova Poster Collection": {
+      "available": true,
+      "price": "120,00 zł",
+      "timestamp": "2025-08-11 15:54:27"
+    },
+    "Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
+      "available": true,
+      "price": "180,00 zł",
+      "timestamp": "2025-08-11 15:54:28"
+    },
+    "Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
+      "available": false,
+      "price": "115,00 zł",
+      "timestamp": "2025-08-11 15:54:28"
+    },
+    "Unova Mini Tin - Krookodile - Excadrill": {
+      "available": false,
+      "price": "60,00 zł",
+      "timestamp": "2025-08-11 15:54:29"
+    },
+    "Scarlet & Violet - White Flare - Elite Trainer Box - Reshiram": {
+      "available": true,
+      "price": "310,00 zł",
+      "timestamp": "2025-08-11 15:54:54"
     }
   },
   "stajnia-gier": {
@@ -1591,6 +2276,36 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-07-24 10:17:07"
+    },
+    "Pokemon TCG: Destined Rivals Booster Box (36 boosterów)": {
+      "available": true,
+      "price": "899,00 zł",
+      "timestamp": "2025-08-11 15:53:21"
+    },
+    "Pokemon TCG: White Flare booster": {
+      "available": true,
+      "price": "27,00 zł",
+      "timestamp": "2025-08-11 15:53:37"
+    },
+    "Pokemon TCG: Black Bolt booster": {
+      "available": true,
+      "price": "27,00 zł",
+      "timestamp": "2025-08-11 15:53:37"
+    },
+    "Pokemon TCG: Black Bolt Elite Trainer Box - Zekrom": {
+      "available": true,
+      "price": "275,00 zł",
+      "timestamp": "2025-08-11 15:54:29"
+    },
+    "Pokemon TCG: White Flare & Black Bolt - Unova Victini Illustration Collection": {
+      "available": true,
+      "price": "99,00 zł",
+      "timestamp": "2025-08-11 15:54:29"
+    },
+    "Pokemon TCG: White Flare Elite Trainer Box - Reshiram": {
+      "available": true,
+      "price": "275,00 zł",
+      "timestamp": "2025-08-11 15:54:37"
     }
   },
   "lochyikoty": {
@@ -1630,6 +2345,16 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-07-21 17:59:20"
+    },
+    "POKEMON SV 10 Destined Rivals Booster": {
+      "available": true,
+      "price": "30,00 zł.",
+      "timestamp": "2025-08-11 15:54:09"
+    },
+    "POKEMON Scarlet and Violet 151 Booster  Bundle": {
+      "available": true,
+      "price": "300,00 zł.",
+      "timestamp": "2025-08-11 15:54:47"
     }
   },
   "mepel": {
@@ -1662,6 +2387,21 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-07-21 17:59:41"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box - Zekrom": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:55:04"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box - Reshiram": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:55:04"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:55:05"
     }
   },
   "pokemart": {
@@ -1699,6 +2439,174 @@
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-07-21 17:59:37"
+    }
+  },
+  "japancollectibles": {
+    "Pokémon TCG Angielski Elite Trainer Box - Destined Rivals (DRIen)": {
+      "available": true,
+      "price": "329,00 zł",
+      "timestamp": "2025-08-11 15:54:12"
+    },
+    "Pokémon TCG Angielski Booster Box - Destined Rivals (DRIen)": {
+      "available": true,
+      "price": "829,00 zł",
+      "timestamp": "2025-08-11 15:54:13"
+    },
+    "Pokémon TCG Angielski Elite Trainer Box - Black Bolt (BLKen)": {
+      "available": true,
+      "price": "269,00 zł",
+      "timestamp": "2025-08-11 15:54:31"
+    },
+    "Pokémon TCG Angielski Binder Collection - Black Bolt (BLKen)": {
+      "available": true,
+      "price": "190,00 zł",
+      "timestamp": "2025-08-11 15:54:32"
+    },
+    "Pokémon TCG Angielski Binder Collection - White Flare (WHTen)": {
+      "available": true,
+      "price": "190,00 zł",
+      "timestamp": "2025-08-11 15:54:40"
+    },
+    "Pokémon TCG Angielski Elite Trainer Box - White Flare (WHTen)": {
+      "available": true,
+      "price": "259,00 zł",
+      "timestamp": "2025-08-11 15:54:40"
+    },
+    "Pokémon TCG Angielski Rival Battle Deck - Marnie": {
+      "available": true,
+      "price": "90,00 zł",
+      "timestamp": "2025-08-11 15:54:58"
+    },
+    "Pokémon TCG Angielski Team Rocket's Mewtwo EX Box": {
+      "available": true,
+      "price": "165,00 zł",
+      "timestamp": "2025-08-11 15:54:58"
+    },
+    "Pokémon TCG Angielski Unova Mini Tin": {
+      "available": true,
+      "price": "50,00 zł",
+      "timestamp": "2025-08-11 15:55:01"
+    }
+  },
+  "letsgotry": {
+    "Pokemon TCG Scarlet & Violet - Destined Rivals - Booster Box": {
+      "available": false,
+      "price": "999,00 zł",
+      "timestamp": "2025-08-11 15:54:13"
+    },
+    "Pokémon TCG Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
+      "available": true,
+      "price": "399,00 zł",
+      "timestamp": "2025-08-11 15:54:15"
+    },
+    "Pokemon TCG Scarlet & Violet - Destined Rivals Booster": {
+      "available": false,
+      "price": "25,99 zł",
+      "timestamp": "2025-08-11 15:54:16"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt & White Flare - Binder Collection - Reshiram/Zekrom": {
+      "available": true,
+      "price": "399,00 zł",
+      "timestamp": "2025-08-11 15:54:32"
+    },
+    "Pokémon TCG: Unova Mini Tin": {
+      "available": true,
+      "price": "59,00 zł",
+      "timestamp": "2025-08-11 15:54:32"
+    },
+    "[PREORDER] Pokémon TCG Scarlet & Violet - Black Bolt Elite Trainer Box": {
+      "available": true,
+      "price": "299,00 zł",
+      "timestamp": "2025-08-11 15:54:32"
+    },
+    "[PREORDER] Pokémon TCG Scarlet & Violet - White Flare Elite Trainer Box": {
+      "available": true,
+      "price": "299,00 zł",
+      "timestamp": "2025-08-11 15:54:41"
+    },
+    "[PREORDER] Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario": {
+      "available": false,
+      "price": "199,00 zł",
+      "timestamp": "2025-08-11 15:54:44"
+    },
+    "[PREORDER] Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir": {
+      "available": false,
+      "price": "199,00 zł",
+      "timestamp": "2025-08-11 15:54:45"
+    }
+  },
+  "vanaheim": {
+    "Pokémon TCG: SV10 Destined Rivals - Booster Box (36)": {
+      "available": true,
+      "price": "959,00 zł",
+      "timestamp": "2025-08-11 15:54:14"
+    },
+    "Pokémon TCG: SV10 Destined Rivals - Booster": {
+      "available": true,
+      "price": "29,00 zł",
+      "timestamp": "2025-08-11 15:54:15"
+    },
+    "Pokémon TCG: SV10 Destined Rivals - Elite Trainer Box": {
+      "available": true,
+      "price": "309,00 zł",
+      "timestamp": "2025-08-11 15:54:15"
+    },
+    "Pokemon TCG: Destined Rivals - Team Rocket Mewtwo Ex Box": {
+      "available": true,
+      "price": "109,00 zł",
+      "timestamp": "2025-08-11 15:54:16"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection -...": {
+      "available": true,
+      "price": "159,00 zł",
+      "timestamp": "2025-08-11 15:54:34"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:54:35"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box -...": {
+      "available": true,
+      "price": "300,00 zł",
+      "timestamp": "2025-08-11 15:54:36"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection -...": {
+      "available": true,
+      "price": "169,00 zł",
+      "timestamp": "2025-08-11 15:54:39"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle -...": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 15:54:41"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box -...": {
+      "available": true,
+      "price": "275,00 zł",
+      "timestamp": "2025-08-11 15:54:42"
+    },
+    "Pokémon TCG: Unova Mini Tin - Volcarona - Emolga": {
+      "available": true,
+      "price": "50,00 zł",
+      "timestamp": "2025-08-11 15:55:01"
+    }
+  },
+  "pokegemcollector": {
+    "ZESTAW - Pokémon TCG: Black Bolt & White Flare - Elite Trainer Box - Reshiram/Zekrom": {
+      "available": false,
+      "price": "559,95 zł",
+      "timestamp": "2025-08-11 15:54:33"
+    },
+    "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
+      "available": true,
+      "price": "399,95 zł",
+      "timestamp": "2025-08-11 15:54:48"
+    },
+    "Pokémon TCG: Rival Battle Deck - Marnie": {
+      "available": false,
+      "price": "99,95 zł",
+      "timestamp": "2025-08-11 15:54:59"
     }
   }
 }
