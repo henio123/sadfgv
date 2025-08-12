@@ -1,9 +1,9 @@
 {
   "juniorkurczak": {
     "Black Bolt Elite Trainer Box": {
-      "available": true,
+      "available": false,
       "price": "216.95zł",
-      "timestamp": "2025-08-12 19:25:54"
+      "timestamp": "2025-08-12 19:39:09"
     },
     "White Flare Black Bolt Unova Victini": {
       "available": true,
@@ -41,9 +41,9 @@
       "timestamp": "2025-07-11 02:25:02"
     },
     "White Flare Elite Trainer Box": {
-      "available": true,
+      "available": false,
       "price": "216.95zł",
-      "timestamp": "2025-08-12 19:25:41"
+      "timestamp": "2025-08-12 19:39:13"
     },
     "White Flare Binder Collection": {
       "available": true,
