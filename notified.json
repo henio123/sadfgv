@@ -1564,9 +1564,9 @@
       "timestamp": "2025-08-11 04:44:07"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Unova Victini Illustration Collection -  PREORDER": {
-      "available": true,
-      "price": "149,00 zł",
-      "timestamp": "2025-08-09 13:54:45"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-11 23:58:35"
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box - ENG": {
       "available": true,
@@ -2310,36 +2310,36 @@
   },
   "lochyikoty": {
     "Pokemon TCG: Destined Rivals - Booster Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 23:48:32"
+      "available": true,
+      "price": "1 014,30 zł",
+      "timestamp": "2025-08-11 23:58:55"
     },
     "Pokemon TCG: 151 - Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 23:48:33"
+      "available": true,
+      "price": "310,50 zł",
+      "timestamp": "2025-08-11 23:58:56"
     },
     "Pokemon TCG: Destined Rivals - Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 23:48:36"
+      "available": true,
+      "price": "398,48 zł",
+      "timestamp": "2025-08-11 23:58:57"
     }
   },
   "moriongames": {
     "POKEMON Team Rocket,s MEWTWO-EX Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 23:49:13"
+      "available": true,
+      "price": "155,00 zł.",
+      "timestamp": "2025-08-11 23:58:58"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box GARDEVOIR": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 23:48:35"
+      "available": true,
+      "price": "400,00 zł.",
+      "timestamp": "2025-08-11 23:58:58"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box LUCARIO": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 23:48:39"
+      "available": true,
+      "price": "400,00 zł.",
+      "timestamp": "2025-08-11 23:58:58"
     },
     "POKEMON SV 10 Destined Rivals Elite  Trainer Box": {
       "available": false,
@@ -2347,14 +2347,14 @@
       "timestamp": "2025-07-21 17:59:20"
     },
     "POKEMON SV 10 Destined Rivals Booster": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 23:50:38"
+      "available": true,
+      "price": "30,00 zł.",
+      "timestamp": "2025-08-12 00:00:28"
     },
     "POKEMON Scarlet and Violet 151 Booster  Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-11 23:51:21"
+      "available": true,
+      "price": "300,00 zł.",
+      "timestamp": "2025-08-12 00:01:12"
     }
   },
   "mepel": {
