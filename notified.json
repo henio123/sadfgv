@@ -1,14 +1,14 @@
 {
   "juniorkurczak": {
     "Black Bolt Elite Trainer Box": {
-      "available": false,
+      "available": true,
       "price": "216.95zł",
-      "timestamp": "2025-07-09 14:45:06"
+      "timestamp": "2025-08-12 19:25:54"
     },
     "White Flare Black Bolt Unova Victini": {
-      "available": false,
+      "available": true,
       "price": "95.95zł",
-      "timestamp": "2025-07-09 14:45:06"
+      "timestamp": "2025-08-12 19:25:56"
     },
     "Marnie Rival Battle Deck": {
       "available": false,
@@ -41,9 +41,9 @@
       "timestamp": "2025-07-11 02:25:02"
     },
     "White Flare Elite Trainer Box": {
-      "available": false,
+      "available": true,
       "price": "216.95zł",
-      "timestamp": "2025-07-11 02:25:07"
+      "timestamp": "2025-08-12 19:25:41"
     },
     "White Flare Binder Collection": {
       "available": true,
@@ -76,9 +76,9 @@
       "timestamp": "2025-08-11 15:53:22"
     },
     "Destined Rivals – Checklane Blister": {
-      "available": true,
+      "available": false,
       "price": "23.95zł",
-      "timestamp": "2025-08-12 18:52:28"
+      "timestamp": "2025-08-12 19:28:48"
     }
   },
   "strefa_tcg": {
