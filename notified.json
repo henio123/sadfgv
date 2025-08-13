@@ -1348,14 +1348,14 @@
       "timestamp": "2025-08-12 07:30:10"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
-      "available": false,
-      "price": "179,00 zł",
-      "timestamp": "2025-07-29 12:55:49"
+      "available": true,
+      "price": "199,00 zł",
+      "timestamp": "2025-08-13 12:52:22"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
-      "available": false,
-      "price": "179,00 zł",
-      "timestamp": "2025-07-29 12:55:49"
+      "available": true,
+      "price": "199,00 zł",
+      "timestamp": "2025-08-13 12:52:23"
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster": {
       "available": true,
@@ -2495,9 +2495,9 @@
       "timestamp": "2025-08-11 15:54:13"
     },
     "Pokémon TCG Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
-      "available": true,
-      "price": "399,00 zł",
-      "timestamp": "2025-08-13 10:47:39"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 12:56:05"
     },
     "Pokemon TCG Scarlet & Violet - Destined Rivals Booster": {
       "available": false,
