@@ -2074,14 +2074,14 @@
   },
   "lochyikoty": {
     "Pokemon TCG: 151 - Booster Bundle": {
-      "available": true,
-      "price": "310,50 zł",
-      "timestamp": "2025-08-13 17:22:58"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 19:09:52"
     },
     "Pokemon TCG: Destined Rivals - Elite Trainer Box": {
-      "available": true,
-      "price": "398,48 zł",
-      "timestamp": "2025-08-13 17:23:00"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 19:09:53"
     },
     "Pokemon TCG: Destined Rivals - Booster Box": {
       "available": false,
@@ -2091,19 +2091,19 @@
   },
   "moriongames": {
     "Pokemon Mega Evolution 01 Elite Trainer  Box GARDEVOIR": {
-      "available": true,
-      "price": "400,00 zł.",
-      "timestamp": "2025-08-13 17:22:59"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 19:09:56"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box LUCARIO": {
-      "available": true,
-      "price": "400,00 zł.",
-      "timestamp": "2025-08-13 17:22:59"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 19:10:06"
     },
     "POKEMON Team Rocket,s MEWTWO-EX Box": {
-      "available": true,
-      "price": "155,00 zł.",
-      "timestamp": "2025-08-13 17:23:00"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 19:10:31"
     },
     "POKEMON SV 10 Destined Rivals Elite  Trainer Box": {
       "available": false,
@@ -2111,14 +2111,14 @@
       "timestamp": "2025-08-13 17:23:09"
     },
     "POKEMON SV 10 Destined Rivals Booster": {
-      "available": true,
-      "price": "30,00 zł.",
-      "timestamp": "2025-08-13 17:24:30"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 19:12:00"
     },
     "POKEMON Scarlet and Violet 151 Booster  Bundle": {
-      "available": true,
-      "price": "300,00 zł.",
-      "timestamp": "2025-08-13 17:25:12"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 19:12:46"
     }
   },
   "mepel": {
