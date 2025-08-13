@@ -1668,9 +1668,9 @@
       "timestamp": "2025-08-11 15:54:21"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection": {
-      "available": true,
-      "price": "189,99 zł",
-      "timestamp": "2025-08-11 15:54:22"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 16:31:27"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box": {
       "available": false,
@@ -1678,19 +1678,19 @@
       "timestamp": "2025-08-11 15:54:22"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection (limit 2 sztuk na osobę)": {
-      "available": true,
-      "price": "84,99 zł",
-      "timestamp": "2025-08-11 15:54:22"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 16:31:28"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection (limit 2 sztuk na osobę)": {
-      "available": true,
-      "price": "84,99 zł",
-      "timestamp": "2025-08-11 15:54:22"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 16:31:28"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection": {
-      "available": true,
-      "price": "189,99 zł",
-      "timestamp": "2025-08-11 15:54:37"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 16:32:07"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box": {
       "available": false,
@@ -2505,19 +2505,19 @@
       "timestamp": "2025-08-11 15:54:16"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt & White Flare - Binder Collection - Reshiram/Zekrom": {
-      "available": true,
-      "price": "399,00 zł",
-      "timestamp": "2025-08-13 15:00:24"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 16:32:29"
     },
     "Pokémon TCG: Unova Mini Tin": {
-      "available": true,
-      "price": "59,00 zł",
-      "timestamp": "2025-08-13 15:00:24"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 16:32:21"
     },
     "[PREORDER] Pokémon TCG Scarlet & Violet - Black Bolt Elite Trainer Box": {
-      "available": true,
-      "price": "299,00 zł",
-      "timestamp": "2025-08-13 15:00:24"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 16:32:29"
     },
     "[PREORDER] Pokémon TCG Scarlet & Violet - White Flare Elite Trainer Box": {
       "available": true,
