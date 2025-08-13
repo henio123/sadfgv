@@ -415,9 +415,9 @@
       "timestamp": "2025-08-11 23:16:16"
     },
     "Pokemon TCG: White Flare & Black Bolt – Elite Trainer Box – Zekrom": {
-      "available": true,
+      "available": false,
       "price": "299,00zł",
-      "timestamp": "2025-08-11 23:12:37"
+      "timestamp": "2025-08-13 07:55:53"
     },
     "Pokemon TCG: Team Rocket’s Mewtwo ex Box": {
       "available": true,
@@ -2495,9 +2495,9 @@
       "timestamp": "2025-08-11 15:54:13"
     },
     "Pokémon TCG Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
-      "available": true,
-      "price": "399,00 zł",
-      "timestamp": "2025-08-13 05:33:18"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 07:59:49"
     },
     "Pokemon TCG Scarlet & Violet - Destined Rivals Booster": {
       "available": false,
