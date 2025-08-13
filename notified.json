@@ -2495,9 +2495,9 @@
       "timestamp": "2025-08-11 15:54:13"
     },
     "Pokémon TCG Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-13 07:59:49"
+      "available": true,
+      "price": "399,00 zł",
+      "timestamp": "2025-08-13 08:56:44"
     },
     "Pokemon TCG Scarlet & Violet - Destined Rivals Booster": {
       "available": false,
@@ -2520,9 +2520,9 @@
       "timestamp": "2025-08-13 08:31:46"
     },
     "[PREORDER] Pokémon TCG Scarlet & Violet - White Flare Elite Trainer Box": {
-      "available": true,
-      "price": "299,00 zł",
-      "timestamp": "2025-08-13 05:33:42"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-13 08:57:59"
     },
     "[PREORDER] Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario": {
       "available": false,
