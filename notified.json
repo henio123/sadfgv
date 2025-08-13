@@ -2315,31 +2315,31 @@
       "timestamp": "2025-08-13 06:01:49"
     },
     "Pokemon TCG: 151 - Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-13 06:01:49"
+      "available": true,
+      "price": "310,50 zł",
+      "timestamp": "2025-08-13 06:42:04"
     },
     "Pokemon TCG: Destined Rivals - Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-13 06:01:51"
+      "available": true,
+      "price": "398,48 zł",
+      "timestamp": "2025-08-13 06:42:05"
     }
   },
   "moriongames": {
     "POKEMON Team Rocket,s MEWTWO-EX Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-13 06:02:29"
+      "available": true,
+      "price": "155,00 zł.",
+      "timestamp": "2025-08-13 06:42:06"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box GARDEVOIR": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-13 06:01:52"
+      "available": true,
+      "price": "400,00 zł.",
+      "timestamp": "2025-08-13 06:42:05"
     },
     "Pokemon Mega Evolution 01 Elite Trainer  Box LUCARIO": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-13 06:01:54"
+      "available": true,
+      "price": "400,00 zł.",
+      "timestamp": "2025-08-13 06:42:05"
     },
     "POKEMON SV 10 Destined Rivals Elite  Trainer Box": {
       "available": false,
@@ -2347,14 +2347,14 @@
       "timestamp": "2025-07-21 17:59:20"
     },
     "POKEMON SV 10 Destined Rivals Booster": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-13 06:03:59"
+      "available": true,
+      "price": "30,00 zł.",
+      "timestamp": "2025-08-13 06:43:24"
     },
     "POKEMON Scarlet and Violet 151 Booster  Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-13 06:04:47"
+      "available": true,
+      "price": "300,00 zł.",
+      "timestamp": "2025-08-13 06:44:00"
     }
   },
   "mepel": {
