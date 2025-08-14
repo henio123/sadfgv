@@ -1,9 +1,9 @@
 {
   "juniorkurczak": {
     "Black Bolt Elite Trainer Box": {
-      "available": true,
+      "available": false,
       "price": "216.95zł",
-      "timestamp": "2025-08-14 20:40:40"
+      "timestamp": "2025-08-14 20:53:17"
     },
     "White Flare Binder Collection": {
       "available": true,
@@ -46,9 +46,9 @@
       "timestamp": "2025-08-14 19:55:08"
     },
     "White Flare Elite Trainer Box": {
-      "available": true,
+      "available": false,
       "price": "216.95zł",
-      "timestamp": "2025-08-14 20:40:41"
+      "timestamp": "2025-08-14 20:53:18"
     },
     "White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
@@ -1065,9 +1065,9 @@
       "timestamp": "2025-08-14 19:56:24"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-14 20:42:17"
+      "available": true,
+      "price": "159,00 zł",
+      "timestamp": "2025-08-14 20:55:43"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram": {
       "available": true,
