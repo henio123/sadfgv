@@ -145,9 +145,9 @@
   },
   "loficards": {
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection (PREORDER)": {
-      "available": false,
+      "available": true,
       "price": "119.00",
-      "timestamp": "2025-08-15 01:45:18"
+      "timestamp": "2025-08-15 15:25:30"
     },
     "Pokémon TCG: Black Bolt - Booster Bundle": {
       "available": false,
@@ -170,9 +170,9 @@
       "timestamp": "2025-08-14 19:55:24"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection (PREORDER)": {
-      "available": false,
-      "price": "149.00",
-      "timestamp": "2025-08-15 01:45:32"
+      "available": true,
+      "price": "139.00",
+      "timestamp": "2025-08-15 15:25:45"
     },
     "Pokémon TCG: Black Bolt - Elite Trainer Box (PREORDER)": {
       "available": false,
@@ -217,9 +217,9 @@
       "timestamp": "2025-08-14 19:55:55"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
-      "available": true,
-      "price": "179,00 zł",
-      "timestamp": "2025-08-14 19:55:55"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-15 15:27:20"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
@@ -894,9 +894,9 @@
       "timestamp": "2025-08-14 19:58:53"
     },
     "Pokemon TCG: Mega Evolution – Elite Trainer Box – Lucario": {
-      "available": true,
+      "available": false,
       "price": "399,00złPierwotna cena wynosiła: 399,00 zł.389,00złAktualna cena wynosi: 389,00 zł.Najniższa cena sprzed 30 dni przed obniżką:349,00zł.",
-      "timestamp": "2025-08-14 19:59:12"
+      "timestamp": "2025-08-15 15:29:38"
     },
     "Pokemon TCG: Mega Evolution – Elite Trainer Box – Gardevoir": {
       "available": true,
