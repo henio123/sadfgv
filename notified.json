@@ -88,9 +88,9 @@
       "timestamp": "2025-08-14 19:55:06"
     },
     "Pokémon TCG: Scarlet & Violet - 151 - Booster Bundle": {
-      "available": true,
-      "price": "295,00 zł",
-      "timestamp": "2025-08-15 11:24:15"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-15 17:26:48"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Unova Poster Collection - PREORDER": {
       "available": false,
@@ -1685,19 +1685,19 @@
   },
   "heartspub": {
     "Rival Battle Deck - Marnie...": {
-      "available": true,
-      "price": "89,00 zł",
-      "timestamp": "2025-08-14 19:56:44"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-15 17:27:08"
     },
     "Elite Trainer Box -...": {
-      "available": true,
-      "price": "259,00 zł",
-      "timestamp": "2025-08-14 19:56:44"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-15 17:27:09"
     },
     "Booster bundle - 151 -...": {
-      "available": true,
-      "price": "270,00 zł",
-      "timestamp": "2025-08-14 19:56:44"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-15 17:27:08"
     }
   },
   "3trolle": {
