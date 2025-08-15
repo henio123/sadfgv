@@ -760,9 +760,9 @@
       "timestamp": "2025-08-14 19:56:35"
     },
     "Pokemon TCG: Scarlet & Violet - Destined Rivals - Booster Box": {
-      "available": true,
-      "price": "1 132,35 zł",
-      "timestamp": "2025-08-14 19:56:43"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-15 12:56:30"
     },
     "Pokemon TCG: Scarlet & Violet - Unova Mini Tin Display (8 szt.)": {
       "available": true,
@@ -1075,9 +1075,9 @@
       "timestamp": "2025-08-14 19:56:37"
     },
     "Pokemon TCG: Scarlet & Violet SV 10 Destined Rivals Booster Box": {
-      "available": false,
+      "available": true,
       "price": "1 049,00 zł",
-      "timestamp": "2025-08-15 10:33:55"
+      "timestamp": "2025-08-15 12:56:34"
     },
     "Pokemon TCG: Team Rocket's Mewtwo ex Box": {
       "available": true,
