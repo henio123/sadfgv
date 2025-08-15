@@ -1685,19 +1685,19 @@
   },
   "heartspub": {
     "Rival Battle Deck - Marnie...": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-15 17:27:08"
+      "available": true,
+      "price": "89,00 zł",
+      "timestamp": "2025-08-15 17:53:57"
     },
     "Elite Trainer Box -...": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-15 17:27:09"
+      "available": true,
+      "price": "259,00 zł",
+      "timestamp": "2025-08-15 17:53:58"
     },
     "Booster bundle - 151 -...": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-15 17:27:08"
+      "available": true,
+      "price": "270,00 zł",
+      "timestamp": "2025-08-15 17:53:58"
     }
   },
   "3trolle": {
