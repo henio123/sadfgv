@@ -1065,9 +1065,9 @@
       "timestamp": "2025-08-14 19:56:24"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-16 18:51:46"
+      "available": true,
+      "price": "159,00 zł",
+      "timestamp": "2025-08-16 19:01:16"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram": {
       "available": true,
@@ -2321,9 +2321,9 @@
       "timestamp": "2025-08-14 19:58:47"
     },
     "Pokémon TCG Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
-      "available": true,
-      "price": "399,00 zł",
-      "timestamp": "2025-08-14 19:58:49"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-16 19:03:56"
     },
     "Pokemon TCG Scarlet & Violet - Destined Rivals Booster": {
       "available": false,
@@ -2331,24 +2331,24 @@
       "timestamp": "2025-08-14 19:58:50"
     },
     "[PREORDER] Pokémon TCG Scarlet & Violet - Black Bolt Elite Trainer Box": {
-      "available": true,
-      "price": "299,00 zł",
-      "timestamp": "2025-08-14 19:59:06"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-16 19:04:31"
     },
     "Pokémon TCG: Unova Mini Tin": {
-      "available": true,
-      "price": "59,00 zł",
-      "timestamp": "2025-08-14 19:59:06"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-16 19:04:37"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt & White Flare - Binder Collection - Reshiram/Zekrom": {
-      "available": true,
-      "price": "399,00 zł",
-      "timestamp": "2025-08-14 19:59:06"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-16 19:04:31"
     },
     "[PREORDER] Pokémon TCG Scarlet & Violet - White Flare Elite Trainer Box": {
-      "available": true,
-      "price": "299,00 zł",
-      "timestamp": "2025-08-14 19:59:14"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-16 19:04:58"
     },
     "[PREORDER] Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir": {
       "available": false,
