@@ -693,34 +693,34 @@
       "timestamp": "2025-08-14 19:56:42"
     },
     "Pokemon TCG: Scarlet & Violet 151 - Booster Bundle (6 boosterów)": {
-      "available": true,
-      "price": "499,99 zł",
-      "timestamp": "2025-08-14 19:57:01"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-16 18:30:49"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Mini Tin - Display": {
-      "available": true,
-      "price": "559,99 zł",
-      "timestamp": "2025-08-14 19:57:09"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-16 18:31:06"
     },
     "Pokémon TCG: Destined Rivals - Checklane - Zarude": {
-      "available": true,
-      "price": "44,99 zł",
-      "timestamp": "2025-08-14 19:57:58"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-16 18:32:07"
     },
     "Pokémon TCG: Destined Rivals - Sleeved Booster": {
-      "available": true,
-      "price": "39,99 zł",
-      "timestamp": "2025-08-14 19:57:59"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-16 18:32:08"
     },
     "Pokémon TCG: White Flare - Tech Sticker - Gothitelle": {
-      "available": true,
-      "price": "84,99 zł",
-      "timestamp": "2025-08-14 19:59:23"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-16 18:34:06"
     },
     "Pokémon TCG: Black Bolt - Tech Sticker - Reuniclus": {
-      "available": true,
-      "price": "84,99 zł",
-      "timestamp": "2025-08-14 19:59:24"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-16 18:34:08"
     }
   },
   "poketrader": {
