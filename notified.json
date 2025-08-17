@@ -437,9 +437,9 @@
   },
   "swiatkart": {
     "Pokémon TCG:  Black Bolt - Elite Trainer Box - Zekrom": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-17 06:55:31"
+      "available": true,
+      "price": "289,99 złCena289,99 złCena regularna:289,99 zł-0%Najniższa cena z 30 dni przed obniżką:1,00 zł+28899%Promocja trwa do %s",
+      "timestamp": "2025-08-17 07:16:02"
     },
     "Pokémon TCG:  Black Bolt & White Flare - Elite Trainer Box - Reshiram/Zekrom - Zestaw": {
       "available": false,
