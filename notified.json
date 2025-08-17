@@ -6,9 +6,9 @@
       "timestamp": "2025-08-15 13:51:32"
     },
     "White Flare Binder Collection": {
-      "available": true,
+      "available": false,
       "price": "165.95zł",
-      "timestamp": "2025-08-14 19:55:05"
+      "timestamp": "2025-08-17 10:26:10"
     },
     "Black Bolt Binder Collection": {
       "available": true,
@@ -2346,9 +2346,9 @@
       "timestamp": "2025-08-16 19:25:39"
     },
     "[PREORDER] Pokémon TCG Scarlet & Violet - White Flare Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-17 10:04:13"
+      "available": true,
+      "price": "299,00 zł",
+      "timestamp": "2025-08-17 10:30:08"
     },
     "[PREORDER] Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir": {
       "available": false,
