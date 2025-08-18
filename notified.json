@@ -6,14 +6,14 @@
       "timestamp": "2025-08-15 13:51:32"
     },
     "White Flare Binder Collection": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-18 08:33:53"
+      "available": true,
+      "price": "165.95zł",
+      "timestamp": "2025-08-18 08:56:30"
     },
     "Black Bolt Binder Collection": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-18 08:33:54"
+      "available": true,
+      "price": "165.95zł",
+      "timestamp": "2025-08-18 08:56:31"
     },
     "scarlet-violet-151-booster-bundle": {
       "available": false,
@@ -21,9 +21,9 @@
       "timestamp": "2025-08-14 19:55:07"
     },
     "White Flare Black Bolt Unova Victini": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-08-18 08:33:56"
+      "available": true,
+      "price": "95.95zł",
+      "timestamp": "2025-08-18 08:56:32"
     },
     "Destined Rivals - Booster": {
       "available": false,
@@ -1075,9 +1075,9 @@
       "timestamp": "2025-08-16 11:41:23"
     },
     "Pokemon TCG: Scarlet & Violet SV 10 Destined Rivals Booster Box": {
-      "available": true,
+      "available": false,
       "price": "1 119,00 zł",
-      "timestamp": "2025-08-18 07:48:05"
+      "timestamp": "2025-08-18 08:57:59"
     },
     "Pokemon TCG: Team Rocket's Mewtwo ex Box": {
       "available": true,
