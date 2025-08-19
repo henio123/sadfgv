@@ -447,9 +447,9 @@
       "timestamp": "2025-08-14 19:55:21"
     },
     "Pokémon TCG: Black Bolt - Booster Bundle - Zekrom": {
-      "available": false,
-      "price": "149,99 złCena149,99 złCena regularna:149,99 zł-0%Najniższa cena z 30 dni przed obniżką:1,00 zł+14899%Promocja trwa do %s",
-      "timestamp": "2025-08-14 19:55:22"
+      "available": true,
+      "price": "159,99 złCena159,99 złCena regularna:159,99 zł-0%Najniższa cena z 30 dni przed obniżką:1,00 zł+15899%Promocja trwa do %s",
+      "timestamp": "2025-08-19 13:39:16"
     },
     "Pokémon TCG: Black Bolt - Binder Collection - Zekrom": {
       "available": true,
@@ -2331,9 +2331,9 @@
       "timestamp": "2025-08-14 19:58:50"
     },
     "[PREORDER] Pokémon TCG Scarlet & Violet - Black Bolt Elite Trainer Box": {
-      "available": true,
-      "price": "299,00 zł",
-      "timestamp": "2025-08-19 06:02:16"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-19 13:43:23"
     },
     "Pokémon TCG: Unova Mini Tin": {
       "available": true,
@@ -2341,14 +2341,14 @@
       "timestamp": "2025-08-19 06:02:16"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt & White Flare - Binder Collection - Reshiram/Zekrom": {
-      "available": true,
-      "price": "399,00 zł",
-      "timestamp": "2025-08-19 06:02:16"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-19 13:43:21"
     },
     "[PREORDER] Pokémon TCG Scarlet & Violet - White Flare Elite Trainer Box": {
-      "available": true,
-      "price": "299,00 zł",
-      "timestamp": "2025-08-19 06:02:22"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-19 13:43:33"
     },
     "[PREORDER] Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir": {
       "available": false,
