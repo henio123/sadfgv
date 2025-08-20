@@ -26,9 +26,9 @@
       "timestamp": "2025-08-20 19:48:27"
     },
     "Destined Rivals - Booster": {
-      "available": true,
+      "available": false,
       "price": "18.95zł",
-      "timestamp": "2025-08-20 19:37:37"
+      "timestamp": "2025-08-20 20:28:48"
     },
     "White Flare Booster Bundle": {
       "available": false,
@@ -1686,8 +1686,8 @@
   "heartspub": {
     "Booster bundle - 151 -...": {
       "available": true,
-      "price": "270,00 zł",
-      "timestamp": "2025-08-20 19:19:18"
+      "price": "349,00 zł",
+      "timestamp": "2025-08-20 20:30:38"
     },
     "Rival Battle Deck - Marnie...": {
       "available": true,
@@ -1696,8 +1696,8 @@
     },
     "Elite Trainer Box -...": {
       "available": true,
-      "price": "259,00 zł",
-      "timestamp": "2025-08-20 19:19:19"
+      "price": "299,00 zł",
+      "timestamp": "2025-08-20 20:30:40"
     }
   },
   "3trolle": {
