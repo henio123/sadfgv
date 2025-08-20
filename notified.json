@@ -16,14 +16,14 @@
       "timestamp": "2025-08-20 19:17:39"
     },
     "White Flare Black Bolt Unova Victini": {
-      "available": true,
+      "available": false,
       "price": "95.95zł",
-      "timestamp": "2025-08-20 19:37:36"
+      "timestamp": "2025-08-20 19:48:26"
     },
     "White Flare Elite Trainer Box": {
-      "available": true,
+      "available": false,
       "price": "216.95zł",
-      "timestamp": "2025-08-20 19:37:36"
+      "timestamp": "2025-08-20 19:48:27"
     },
     "Destined Rivals - Booster": {
       "available": true,
@@ -46,9 +46,9 @@
       "timestamp": "2025-08-20 19:17:42"
     },
     "Black Bolt Elite Trainer Box": {
-      "available": true,
+      "available": false,
       "price": "216.95zł",
-      "timestamp": "2025-08-20 19:37:34"
+      "timestamp": "2025-08-20 19:48:25"
     },
     "White Flare & Black Bolt - Unova Poster Collection": {
       "available": true,
@@ -2413,9 +2413,9 @@
       "timestamp": "2025-08-20 19:22:08"
     },
     "Pokémon TCG: Unova Mini Tin - Volcarona - Emolga": {
-      "available": true,
-      "price": "50,00 zł",
-      "timestamp": "2025-08-20 19:22:18"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-08-20 19:53:47"
     }
   },
   "pokegemcollector": {
