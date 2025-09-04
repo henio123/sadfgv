@@ -299,19 +299,19 @@
       "timestamp": "2025-09-04 00:45:50"
     },
     "Pokémon TCG: Unova Mini Tin Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-04 04:30:35"
+      "available": true,
+      "price": "420.00zł",
+      "timestamp": "2025-09-04 04:45:35"
     },
     "Pokémon TCG White Flare Booster Bundle – Reshiram": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-04 04:31:36"
+      "available": true,
+      "price": "150.00zł",
+      "timestamp": "2025-09-04 04:46:30"
     },
     "Pokémon TCG Black Bolt Booster Bundle – Zekrom": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-04 04:31:52"
+      "available": true,
+      "price": "150.00zł",
+      "timestamp": "2025-09-04 04:46:42"
     },
     "Pokémon TCG: Black Bolt – Elite Trainer Box": {
       "available": false,
