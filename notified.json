@@ -281,12 +281,20 @@
     "Pokémon TCG Black Bolt Binder Collection Zekrom": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-09-04 09:56:27"
+=======
+      "timestamp": "2025-09-04 10:04:36"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG White Flare Binder Collection Reshiram": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-09-04 09:56:28"
+=======
+      "timestamp": "2025-09-04 10:04:37"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Black Bolt & White Flare Unova Poster Collection": {
       "available": false,
@@ -304,6 +312,7 @@
       "timestamp": "2025-09-04 09:59:05"
     },
     "Pokémon TCG White Flare Booster Bundle – Reshiram": {
+<<<<<<< Updated upstream
       "available": false,
       "price": "Brak ceny",
 <<<<<<< Updated upstream
@@ -319,6 +328,16 @@
       "timestamp": "2025-09-04 09:50:17"
 =======
       "timestamp": "2025-09-04 10:01:03"
+>>>>>>> Stashed changes
+=======
+      "available": true,
+      "price": "150.00zł",
+      "timestamp": "2025-09-04 10:06:31"
+    },
+    "Pokémon TCG Black Bolt Booster Bundle – Zekrom": {
+      "available": true,
+      "price": "150.00zł",
+      "timestamp": "2025-09-04 10:06:43"
 >>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt – Elite Trainer Box": {
