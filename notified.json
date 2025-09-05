@@ -274,9 +274,9 @@
       "timestamp": "2025-09-05 14:15:15"
     },
     "Pokémon TCG Black Bolt Binder Collection Zekrom": {
-      "available": true,
-      "price": "170.00zł",
-      "timestamp": "2025-09-05 14:16:15"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-09-05 15:04:50"
     },
     "Pokémon TCG: Destined Rivals Booster Box": {
       "available": false,
@@ -284,9 +284,9 @@
       "timestamp": "2025-09-05 14:16:16"
     },
     "Pokémon TCG White Flare Binder Collection Reshiram": {
-      "available": true,
-      "price": "170.00zł",
-      "timestamp": "2025-09-05 14:16:18"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-09-05 15:04:51"
     },
     "Pokémon TCG Black Bolt & White Flare Unova Poster Collection": {
       "available": false,
