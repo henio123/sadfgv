@@ -304,14 +304,14 @@
       "timestamp": "2025-09-07 11:29:43"
     },
     "Pokémon TCG White Flare Booster Bundle – Reshiram": {
-      "available": true,
+      "available": false,
       "price": "150.00zł",
-      "timestamp": "2025-09-08 13:25:11"
+      "timestamp": "2025-09-08 14:27:23"
     },
     "Pokémon TCG Black Bolt Booster Bundle – Zekrom": {
-      "available": true,
+      "available": false,
       "price": "150.00zł",
-      "timestamp": "2025-09-08 10:05:02"
+      "timestamp": "2025-09-08 14:27:38"
     },
     "Pokémon TCG: Black Bolt – Elite Trainer Box": {
       "available": false,
