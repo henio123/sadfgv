@@ -289,9 +289,9 @@
       "timestamp": "2025-09-11 10:21:43"
     },
     "Pokémon TCG White Flare Binder Collection Reshiram": {
-      "available": true,
+      "available": false,
       "price": "170.00zł",
-      "timestamp": "2025-09-11 10:21:43"
+      "timestamp": "2025-09-11 15:04:23"
     },
     "Pokémon TCG: Shrouded Fable – Elite Trainer Box": {
       "available": false,
@@ -311,7 +311,11 @@
     "Pokémon TCG Black Bolt Booster Bundle – Zekrom": {
       "available": true,
       "price": "150.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-09-11 15:00:21"
+=======
+      "timestamp": "2025-09-11 15:07:35"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt – Elite Trainer Box": {
       "available": false,
