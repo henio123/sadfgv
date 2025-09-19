@@ -232,9 +232,9 @@
       "timestamp": "2025-09-18 12:31:28"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-19 07:31:17"
+      "available": true,
+      "price": "179,00 zł",
+      "timestamp": "2025-09-19 07:54:58"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
@@ -304,9 +304,9 @@
       "timestamp": "2025-09-18 12:35:55"
     },
     "Pokémon TCG White Flare Booster Bundle – Reshiram": {
-      "available": true,
+      "available": false,
       "price": "150.00zł",
-      "timestamp": "2025-09-18 12:36:45"
+      "timestamp": "2025-09-19 08:00:15"
     },
     "Pokémon TCG Black Bolt Booster Bundle – Zekrom": {
       "available": false,
