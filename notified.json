@@ -244,7 +244,11 @@
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
       "available": true,
       "price": "179,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-09-25 13:54:10"
+=======
+      "timestamp": "2025-09-25 14:00:27"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
