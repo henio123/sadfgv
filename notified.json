@@ -1053,39 +1053,39 @@
       "timestamp": "2025-09-26 17:12:48"
     },
     "Pokemon SV10 Destined Rivals Booster": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-26 17:12:48"
+      "available": true,
+      "price": "45,00 zł",
+      "timestamp": "2025-10-02 13:07:41"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-26 17:12:48"
+      "available": true,
+      "price": "330,00 zł",
+      "timestamp": "2025-10-02 13:07:40"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-26 17:12:49"
+      "available": true,
+      "price": "330,00 zł",
+      "timestamp": "2025-10-02 13:07:40"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-26 17:12:49"
+      "available": true,
+      "price": "375,00 zł",
+      "timestamp": "2025-10-02 13:07:43"
     },
     "Pokemon Rival Battle Deck Marnie": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-26 17:13:09"
+      "available": true,
+      "price": "120,00 zł",
+      "timestamp": "2025-10-02 13:08:11"
     },
     "Pokemon SV10,5 TCG Black Bolt and White Flare Zekrom Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-26 17:13:46"
+      "available": true,
+      "price": "240,00 zł",
+      "timestamp": "2025-10-02 13:08:37"
     },
     "Pokemon TCG Team Rocket's Mewtwo EX Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-26 17:14:16"
+      "available": true,
+      "price": "170,00 zł",
+      "timestamp": "2025-10-02 13:09:05"
     },
     "Pokemon TCG Unova Mini Tin Volcarona - Emolga": {
       "available": false,
@@ -1093,14 +1093,14 @@
       "timestamp": "2025-09-26 17:14:50"
     },
     "Pokemon SV10 Destined Rivals Booster Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-26 17:15:35"
+      "available": true,
+      "price": "1 500,00 zł",
+      "timestamp": "2025-10-02 13:10:35"
     },
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-09-26 17:18:03"
+      "available": true,
+      "price": "310,00 zł",
+      "timestamp": "2025-10-02 13:13:39"
     }
   },
   "tcglove": {
