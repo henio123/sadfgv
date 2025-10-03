@@ -237,9 +237,9 @@
       "timestamp": "2025-10-03 12:01:53"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
-      "available": true,
-      "price": "179,00 zł",
-      "timestamp": "2025-10-03 12:01:53"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-03 13:09:18"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
@@ -1053,14 +1053,14 @@
       "timestamp": "2025-10-03 12:02:19"
     },
     "Pokemon SV10 Destined Rivals Booster": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-10-03 12:40:24"
+      "available": true,
+      "price": "45,00 zł",
+      "timestamp": "2025-10-03 13:09:38"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-10-03 12:40:25"
+      "available": true,
+      "price": "330,00 zł",
+      "timestamp": "2025-10-03 13:09:39"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box": {
       "available": true,
@@ -1068,9 +1068,9 @@
       "timestamp": "2025-10-03 12:02:20"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-10-03 12:40:25"
+      "available": true,
+      "price": "375,00 zł",
+      "timestamp": "2025-10-03 13:09:42"
     },
     "Pokemon Rival Battle Deck Marnie": {
       "available": true,
@@ -1099,8 +1099,8 @@
     },
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
       "available": true,
-      "price": "310,00 zł",
-      "timestamp": "2025-10-03 12:07:31"
+      "price": "320,00 zł",
+      "timestamp": "2025-10-03 13:28:55"
     }
   },
   "tcglove": {
