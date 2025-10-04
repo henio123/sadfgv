@@ -1073,9 +1073,9 @@
       "timestamp": "2025-10-04 12:16:30"
     },
     "Pokemon Rival Battle Deck Marnie": {
-      "available": true,
-      "price": "120,00 zł",
-      "timestamp": "2025-10-04 12:16:49"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 14:42:02"
     },
     "Pokemon SV10,5 TCG Black Bolt and White Flare Zekrom Booster Bundle": {
       "available": true,
@@ -1100,7 +1100,11 @@
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
       "available": true,
       "price": "320,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 14:39:16"
+=======
+      "timestamp": "2025-10-04 14:46:51"
+>>>>>>> Stashed changes
     }
   },
   "tcglove": {
