@@ -1,5 +1,6 @@
 {
   "juniorkurczak": {
+<<<<<<< Updated upstream
     "Black Bolt Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
@@ -9,85 +10,159 @@
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:47:29"
+=======
+    "White Flare Binder Collection": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:17"
+    },
+    "Black Bolt Elite Trainer Box": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:17"
+>>>>>>> Stashed changes
     },
     "Black Bolt Binder Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:30"
     },
     "scarlet-violet-151-booster-bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:47:31"
+=======
+      "timestamp": "2025-10-04 19:53:18"
+    },
+    "White Flare Black Bolt Unova Victini": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:19"
+>>>>>>> Stashed changes
     },
     "White Flare Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:31"
     },
     "White Flare Black Bolt Unova Victini": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:47:31"
+=======
+      "timestamp": "2025-10-04 19:53:19"
+>>>>>>> Stashed changes
     },
     "Destined Rivals - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:31"
+=======
+      "timestamp": "2025-10-04 19:53:20"
+>>>>>>> Stashed changes
     },
     "White Flare Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:32"
+=======
+      "timestamp": "2025-10-04 19:53:20"
+>>>>>>> Stashed changes
     },
     "Black Bolt Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:32"
+=======
+      "timestamp": "2025-10-04 19:53:21"
+>>>>>>> Stashed changes
     },
     "Destined Rivals - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:32"
+=======
+      "timestamp": "2025-10-04 19:53:21"
+    },
+    "scarlet-violet-151-booster-bundle": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:33"
+>>>>>>> Stashed changes
     },
     "White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:19"
+=======
+      "timestamp": "2025-10-04 19:54:18"
+>>>>>>> Stashed changes
     },
     "White Flare & Black Bolt Unova Mini Tin": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:49"
+=======
+      "timestamp": "2025-10-04 19:55:53"
+>>>>>>> Stashed changes
     },
     "Destined Rivals - Sleeved Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:48"
+=======
+      "timestamp": "2025-10-04 19:57:01"
+>>>>>>> Stashed changes
     },
     "Destined Rivals – Checklane Blister": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:49"
+=======
+      "timestamp": "2025-10-04 19:57:03"
+>>>>>>> Stashed changes
     },
     "Marnie Rival Battle Deck": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:43"
+=======
+      "timestamp": "2025-10-04 19:58:06"
+>>>>>>> Stashed changes
     },
     "White Flare Tech Sticker - Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:50"
+=======
+      "timestamp": "2025-10-04 19:59:23"
+>>>>>>> Stashed changes
     },
     "Black Bolt Tech Sticker - Reuniclus": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:50"
+=======
+      "timestamp": "2025-10-04 19:59:23"
+>>>>>>> Stashed changes
     },
     "prismatic evolutions bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:14"
     }
   },
@@ -101,221 +176,405 @@
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:47:30"
+=======
+      "timestamp": "2025-10-04 19:59:51"
+    }
+  },
+  "mycards": {
+    "Pokémon TCG: Scarlet & Violet Destined Rivals Booster Pack Sleeved ART SET (4 boostery)": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:17"
+    },
+    "Pokémon TCG: Scarlet & Violet - 151 - Booster": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:17"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - 151 - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:06"
+=======
+      "timestamp": "2025-10-04 19:53:43"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Unova Poster Collection - PREORDER": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:24"
+=======
+      "timestamp": "2025-10-04 19:54:20"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Unova Victini Illustration Collection -  PREORDER": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:54:54"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Elite Trainer Box set - PREORDER": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:00"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt  &  White Flare - Unova Victini Illustration Collection -  PREORDER": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:49:01"
+=======
+      "timestamp": "2025-10-04 19:54:54"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box - ENG": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:07"
+=======
+      "timestamp": "2025-10-04 19:56:18"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:51"
+=======
+      "timestamp": "2025-10-04 19:57:06"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:53"
+=======
+      "timestamp": "2025-10-04 19:57:08"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet -  White Flare - Tech Sticker - Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:34"
+=======
+      "timestamp": "2025-10-04 19:57:55"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet -  Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:34"
+=======
+      "timestamp": "2025-10-04 19:57:55"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Team Rocket's Mewtwo ex Box - 4 boostery": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:47"
+=======
+      "timestamp": "2025-10-04 19:58:11"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36 booster)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:59"
+=======
+      "timestamp": "2025-10-04 19:58:23"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:18"
+=======
+      "timestamp": "2025-10-04 19:59:55"
+>>>>>>> Stashed changes
     }
   },
   "loficards": {
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection (PREORDER)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:30"
+=======
+      "timestamp": "2025-10-04 19:53:17"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG White Flare Booster Bundle (Preorder)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:31"
     },
     "Pokémon TCG: Black Bolt - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:47:31"
+=======
+      "timestamp": "2025-10-04 19:53:18"
+>>>>>>> Stashed changes
     },
-    "Pokémon TCG: White Flare - Binder Collection (PREORDER)": {
+    "Pokémon TCG: Black Bolt - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:45"
+=======
+      "timestamp": "2025-10-04 19:53:18"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt - Binder Collection (PREORDER)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:45"
+=======
+      "timestamp": "2025-10-04 19:53:37"
+    },
+    "Pokémon TCG: White Flare - Binder Collection (PREORDER)": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:37"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare - Elite Trainer Box (PREORDER)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:45"
+=======
+      "timestamp": "2025-10-04 19:53:38"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt - Elite Trainer Box (PREORDER)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:46"
+=======
+      "timestamp": "2025-10-04 19:53:38"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection (PREORDER)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:56"
+=======
+      "timestamp": "2025-10-04 19:53:49"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Mini Tin Display (PREORDER)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:02"
+=======
+      "timestamp": "2025-10-04 19:56:07"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box (Lucario)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:38"
+=======
+      "timestamp": "2025-10-04 19:59:10"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box (Gardevoir)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:38"
+=======
+      "timestamp": "2025-10-04 19:59:11"
+>>>>>>> Stashed changes
     }
   },
   "strefa_tcg": {
     "White Flare Elite Trainer Box - strefa-tcg": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:35"
+=======
+      "timestamp": "2025-10-04 19:53:21"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:42"
+=======
+      "timestamp": "2025-10-04 19:53:32"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:53:36"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
       "available": true,
       "price": "179,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:43"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-10-04 19:47:43"
+=======
+      "timestamp": "2025-10-04 19:54:11"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "110,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:23"
+=======
+      "timestamp": "2025-10-04 19:54:21"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
       "price": "68,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:33"
+=======
+      "timestamp": "2025-10-04 19:57:58"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle": {
       "available": false,
       "price": "68,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:36"
+=======
+      "timestamp": "2025-10-04 19:57:58"
+>>>>>>> Stashed changes
     }
   },
   "battlestash": {
     "Pokémon TCG Destined Rivals Elite Trainer Box": {
       "available": false,
       "price": "240.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:35"
+=======
+      "timestamp": "2025-10-04 19:53:24"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet and Violet 151 Booster Bundle": {
       "available": false,
       "price": "275.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:35"
+=======
+      "timestamp": "2025-10-04 19:53:25"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Team Rocket’s Mewtwo ex Box": {
       "available": false,
       "price": "89.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:23"
+=======
+      "timestamp": "2025-10-04 19:55:21"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals Booster Box": {
       "available": false,
       "price": "750.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:42"
+=======
+      "timestamp": "2025-10-04 19:56:55"
+    },
+    "Pokémon TCG Black Bolt Binder Collection Zekrom": {
+      "available": false,
+      "price": "170.00zł",
+      "timestamp": "2025-10-04 19:56:56"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG White Flare Binder Collection Reshiram": {
       "available": false,
       "price": "170.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:43"
     },
     "Pokémon TCG Black Bolt Binder Collection Zekrom": {
       "available": false,
       "price": "170.00zł",
       "timestamp": "2025-10-04 19:50:43"
+=======
+      "timestamp": "2025-10-04 19:56:56"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Black Bolt & White Flare Unova Poster Collection": {
       "available": false,
       "price": "105.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:44"
+=======
+      "timestamp": "2025-10-04 19:56:56"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Shrouded Fable – Elite Trainer Box": {
       "available": false,
       "price": "180.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:52"
+=======
+      "timestamp": "2025-10-04 19:57:06"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Unova Mini Tin Bundle": {
       "available": false,
       "price": "420.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:03"
+=======
+      "timestamp": "2025-10-04 19:58:27"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG White Flare Booster Bundle – Reshiram": {
       "available": false,
       "price": "150.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:54"
+=======
+      "timestamp": "2025-10-04 19:59:29"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Black Bolt Booster Bundle – Zekrom": {
       "available": false,
       "price": "150.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:09"
+=======
+      "timestamp": "2025-10-04 19:59:45"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt – Elite Trainer Box": {
       "available": false,
       "price": "259.00zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:12"
     }
   },
@@ -329,164 +588,301 @@
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:47:39"
+=======
+      "timestamp": "2025-10-04 19:59:48"
+    }
+  },
+  "boosterpoint": {
+    "Pokémon TCG: Scarlet & Violet – White Flare – Elite Trainer Box – Reshiram": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:27"
+    },
+    "Pokemon TCG: Scarlet & Violet – Black Bolt & White Flare – Binder Collection – Zekrom": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:27"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Black Bolt – Elite Trainer Box – Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:40"
+=======
+      "timestamp": "2025-10-04 19:53:29"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Unova Mini Tin – Garbodor": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:52"
+=======
+      "timestamp": "2025-10-04 19:55:57"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Destined Rivals – Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:08"
+=======
+      "timestamp": "2025-10-04 19:56:17"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Black Bolt – Tech Sticker – Reuniclus": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:28"
+=======
+      "timestamp": "2025-10-04 19:57:53"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare – Tech Sticker – Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:30"
+=======
+      "timestamp": "2025-10-04 19:57:53"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:32"
+=======
+      "timestamp": "2025-10-04 19:57:53"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Destined Rivals – booster box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:46"
+=======
+      "timestamp": "2025-10-04 19:58:09"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Destined Rivals – booster pack": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:46"
     },
     "Pokémon TCG: White Flare – Booster Bundle – Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:52:55"
+=======
+      "timestamp": "2025-10-04 19:58:09"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt – Booster Bundle – Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:55"
+=======
+      "timestamp": "2025-10-04 19:59:30"
+    },
+    "Pokémon TCG: White Flare – Booster Bundle – Reshiram": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:59:30"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Prismatic Evolutions – Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:18"
+=======
+      "timestamp": "2025-10-04 19:59:54"
+>>>>>>> Stashed changes
     }
   },
   "centrum-mtg": {
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom (Planowana premiera: 18 lipca 2025 r.)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:37"
+=======
+      "timestamp": "2025-10-04 19:53:27"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram (Planowana premiera: 18 lipca 2025 r.)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:37"
+=======
+      "timestamp": "2025-10-04 19:53:29"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection (Planowana premiera: 18 lipca 2025 r.)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:34"
+=======
+      "timestamp": "2025-10-04 19:54:34"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario (Planowana premiera: 26 września 2025)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:43"
+=======
+      "timestamp": "2025-10-04 19:54:43"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir (Planowana premiera: 26 września 2025)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:48"
+=======
+      "timestamp": "2025-10-04 19:54:49"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box (Planowana premiera: 18 lipca 2025 r.)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:55"
+=======
+      "timestamp": "2025-10-04 19:54:51"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box (Planowana premiera: 18 lipca 2025 r.)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:57"
+=======
+      "timestamp": "2025-10-04 19:54:53"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram ( Planowana premiera: 22 sierpnia 2025 r.)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:01"
+=======
+      "timestamp": "2025-10-04 19:54:59"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom ( Planowana premiera: 22 sierpnia 2025 r.)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:01"
+=======
+      "timestamp": "2025-10-04 19:55:01"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection (Planowana premiera: sierpień 2025 r.)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:03"
+=======
+      "timestamp": "2025-10-04 19:55:01"
+>>>>>>> Stashed changes
     },
     "Team Rocket's Mewtwo ex Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:37"
+=======
+      "timestamp": "2025-10-04 19:55:36"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Unova Mini Tin - Bundle": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:04"
+=======
+      "timestamp": "2025-10-04 19:56:08"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus (Planowana premiera: 1 sierpnia 2025)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:29"
+=======
+      "timestamp": "2025-10-04 19:57:49"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle (Planowana premiera: 1 sierpnia 2025)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:30"
+=======
+      "timestamp": "2025-10-04 19:57:50"
+>>>>>>> Stashed changes
     }
   },
   "dragoneye": {
     "Pokémon TCG: Scarlet & Violet -White Flare - Booster Bundle": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:42"
+=======
+      "timestamp": "2025-10-04 19:53:32"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle": {
       "available": false,
       "price": "149,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:42"
+=======
+      "timestamp": "2025-10-04 19:53:33"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Rival Battle Deck - Marnie": {
       "available": false,
       "price": "79,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:23"
+=======
+      "timestamp": "2025-10-04 19:54:22"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:33"
+=======
+      "timestamp": "2025-10-04 19:57:54"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:34"
+=======
+      "timestamp": "2025-10-04 19:57:57"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:17"
     }
   },
@@ -500,45 +896,90 @@
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:47:43"
+=======
+      "timestamp": "2025-10-04 19:59:55"
+    }
+  },
+  "swiatkart": {
+    "Pokémon TCG:  Black Bolt - Elite Trainer Box - Zekrom": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:34"
+    },
+    "Pokémon TCG:  Black Bolt & White Flare - Elite Trainer Box - Reshiram/Zekrom - Zestaw": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:34"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt - Binder Collection - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:43"
+=======
+      "timestamp": "2025-10-04 19:53:35"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt - Booster Bundle - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:44"
+=======
+      "timestamp": "2025-10-04 19:53:36"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare - Binder Collection - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:45"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:47:45"
+=======
+      "timestamp": "2025-10-04 19:53:36"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare - Booster Bundle - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:00"
+=======
+      "timestamp": "2025-10-04 19:53:37"
+    },
+    "Pokémon TCG: White Flare & Black Bolt - Unova Victini Illustration Collection": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:38"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:24"
+=======
+      "timestamp": "2025-10-04 19:54:18"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box  Lucario": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:30"
+=======
+      "timestamp": "2025-10-04 19:54:27"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box Gardevoir": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:54"
     }
   },
@@ -557,80 +998,159 @@
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:47:49"
+=======
+      "timestamp": "2025-10-04 19:54:51"
+    }
+  },
+  "lootquest": {
+    "Pokémon TCG: Black Bolt – Elite Trainer Box (PREORDER)": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:40"
+>>>>>>> Stashed changes
+    },
+    "Pokémon TCG: White Flare – Elite Trainer Box (PREORDER)": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
+      "timestamp": "2025-10-04 19:47:50"
+=======
+      "timestamp": "2025-10-04 19:53:40"
+    },
+    "Pokémon TCG: White Flare – Binder Collection (PREORDER)": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:41"
     },
     "Pokémon TCG: Black Bolt – Binder Collection (PREORDER)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
-      "timestamp": "2025-10-04 19:47:50"
+      "timestamp": "2025-10-04 19:53:42"
+    },
+    "Pokémon TCG: Destined Rivals – Booster": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:42"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals – Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:50"
     },
     "Pokémon TCG: Destined Rivals – Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:47:51"
+=======
+      "timestamp": "2025-10-04 19:53:43"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt & White Flare – Poster Collection (PREORDER)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:25"
+=======
+      "timestamp": "2025-10-04 19:54:20"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt & White Flare – Illustration Collection – Victini (PREORDER)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:59"
+=======
+      "timestamp": "2025-10-04 19:54:53"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals – Booster Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:08"
+=======
+      "timestamp": "2025-10-04 19:55:07"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals – 3PK Blister – Zebstrika": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:51"
+=======
+      "timestamp": "2025-10-04 19:57:06"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt & White Flare – Unova Mini Tin – Zestaw (8 wzorów)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:04"
+=======
+      "timestamp": "2025-10-04 19:58:32"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt – Booster Bundle (PREORDER)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:05"
+=======
+      "timestamp": "2025-10-04 19:58:32"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare – Booster Bundle (PREORDER)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:24"
     },
     "Pokémon TCG: 151 – Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:52:35"
+=======
+      "timestamp": "2025-10-04 19:58:55"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: 151 – Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:36"
+=======
+      "timestamp": "2025-10-04 19:59:06"
+    },
+    "Pokémon TCG: 151 – Booster": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:59:07"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Gardevoir (PREORDER)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:37"
+=======
+      "timestamp": "2025-10-04 19:59:09"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Lucario (PREORDER)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:37"
+=======
+      "timestamp": "2025-10-04 19:59:10"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Prismatic Evolutions – Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:17"
     }
   },
@@ -644,157 +1164,291 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-10-04 19:47:54"
+=======
+      "timestamp": "2025-10-04 19:59:54"
+    }
+  },
+  "poke-collectibles": {
+    "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Victini Illustration Collection": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:53:46"
+    },
+    "Pokémon TCG: Scarlet & Violet – Black Bolt & White Flare – Binder Collection – Reshiram/Zekrom": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:53:47"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: 151 – Booster Bundle": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:57"
+=======
+      "timestamp": "2025-10-04 19:53:47"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: 151 – Booster": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:57"
+=======
+      "timestamp": "2025-10-04 19:53:50"
+>>>>>>> Stashed changes
     },
     "[ Przedsprzedaż ] Pokémon TCG Black Bolt Binder Collection Zekrom": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:59"
+=======
+      "timestamp": "2025-10-04 19:53:51"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:33"
+=======
+      "timestamp": "2025-10-04 19:54:31"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare / Black Bolt – Booster Bundle": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:04"
+=======
+      "timestamp": "2025-10-04 19:54:58"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare / Black Bolt – Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:04"
+=======
+      "timestamp": "2025-10-04 19:54:58"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Destined Rivals Booster Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:11"
+=======
+      "timestamp": "2025-10-04 19:55:08"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Unova Mini Tin Bundle (8)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:52"
+=======
+      "timestamp": "2025-10-04 19:55:57"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Black Bolt Booster": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:55"
+=======
+      "timestamp": "2025-10-04 19:57:11"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare Booster": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:55"
+=======
+      "timestamp": "2025-10-04 19:57:11"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Destined Rivals Booster": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:49"
+=======
+      "timestamp": "2025-10-04 19:58:13"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Prismatic Evolutions Booster": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:20"
+=======
+      "timestamp": "2025-10-04 19:59:58"
+>>>>>>> Stashed changes
     }
   },
   "pokeshop": {
     "Pokémon TCG: White Flare - Binder Collection - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:57"
+=======
+      "timestamp": "2025-10-04 19:53:48"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt - Binder Collection - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:58"
+=======
+      "timestamp": "2025-10-04 19:53:49"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt - Elite Trainer Box - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:58"
+=======
+      "timestamp": "2025-10-04 19:53:50"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:59"
+=======
+      "timestamp": "2025-10-04 19:53:51"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare - Elite Trainer Box - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:47:59"
     },
     "Pokemon TCG: Scarlet & Violet 151 - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:47:59"
+=======
+      "timestamp": "2025-10-04 19:53:51"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:00"
+=======
+      "timestamp": "2025-10-04 19:53:52"
+    },
+    "Pokemon TCG: Scarlet & Violet 151 - Booster": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:52"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals - Elite Trainer Box (ETB)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:00"
+=======
+      "timestamp": "2025-10-04 19:53:52"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:24"
+=======
+      "timestamp": "2025-10-04 19:54:21"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals - Booster Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:10"
+=======
+      "timestamp": "2025-10-04 19:55:08"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet 151 - Booster Bundle (6 boosterów)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:33"
+=======
+      "timestamp": "2025-10-04 19:55:35"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Mini Tin - Display": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:53"
+=======
+      "timestamp": "2025-10-04 19:55:58"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals - Sleeved Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:53"
+=======
+      "timestamp": "2025-10-04 19:57:09"
+    },
+    "Pokémon TCG: White Flare - Tech Sticker - Gothitelle": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:59:11"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:39"
     },
     "Pokémon TCG: White Flare - Tech Sticker - Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:52:39"
+=======
+      "timestamp": "2025-10-04 19:59:12"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:56"
+=======
+      "timestamp": "2025-10-04 19:59:31"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:12"
+=======
+      "timestamp": "2025-10-04 19:59:47"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Prismatic Evolutions - Booster Bundle DISPLAY (10)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:18"
     }
   },
@@ -813,67 +1467,133 @@
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:48:01"
+=======
+      "timestamp": "2025-10-04 19:59:56"
+    }
+  },
+  "poketrader": {
+    "Pokemon TCG: Scarlet & Violet 151 Booster": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:52"
+    },
+    "Pokemon TCG: Scarlet & Violet 151 Booster Bundle": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:53"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - Black Bolt  - Binder collection - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:02"
+=======
+      "timestamp": "2025-10-04 19:53:53"
+    },
+    "Pokemon TCG: Scarlet & Violet - Black Bolt  - Elite Trainer Box (ETB) - Zekrom": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:53"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - White Flare  - Binder collection - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:02"
+=======
+      "timestamp": "2025-10-04 19:53:54"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: 65 Koszulek z Elite Trainer Box (ETB)  White Flare - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:40"
+=======
+      "timestamp": "2025-10-04 19:54:36"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:02"
+=======
+      "timestamp": "2025-10-04 19:54:59"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - Destined Rivals - Booster Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:11"
+=======
+      "timestamp": "2025-10-04 19:55:08"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - Unova Mini Tin Display (8 szt.)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:53"
     },
     "Pokemon TCG: Scarlet & Violet - Destined Rivals - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:50:08"
+=======
+      "timestamp": "2025-10-04 19:55:58"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box (ETB)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:09"
+=======
+      "timestamp": "2025-10-04 19:56:19"
+    },
+    "Pokemon TCG: Scarlet & Violet - Destined Rivals - Booster": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:56:19"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - White Flare - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:54"
+=======
+      "timestamp": "2025-10-04 19:57:10"
+>>>>>>> Stashed changes
     }
   },
   "redraft": {
     "Pokemon TCG: 151 - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:02"
+=======
+      "timestamp": "2025-10-04 19:53:54"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals - Booster Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:33"
+=======
+      "timestamp": "2025-10-04 19:56:45"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:34"
     }
   },
@@ -887,356 +1607,651 @@
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:48:02"
+=======
+      "timestamp": "2025-10-04 19:56:47"
+    }
+  },
+  "strefakart": {
+    "Pokemon TCG: White Flare – Booster Bundle – Reshiram": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:54"
+    },
+    "Pokemon TCG:  Black Bolt – Booster Bundle – Zekrom": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:54"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare & Black Bolt – Elite Trainer Box – Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:02"
+=======
+      "timestamp": "2025-10-04 19:53:54"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare & Black Bolt – Elite Trainer Box – Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:02"
+=======
+      "timestamp": "2025-10-04 19:53:55"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare & Black Bolt – Binder Collection – Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:02"
     },
     "Pokemon TCG: White Flare & Black Bolt – Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:48:03"
+=======
+      "timestamp": "2025-10-04 19:53:55"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet and Violet 151 – Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:03"
+=======
+      "timestamp": "2025-10-04 19:53:55"
+    },
+    "Pokemon TCG: White Flare & Black Bolt – Unova Victini Illustration Collection": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:55"
+    },
+    "Pokémon TCG: Destined Rivals – Booster Box (36)": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:53:55"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals – Elite Trainer Box ETB": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:03"
     },
     "Pokémon TCG: Destined Rivals – Booster Box (36)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:48:03"
+=======
+      "timestamp": "2025-10-04 19:53:55"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare & Black Bolt – Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:25"
+=======
+      "timestamp": "2025-10-04 19:54:21"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Rival Battle Deck – Marnie": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:25"
+=======
+      "timestamp": "2025-10-04 19:54:21"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Team Rocket’s Mewtwo ex Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:23"
+=======
+      "timestamp": "2025-10-04 19:55:22"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare & Black Bolt – Unova Mini Tin – Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:53"
+=======
+      "timestamp": "2025-10-04 19:55:58"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Destined Rivals – Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:09"
+=======
+      "timestamp": "2025-10-04 19:56:19"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare & Black Bolt – Binder Collection – Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:55"
+=======
+      "timestamp": "2025-10-04 19:57:11"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Black Bolt – Tech Sticker – Reuniclus": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:18"
+=======
+      "timestamp": "2025-10-04 19:57:40"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare – Tech Sticker – Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:18"
+=======
+      "timestamp": "2025-10-04 19:57:41"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Black Bolt – Binder – Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:05"
+=======
+      "timestamp": "2025-10-04 19:58:31"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Mega Evolution – Elite Trainer Box – Lucario": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:29"
+=======
+      "timestamp": "2025-10-04 19:59:01"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Mega Evolution – Elite Trainer Box – Gardevoir": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:29"
+=======
+      "timestamp": "2025-10-04 19:59:01"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet and Violet 151 – Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:34"
+=======
+      "timestamp": "2025-10-04 19:59:06"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Prismatic Evolutions – Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:19"
+=======
+      "timestamp": "2025-10-04 19:59:56"
+>>>>>>> Stashed changes
     }
   },
   "strefamarzen": {
     "Pokemon TCG 151 Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:04"
+=======
+      "timestamp": "2025-10-04 19:53:56"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG Black Bolt & White Flare Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:24"
     },
     "Pokemon TCG Black Bolt - Binder Collection - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:49:24"
+=======
+      "timestamp": "2025-10-04 19:55:23"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG White Flare - Binder Collection - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:24"
+=======
+      "timestamp": "2025-10-04 19:55:24"
+    },
+    "Pokemon TCG Black Bolt - Binder Collection - Zekrom": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:55:24"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG Black Bolt & White Flare Unova Mini Tin - Alomomola & Axew": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:54"
+=======
+      "timestamp": "2025-10-04 19:55:59"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG Scarlet & Violet Destined Rivals Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:47"
+=======
+      "timestamp": "2025-10-04 19:58:11"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG Scarlet & Violet Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:06"
+=======
+      "timestamp": "2025-10-04 19:58:32"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG Scarlet & Violet White Flare Tech Sticker Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:24"
+=======
+      "timestamp": "2025-10-04 19:58:56"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG 151  Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:34"
+=======
+      "timestamp": "2025-10-04 19:59:07"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG Scarlet&Violet Black Bolt & White Flare Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:40"
+=======
+      "timestamp": "2025-10-04 19:59:13"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG Prismatic Evolutions Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:19"
+=======
+      "timestamp": "2025-10-04 19:59:57"
+>>>>>>> Stashed changes
     }
   },
   "strefamtg": {
     "Pokemon TCG Scarlet and Violet 151 Booster Bundle": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:06"
     },
     "Pokemon SV10 Destined Rivals Booster": {
       "available": true,
       "price": "45,00 zł",
       "timestamp": "2025-10-04 19:48:07"
+=======
+      "timestamp": "2025-10-04 19:53:59"
+>>>>>>> Stashed changes
     },
     "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box": {
       "available": true,
       "price": "330,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:07"
+=======
+      "timestamp": "2025-10-04 19:54:00"
+    },
+    "Pokemon SV10 Destined Rivals Booster": {
+      "available": true,
+      "price": "45,00 zł",
+      "timestamp": "2025-10-04 19:54:01"
+>>>>>>> Stashed changes
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
       "available": true,
       "price": "330,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:08"
+=======
+      "timestamp": "2025-10-04 19:54:01"
+>>>>>>> Stashed changes
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
       "available": true,
       "price": "375,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:09"
+=======
+      "timestamp": "2025-10-04 19:54:03"
+>>>>>>> Stashed changes
     },
     "Pokemon Rival Battle Deck Marnie": {
       "available": true,
       "price": "120,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:28"
+=======
+      "timestamp": "2025-10-04 19:54:25"
+>>>>>>> Stashed changes
     },
     "Pokemon SV10,5 TCG Black Bolt and White Flare Zekrom Booster Bundle": {
       "available": true,
       "price": "240,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:05"
+=======
+      "timestamp": "2025-10-04 19:55:02"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG Team Rocket's Mewtwo EX Box": {
       "available": true,
       "price": "170,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:27"
+=======
+      "timestamp": "2025-10-04 19:55:27"
+>>>>>>> Stashed changes
     },
     "Pokemon SV10 Destined Rivals Booster Box": {
       "available": true,
       "price": "1 500,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:47"
+=======
+      "timestamp": "2025-10-04 19:57:01"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG Unova Mini Tin Volcarona - Emolga": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:35"
+=======
+      "timestamp": "2025-10-04 19:57:40"
+>>>>>>> Stashed changes
     },
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
       "available": true,
       "price": "320,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:22"
+=======
+      "timestamp": "2025-10-04 20:00:00"
+>>>>>>> Stashed changes
     }
   },
   "tcglove": {
     "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:08"
+=======
+      "timestamp": "2025-10-04 19:54:02"
+    },
+    "PreOrder Pokemon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:54:03"
+>>>>>>> Stashed changes
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare - Elite Trainer Box - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:09"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:48:09"
+=======
+      "timestamp": "2025-10-04 19:54:03"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:09"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:48:10"
+=======
+      "timestamp": "2025-10-04 19:54:04"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:10"
+=======
+      "timestamp": "2025-10-04 19:54:05"
+    },
+    "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:54:05"
+>>>>>>> Stashed changes
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:11"
+=======
+      "timestamp": "2025-10-04 19:54:05"
+>>>>>>> Stashed changes
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:26"
+=======
+      "timestamp": "2025-10-04 19:54:23"
+    },
+    "PreOrder Pokemon TCG: Mega Evolution 01 - Elite Trainer Box - Lucario": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:54:32"
+>>>>>>> Stashed changes
     },
     "PreOrder Pokemon TCG: Mega Evolution 01 - Elite Trainer Box - Gardevoir/Lucario Zestaw": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:41"
+=======
+      "timestamp": "2025-10-04 19:54:37"
+>>>>>>> Stashed changes
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:04"
     },
     "PreOrder Pokemon TCG: Mega Evolution 01 - Elite Trainer Box - Lucario": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:49:05"
+=======
+      "timestamp": "2025-10-04 19:55:00"
+>>>>>>> Stashed changes
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:05"
+=======
+      "timestamp": "2025-10-04 19:55:01"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet SV 10 Destined Rivals Booster Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:12"
+=======
+      "timestamp": "2025-10-04 19:55:24"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Team Rocket's Mewtwo ex Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:24"
+=======
+      "timestamp": "2025-10-04 19:55:25"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - Unova Mini Tin - Bundle (8)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:55"
+=======
+      "timestamp": "2025-10-04 19:56:01"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet SV 10 Destined Rivals Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:09"
+=======
+      "timestamp": "2025-10-04 19:56:21"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet SV 10 Destined Rivals Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:10"
+=======
+      "timestamp": "2025-10-04 19:56:21"
+>>>>>>> Stashed changes
     },
     "Pokemon 3 Karty Promo - z zestawu Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:56"
+=======
+      "timestamp": "2025-10-04 19:57:12"
+>>>>>>> Stashed changes
     },
     "Pokemon Plakat - z zestawu  Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:56"
+=======
+      "timestamp": "2025-10-04 19:57:12"
+>>>>>>> Stashed changes
     },
     "PreOrder Pokemon TCG: Mega Evolution 01 - Elite Trainer Box - Gardevoir": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:56"
+=======
+      "timestamp": "2025-10-04 19:57:12"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - Black Bolt - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:57"
+=======
+      "timestamp": "2025-10-04 19:57:13"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - White Flare - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:59"
+=======
+      "timestamp": "2025-10-04 19:57:15"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:59"
+=======
+      "timestamp": "2025-10-04 19:57:16"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet and Violet 151 - Booster Bundle 10-Pack": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:01"
+=======
+      "timestamp": "2025-10-04 19:57:18"
+>>>>>>> Stashed changes
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:19"
+=======
+      "timestamp": "2025-10-04 19:57:42"
+>>>>>>> Stashed changes
     },
     "PreOrder Pokemon TCG: Scarlet & Violet - White Flare  - Tech Sticker - Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:19"
+=======
+      "timestamp": "2025-10-04 19:57:42"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:20"
     }
   },
@@ -1250,598 +2265,1080 @@
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:48:10"
+=======
+      "timestamp": "2025-10-04 19:59:58"
+    }
+  },
+  "wilczek": {
+    "Pokémon - Scarlet & Violet 151 - Booster": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:54:06"
+>>>>>>> Stashed changes
     },
     "Pokémon - Scarlet and Violet 151 - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:11"
+=======
+      "timestamp": "2025-10-04 19:54:06"
+>>>>>>> Stashed changes
     },
-    "Pokémon - Scarlet & Violet 151 - Booster": {
+    "Pokémon TCG - Destined Rivals - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:11"
+=======
+      "timestamp": "2025-10-04 19:54:06"
+    },
+    "Pokémon TCG - Destined Rivals - Sleeved Booster": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:54:06"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG - Destined Rivals - Booster Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:12"
     },
     "Pokémon TCG - Destined Rivals - 3-Pack Blister": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:51:02"
+=======
+      "timestamp": "2025-10-04 19:55:10"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG - Destined Rivals - Checklane Blister": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:03"
+=======
+      "timestamp": "2025-10-04 19:57:19"
+    },
+    "Pokémon TCG - Destined Rivals - 3-Pack Blister": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:57:20"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG - Destined Rivals - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:03"
+=======
+      "timestamp": "2025-10-04 19:57:20"
+>>>>>>> Stashed changes
     },
     "Pokémon - Prismatic Evolutions - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:22"
+=======
+      "timestamp": "2025-10-04 20:00:00"
+>>>>>>> Stashed changes
     }
   },
   "elfiagrota": {
     "Pokemon TCG: Destined Rivals - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:11"
+=======
+      "timestamp": "2025-10-04 19:54:07"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet 151 - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:11"
+=======
+      "timestamp": "2025-10-04 19:54:07"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom (limit 2 sztuk na osobę)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:05"
+=======
+      "timestamp": "2025-10-04 19:55:01"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram (limit 2 sztuk na osobę)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:05"
+=======
+      "timestamp": "2025-10-04 19:55:02"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Scarlet & Violet 151 - Booster Bundle (6 boosterów)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:33"
+=======
+      "timestamp": "2025-10-04 19:55:35"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Scarlet & Violet Black Bolt - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:03"
+=======
+      "timestamp": "2025-10-04 19:57:21"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Scarlet & Violet White Flare - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:03"
+=======
+      "timestamp": "2025-10-04 19:57:21"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Trick or Trade - Booster Bundle (35)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:03"
+=======
+      "timestamp": "2025-10-04 19:57:21"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt & White Flare – Unova Mini Tin Display (8 wzorów)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:06"
+=======
+      "timestamp": "2025-10-04 19:58:32"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:06"
+=======
+      "timestamp": "2025-10-04 19:58:33"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:06"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection (limit 2 sztuk na osobę)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:52:07"
+=======
+      "timestamp": "2025-10-04 19:58:33"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection (limit 2 sztuk na osobę)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:07"
+=======
+      "timestamp": "2025-10-04 19:58:34"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection (limit 2 sztuk na osobę)": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:58:34"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:25"
+=======
+      "timestamp": "2025-10-04 19:58:55"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:25"
+=======
+      "timestamp": "2025-10-04 19:58:56"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir (limit 1 sztuki na osobę)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:37"
+=======
+      "timestamp": "2025-10-04 19:59:09"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario (limit 1 sztuki na osobę)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:38"
+=======
+      "timestamp": "2025-10-04 19:59:10"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Prismatic Evolutions - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:21"
+=======
+      "timestamp": "2025-10-04 19:59:59"
+>>>>>>> Stashed changes
     }
   },
   "xjoy": {
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:12"
+=======
+      "timestamp": "2025-10-04 19:54:08"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:12"
+=======
+      "timestamp": "2025-10-04 19:54:08"
+    },
+    "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt - Elite Trainer Box Zekrom": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:54:09"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - White Flare - Elite Trainer Box Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:12"
+=======
+      "timestamp": "2025-10-04 19:54:09"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - White Flare - Binder Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:12"
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt - Elite Trainer Box Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:48:13"
+=======
+      "timestamp": "2025-10-04 19:54:09"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt - Binder Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:13"
+=======
+      "timestamp": "2025-10-04 19:54:09"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt & White Flare Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:27"
+=======
+      "timestamp": "2025-10-04 19:54:24"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Rival Battle Deck - Marnie": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:38"
+=======
+      "timestamp": "2025-10-04 19:54:35"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - White Flare - Booster Bundle - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:06"
+=======
+      "timestamp": "2025-10-04 19:55:03"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt - Booster Bundle - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:06"
+=======
+      "timestamp": "2025-10-04 19:55:03"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt & White - Alomomola  Unova Mini Tin": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:56"
+=======
+      "timestamp": "2025-10-04 19:56:02"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster pack": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:11"
+=======
+      "timestamp": "2025-10-04 19:56:22"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:22"
+=======
+      "timestamp": "2025-10-04 19:56:34"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box(36)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:47"
+=======
+      "timestamp": "2025-10-04 19:57:00"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:35"
     },
     "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt & White Flare Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:51:35"
+=======
+      "timestamp": "2025-10-04 19:57:56"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10.5 -  White Flare - Tech Sticker - Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:36"
+=======
+      "timestamp": "2025-10-04 19:57:57"
+    },
+    "Pokémon TCG: Scarlet & Violet 10.5 - Black Bolt & White Flare Victini Illustration Collection": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:57:58"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:52"
+=======
+      "timestamp": "2025-10-04 19:59:26"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:52"
+=======
+      "timestamp": "2025-10-04 19:59:26"
+>>>>>>> Stashed changes
     }
   },
   "kantodrop": {
     "PREORDER LIMIT 1SZT/OS Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:13"
+=======
+      "timestamp": "2025-10-04 19:54:10"
+>>>>>>> Stashed changes
     },
     "PREORDER LIMIT 1SZT/OS Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:28"
+=======
+      "timestamp": "2025-10-04 19:54:10"
+>>>>>>> Stashed changes
     },
     "PREORDER LIMIT 6/OS Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:29"
+=======
+      "timestamp": "2025-10-04 19:54:25"
+>>>>>>> Stashed changes
     },
     "PREORDER LIMIT 2SZT/OS Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:06"
+=======
+      "timestamp": "2025-10-04 19:55:03"
+    },
+    "PREORDER LIMIT 1SZT/OS Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:55:03"
+>>>>>>> Stashed changes
     },
     "PREORDER LIMIT 2SZT/OS Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:06"
     },
     "PREORDER LIMIT 1SZT/OS Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:49:06"
+=======
+      "timestamp": "2025-10-04 19:55:03"
+>>>>>>> Stashed changes
     },
     "PREORDER LIMT 6SZT/OS Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:07"
+=======
+      "timestamp": "2025-10-04 19:55:04"
+>>>>>>> Stashed changes
     },
     "PREORDER LIMIT 1SZT/OS Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:22"
+=======
+      "timestamp": "2025-10-04 19:55:04"
+>>>>>>> Stashed changes
     },
     "PREORDER LIMIT 6SZT/OS Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:35"
+=======
+      "timestamp": "2025-10-04 19:57:58"
+>>>>>>> Stashed changes
     },
     "PREORDER LIMIT 6SZT/OS Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:36"
+=======
+      "timestamp": "2025-10-04 19:57:58"
+>>>>>>> Stashed changes
     },
     "PREORDER LIMIT 1SZT/OS Pokémon TCG: Mega Evolution - Elite Trainer Box Gardevoir": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:01"
+=======
+      "timestamp": "2025-10-04 19:59:35"
+>>>>>>> Stashed changes
     },
     "PREORDER LIMIT 1SZT/OS Pokémon TCG: Mega Evolution - Elite Trainer Box Lucario": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:01"
+=======
+      "timestamp": "2025-10-04 19:59:35"
+>>>>>>> Stashed changes
     }
   },
   "rebel": {
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box - Zekrom": {
       "available": false,
       "price": "216,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:18"
+=======
+      "timestamp": "2025-10-04 19:54:16"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
       "price": "95,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:18"
+=======
+      "timestamp": "2025-10-04 19:54:16"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
+      "available": false,
+      "price": "165,95zł",
+      "timestamp": "2025-10-04 19:54:17"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box - Reshiram": {
       "available": false,
       "price": "216,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:19"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
       "available": false,
       "price": "165,95zł",
       "timestamp": "2025-10-04 19:48:19"
+=======
+      "timestamp": "2025-10-04 19:54:17"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
       "available": false,
       "price": "165,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:23"
+=======
+      "timestamp": "2025-10-04 19:54:17"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario": {
       "available": false,
       "price": "216,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:34"
+=======
+      "timestamp": "2025-10-04 19:54:32"
+>>>>>>> Stashed changes
     },
     "Karty Pokémon TCG: Team Rocket’s Mewtwo ex Box": {
       "available": false,
       "price": "216,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:39"
+=======
+      "timestamp": "2025-10-04 19:54:38"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
+      "available": false,
+      "price": "115,95zł",
+      "timestamp": "2025-10-04 19:55:11"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram": {
       "available": false,
       "price": "115,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:13"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
       "available": false,
       "price": "115,95zł",
       "timestamp": "2025-10-04 19:49:13"
+=======
+      "timestamp": "2025-10-04 19:55:12"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Team Rocket’s Mewtwo ex Box": {
       "available": false,
       "price": "95,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:29"
+=======
+      "timestamp": "2025-10-04 19:55:31"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
       "price": "68,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:24"
+=======
+      "timestamp": "2025-10-04 19:57:48"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle": {
       "available": false,
       "price": "68,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:25"
+=======
+      "timestamp": "2025-10-04 19:57:49"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Sleeved Booster": {
       "available": false,
       "price": "18,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:52"
+=======
+      "timestamp": "2025-10-04 19:58:16"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Sleeved Booster Box (24)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:52"
+=======
+      "timestamp": "2025-10-04 19:58:17"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
       "available": false,
       "price": "216,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:53"
+=======
+      "timestamp": "2025-10-04 19:58:18"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "99,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:11"
+=======
+      "timestamp": "2025-10-04 19:58:39"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Unova Mini Tin - Alomomola - Axew": {
       "available": false,
       "price": "42,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:12"
+=======
+      "timestamp": "2025-10-04 19:58:40"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle": {
       "available": false,
       "price": "129,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:27"
+=======
+      "timestamp": "2025-10-04 20:00:05"
+>>>>>>> Stashed changes
     }
   },
   "zgrani": {
     "ZESTAW KART POKEMON 2025 talia karty mata do gry Rival Battle Deck Marnie": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:28"
+=======
+      "timestamp": "2025-10-04 19:54:24"
+>>>>>>> Stashed changes
     },
     "POKEMON Elite Trainer Box Destined Rivals pudło 9x booster KARTY ORYGINALNE": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:12"
+=======
+      "timestamp": "2025-10-04 19:56:23"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG Scarlet Violet 151 Booster Pokemony saszetka ORYGINALNE KARTY": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:16"
+=======
+      "timestamp": "2025-10-04 19:57:34"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Unova Mini Tin - Bundle (8)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:08"
+=======
+      "timestamp": "2025-10-04 19:59:44"
+>>>>>>> Stashed changes
     }
   },
   "hejmistrzu": {
     "Pokémon TCG: Scarlet & Violet – Black Bolt – Elite Trainer Box – Zekrom – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:29"
+=======
+      "timestamp": "2025-10-04 19:54:25"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Poster Collection – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:29"
+=======
+      "timestamp": "2025-10-04 19:54:25"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare – Elite Trainer Box – Reshiram – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:29"
+=======
+      "timestamp": "2025-10-04 19:54:25"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Black Bolt – Binder Collection – Zekrom – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:29"
+=======
+      "timestamp": "2025-10-04 19:54:26"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare – Binder Collection – Reshiram – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:29"
+=======
+      "timestamp": "2025-10-04 19:54:26"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Black Bolt – Booster Bundle – Zekrom – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:45"
+=======
+      "timestamp": "2025-10-04 19:54:41"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare – Booster Bundle – Reshiram – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:45"
+=======
+      "timestamp": "2025-10-04 19:54:42"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Victini Illustration Collection – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:45"
+=======
+      "timestamp": "2025-10-04 19:54:42"
+>>>>>>> Stashed changes
     }
   },
   "plcardworld": {
     "Pokémon TCG: Scarlet & Violet – Black Bolt – Binder Collection – Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:42"
+=======
+      "timestamp": "2025-10-04 19:54:39"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare – Binder Collection – Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:43"
+=======
+      "timestamp": "2025-10-04 19:54:40"
+    },
+    "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Poster Collection": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:54:40"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:44"
     },
     "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:48:44"
+=======
+      "timestamp": "2025-10-04 19:54:41"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Black Bolt – Booster Bundle – Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:46"
+=======
+      "timestamp": "2025-10-04 19:54:43"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare – Booster Bundle – Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:48:47"
+=======
+      "timestamp": "2025-10-04 19:54:43"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Gardevoir": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:28"
+=======
+      "timestamp": "2025-10-04 19:55:29"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Lucario": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:29"
+=======
+      "timestamp": "2025-10-04 19:55:30"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Team Rocket’s Mewtwo ex Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:29"
     },
     "PreOrder Pokemon TCG: Scarlet & Violet – Black Bolt – Elite Trainer Box – Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:49:30"
+=======
+      "timestamp": "2025-10-04 19:55:31"
+>>>>>>> Stashed changes
     },
     "PreOrder Pokemon TCG: Scarlet & Violet – White Flare – Elite Trainer Box – Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:31"
+=======
+      "timestamp": "2025-10-04 19:55:31"
+    },
+    "PreOrder Pokemon TCG: Scarlet & Violet – Black Bolt – Elite Trainer Box – Zekrom": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:55:31"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Unova Mini Tin – Alomomola – Axew": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:57"
+=======
+      "timestamp": "2025-10-04 19:56:04"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection | PL Card World (plcardworld)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:38"
+=======
+      "timestamp": "2025-10-04 19:56:51"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Black Bolt – Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:04"
     },
     "Pokémon TCG: White Flare – Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:51:04"
+=======
+      "timestamp": "2025-10-04 19:57:22"
+>>>>>>> Stashed changes
     },
-    "Pokémon TCG: Scarlet & Violet – Black Bolt – Tech Sticker – Reuniclus": {
+    "Pokémon TCG: White Flare – Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:42"
+=======
+      "timestamp": "2025-10-04 19:57:24"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare – Tech Sticker – Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:42"
+=======
+      "timestamp": "2025-10-04 19:58:05"
+    },
+    "Pokémon TCG: Scarlet & Violet – Black Bolt – Tech Sticker – Reuniclus": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:58:05"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Prismatic Evolutions – Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:23"
+=======
+      "timestamp": "2025-10-04 20:00:02"
+>>>>>>> Stashed changes
     }
   },
   "basanti": {
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36)": {
       "available": true,
       "price": "1 299,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:09"
+=======
+      "timestamp": "2025-10-04 19:55:07"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Team Rocket’s Mewtwo (Giovanni's Mewtwo EX box)": {
       "available": true,
       "price": "159,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:21"
+=======
+      "timestamp": "2025-10-04 19:55:20"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
       "available": true,
       "price": "369,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:06"
+=======
+      "timestamp": "2025-10-04 19:56:16"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
       "available": true,
       "price": "124,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:45"
+=======
+      "timestamp": "2025-10-04 19:56:59"
+>>>>>>> Stashed changes
     },
     "Zestaw: 2x Pokémon TCG: Black Bolt & White Flare - Binder Collection - Reshiram + /Zekrom": {
       "available": true,
       "price": "389,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:46"
+=======
+      "timestamp": "2025-10-04 19:56:59"
+>>>>>>> Stashed changes
     },
     "Zestaw: 8x Pokémon TCG: Unova Mini Tin - Bundle": {
       "available": true,
       "price": "499,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:46"
+=======
+      "timestamp": "2025-10-04 19:56:59"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
       "available": true,
       "price": "289,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:33"
+=======
+      "timestamp": "2025-10-04 19:59:04"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: SV - Prismatic Evolutions - Booster Bundle": {
       "available": true,
       "price": "289,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:16"
+=======
+      "timestamp": "2025-10-04 19:59:52"
+>>>>>>> Stashed changes
     }
   },
   "heartspub": {
     "Rival Battle Deck - Marnie...": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:14"
+=======
+      "timestamp": "2025-10-04 19:55:10"
+>>>>>>> Stashed changes
     },
     "Booster bundle - 151 -...": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:14"
+=======
+      "timestamp": "2025-10-04 19:55:11"
+>>>>>>> Stashed changes
     },
     "Elite Trainer Box -...": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:14"
     }
   },
@@ -1855,45 +3352,89 @@
       "available": false,
       "price": "189,95 zł",
       "timestamp": "2025-10-04 19:49:18"
+=======
+      "timestamp": "2025-10-04 19:55:11"
+    }
+  },
+  "3trolle": {
+    "Pokémon TCG: Scarlet & Violet - White Flare- Binder Collection": {
+      "available": false,
+      "price": "189,95 zł",
+      "timestamp": "2025-10-04 19:55:16"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection": {
+      "available": false,
+      "price": "189,95 zł",
+      "timestamp": "2025-10-04 19:55:16"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt/White Flare - Elite Trainer Box ZESTAW 2X ETB": {
       "available": false,
       "price": "579,95 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:18"
+=======
+      "timestamp": "2025-10-04 19:55:16"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "109,95 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:18"
+=======
+      "timestamp": "2025-10-04 19:55:17"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36)": {
       "available": false,
       "price": "999,95 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:38"
+=======
+      "timestamp": "2025-10-04 19:56:51"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: S&V Black Bolt/White Flare - zestaw Booster Bundle - Reshiram+Zekrom": {
       "available": false,
       "price": "359,95 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:40"
+=======
+      "timestamp": "2025-10-04 19:58:03"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
       "available": false,
       "price": "339,95 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:53"
+=======
+      "timestamp": "2025-10-04 19:58:17"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Mini Tin - Zestaw (8...": {
       "available": false,
       "price": "530,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:11"
+=======
+      "timestamp": "2025-10-04 19:58:38"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
       "available": false,
       "price": "269,95 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:37"
+=======
+      "timestamp": "2025-10-04 19:59:11"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle": {
       "available": false,
       "price": "264,95 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:25"
     }
   },
@@ -1902,30 +3443,64 @@
       "available": true,
       "price": "179,95 zł",
       "timestamp": "2025-10-04 19:49:23"
-    },
+=======
+      "timestamp": "2025-10-04 20:00:03"
+    }
+  },
+  "aleplanszowki": {
     "Pokémon TCG: Scarlet & Violet - Black Bolt & White Flare - Binder Collection - Reshiram": {
       "available": false,
       "price": "169,95 zł",
+      "timestamp": "2025-10-04 19:55:23"
+    },
+    "Pokémon TCG: Scarlet & Violet - Team Rocket’s Mewtwo ex Box": {
+      "available": true,
+      "price": "179,95 zł",
+      "timestamp": "2025-10-04 19:55:23"
+>>>>>>> Stashed changes
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt & White Flare - Binder Collection - Reshiram": {
+      "available": false,
+<<<<<<< Updated upstream
+      "price": "169,95 zł",
       "timestamp": "2025-10-04 19:49:23"
+=======
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:55:29"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36) (przedsprzedaż)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:28"
     },
     "Pokémon TCG: Rival Battle Deck - Marnie": {
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-10-04 19:49:29"
+=======
+      "timestamp": "2025-10-04 19:55:30"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle (przedsprzedaż)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:36"
+=======
+      "timestamp": "2025-10-04 19:55:38"
+    },
+    "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:56:26"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster (1)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:15"
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
@@ -1937,57 +3512,100 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-10-04 19:50:50"
+=======
+      "timestamp": "2025-10-04 19:56:27"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Unova Mini Tin (1x)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:50"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle": {
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-10-04 19:51:41"
+=======
+      "timestamp": "2025-10-04 19:57:05"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:57:05"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:58:03"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collectio": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:41"
+=======
+      "timestamp": "2025-10-04 19:58:03"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:41"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-10-04 19:51:41"
+=======
+      "timestamp": "2025-10-04 19:58:03"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Tech Sticker - Gothitelle": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:58:03"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:43"
+=======
+      "timestamp": "2025-10-04 19:58:07"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:59"
+=======
+      "timestamp": "2025-10-04 19:59:35"
+>>>>>>> Stashed changes
     }
   },
   "pikashop": {
     "Pokemon MEGA Evolution Elite Trainer Box ETB (Lucario)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:31"
     },
     "Pokemon MEGA Evolution Elite Trainer Box ETB (Gardevoir)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:49:31"
+=======
+      "timestamp": "2025-10-04 19:55:33"
+>>>>>>> Stashed changes
     },
     "PRZEDSPRZEDAŻ Pokemon White Flare Elite Trainer Box ETB": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:31"
     },
     "PRZEDSPRZEDAŻ Pokemon Black Bolt Elite Trainer Box ETB": {
@@ -1999,118 +3617,226 @@
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:49:32"
+=======
+      "timestamp": "2025-10-04 19:55:33"
+>>>>>>> Stashed changes
     },
-    "PRZEDSPRZEDAŻ Pokemon White Flare & Black Bolt – Booster Bundle 2x": {
+    "Pokemon MEGA Evolution Elite Trainer Box ETB (Gardevoir)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:32"
+=======
+      "timestamp": "2025-10-04 19:55:33"
+    },
+    "PRZEDSPRZEDAŻ Pokemon Black Bolt Elite Trainer Box ETB": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:55:33"
+>>>>>>> Stashed changes
     },
     "Pokemon Destined Rivals Booster Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:32"
+=======
+      "timestamp": "2025-10-04 19:55:34"
+    },
+    "PRZEDSPRZEDAŻ Pokemon White Flare & Black Bolt – Booster Bundle 2x": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:55:34"
+    },
+    "Pokemon Destined Rivals Elite Trainer Box ETB": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:55:34"
+>>>>>>> Stashed changes
     },
     "Pokemon Scarlet and Violet 151 Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:33"
+=======
+      "timestamp": "2025-10-04 19:55:34"
+>>>>>>> Stashed changes
     },
     "Pokemon Destined Rivals Zestaw 2 Blistrów | z Eevee i Zarude (2x Booster/Saszetka + 2x karta Promo)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:14"
+=======
+      "timestamp": "2025-10-04 19:56:26"
+>>>>>>> Stashed changes
     },
     "Pokemon Destined Rivals Booster Saszetka": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:05"
+=======
+      "timestamp": "2025-10-04 19:57:25"
+>>>>>>> Stashed changes
     },
     "Pokemon 151 Booster Saszetka Oryginalna": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:05"
+=======
+      "timestamp": "2025-10-04 19:57:26"
+>>>>>>> Stashed changes
     },
     "Pokemon White Flare & Black Bolt – Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:08"
+=======
+      "timestamp": "2025-10-04 19:58:35"
+>>>>>>> Stashed changes
     },
     "PRZEDSPRZEDAŻ Pokemon White Flare & Black Bolt – Binder Collection – Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:09"
+=======
+      "timestamp": "2025-10-04 19:58:37"
+>>>>>>> Stashed changes
     },
     "PRZEDSPRZEDAŻ Pokemon White Flare & Black Bolt – Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:10"
+=======
+      "timestamp": "2025-10-04 19:58:38"
+>>>>>>> Stashed changes
     }
   },
   "pokecollect": {
     "Pokémon TCG Black Bolt Binder Collection Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:33"
     },
     "Pokémon TCG White Flare & Black Bolt Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:49:34"
+=======
+      "timestamp": "2025-10-04 19:55:35"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG White Flare Binder Collection Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:34"
+=======
+      "timestamp": "2025-10-04 19:55:36"
+    },
+    "Pokémon TCG White Flare & Black Bolt Unova Poster Collection": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:55:36"
+>>>>>>> Stashed changes
     },
     "[ Przedsprzedaż] Pokémon TCG White Flare Elite Trainer Box Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:35"
     },
     "Pokémon TCG Destined Rivals Booster Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:49:35"
+=======
+      "timestamp": "2025-10-04 19:55:37"
+>>>>>>> Stashed changes
     },
     "[ Przedsprzedaż ] Pokémon TCG Black Bolt Elite Trainer Box Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:35"
+=======
+      "timestamp": "2025-10-04 19:55:37"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Destined Rivals Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:35"
+=======
+      "timestamp": "2025-10-04 19:55:38"
+    },
+    "Pokémon TCG Destined Rivals Booster Box": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:55:38"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Unova Mini Tin Bundle (8)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:58"
+=======
+      "timestamp": "2025-10-04 19:56:05"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG White Flare Tech Sticker Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:42"
+=======
+      "timestamp": "2025-10-04 19:58:04"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Black Bolt Tech Sticker Reuniclus": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:42"
+=======
+      "timestamp": "2025-10-04 19:58:04"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG White Flare & Black Bolt Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:42"
+=======
+      "timestamp": "2025-10-04 19:58:06"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG White Flare Booster Bundle Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:59"
+=======
+      "timestamp": "2025-10-04 19:59:35"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Black Bolt Booster Bundle Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:00"
+=======
+      "timestamp": "2025-10-04 19:59:36"
+>>>>>>> Stashed changes
     }
   },
   "panmysza": {
@@ -2122,76 +3848,138 @@
     "Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:36"
+=======
+      "timestamp": "2025-10-04 19:55:39"
+    },
+    "Scarlet and Violet 151 - Booster Bundle": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:55:39"
+>>>>>>> Stashed changes
     },
     "Pokemon Team Rocket's Mewtwo Ex Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:36"
+=======
+      "timestamp": "2025-10-04 19:55:39"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Rival Battle Deck - Marnie": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:59"
+=======
+      "timestamp": "2025-10-04 19:56:06"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:53"
+=======
+      "timestamp": "2025-10-04 19:58:18"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet - Black Bolt - Elite Trainer Box - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:11"
+=======
+      "timestamp": "2025-10-04 19:58:39"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet - Black Bolt & White Flare - Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:13"
+=======
+      "timestamp": "2025-10-04 19:58:40"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:13"
+=======
+      "timestamp": "2025-10-04 19:58:40"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:13"
+=======
+      "timestamp": "2025-10-04 19:58:40"
+>>>>>>> Stashed changes
     },
     "Unova Mini Tin - Krookodile - Excadrill": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:13"
+=======
+      "timestamp": "2025-10-04 19:58:41"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet - White Flare - Elite Trainer Box - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:26"
+=======
+      "timestamp": "2025-10-04 19:58:57"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Lucario – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:48"
+=======
+      "timestamp": "2025-10-04 19:59:22"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Gardevoir – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:48"
+=======
+      "timestamp": "2025-10-04 19:59:22"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet White Flare Booster Bundle - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:00"
+=======
+      "timestamp": "2025-10-04 19:59:36"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet Black Bolt Booster Bundle - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:01"
+=======
+      "timestamp": "2025-10-04 19:59:36"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet - Prismatic Evolutions - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:23"
     }
   },
@@ -2205,93 +3993,177 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-10-04 19:49:48"
+=======
+      "timestamp": "2025-10-04 20:00:02"
+    }
+  },
+  "stajnia-gier": {
+    "Pokemon TCG: Unova Mini Tin (Black Bolt & White Flare)": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:55:51"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare Binder Collection - Reshiram": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:49"
+=======
+      "timestamp": "2025-10-04 19:55:52"
+    },
+    "Pokemon TCG: White Flare Binder Collection - Reshiram": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:55:52"
+    },
+    "Pokemon TCG: Black Bolt Binder Collection - Zekrom": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:55:53"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Team Rocket's Mewtwo ex Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:49:49"
     },
     "Pokemon TCG: Black Bolt Binder Collection - Zekrom": {
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-10-04 19:49:49"
+=======
+      "timestamp": "2025-10-04 19:55:53"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Destined Rivals Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:01"
+=======
+      "timestamp": "2025-10-04 19:56:04"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Destined Rivals - Booster": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:26"
+=======
+      "timestamp": "2025-10-04 19:56:39"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Destined Rivals Booster Box (36 boosterów)": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:59"
+=======
+      "timestamp": "2025-10-04 19:57:14"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare booster": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:17"
+=======
+      "timestamp": "2025-10-04 19:57:40"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Black Bolt booster": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:18"
+=======
+      "timestamp": "2025-10-04 19:57:48"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:25"
+=======
+      "timestamp": "2025-10-04 19:58:54"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Black Bolt Elite Trainer Box - Zekrom": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:25"
+=======
+      "timestamp": "2025-10-04 19:58:54"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare Elite Trainer Box - Reshiram": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:37"
+=======
+      "timestamp": "2025-10-04 19:59:09"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: White Flare Tech Sticker - Gothitelle": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:12"
+=======
+      "timestamp": "2025-10-04 19:59:48"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Black Bolt Tech Sticker - Reuniclus": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:13"
+=======
+      "timestamp": "2025-10-04 19:59:50"
+>>>>>>> Stashed changes
     }
   },
   "lochyikoty": {
     "Pokemon TCG: 151 - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:01"
+=======
+      "timestamp": "2025-10-04 19:56:13"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Destined Rivals - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:02"
+=======
+      "timestamp": "2025-10-04 19:56:14"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Destined Rivals - Booster Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:11"
+=======
+      "timestamp": "2025-10-04 19:56:25"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Prismatic Evolutions - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:24"
+=======
+      "timestamp": "2025-10-04 20:00:03"
+>>>>>>> Stashed changes
     }
   },
   "moriongames": {
@@ -2303,135 +4175,241 @@
     "Pokemon Mega Evolution 01 Elite Trainer  Box GARDEVOIR": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:03"
+=======
+      "timestamp": "2025-10-04 19:56:10"
+    },
+    "Pokemon Mega Evolution 01 Elite Trainer  Box LUCARIO": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:56:11"
+>>>>>>> Stashed changes
     },
     "POKEMON Team Rocket,s MEWTWO-EX Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:04"
+=======
+      "timestamp": "2025-10-04 19:56:12"
+>>>>>>> Stashed changes
     },
     "POKEMON SV 10 Destined Rivals Elite  Trainer Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:13"
+=======
+      "timestamp": "2025-10-04 19:56:22"
+>>>>>>> Stashed changes
     },
     "POKEMON SV 10 Destined Rivals Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:53"
+=======
+      "timestamp": "2025-10-04 19:58:17"
+>>>>>>> Stashed changes
     },
     "POKEMON Scarlet and Violet 151 Booster  Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:35"
+=======
+      "timestamp": "2025-10-04 19:59:08"
+>>>>>>> Stashed changes
     },
     "POKEMON SV 10,5  WHITE FLARE Booster  Bundle Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:02"
+=======
+      "timestamp": "2025-10-04 19:59:37"
+>>>>>>> Stashed changes
     },
     "POKEMON SV 10,5  BLACK BOLT Booster  Bundle Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:13"
+=======
+      "timestamp": "2025-10-04 19:59:49"
+>>>>>>> Stashed changes
     }
   },
   "mepel": {
     "Pokémon TCG: Unova Mini Tin - Volcarona - Emolga": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:25"
+=======
+      "timestamp": "2025-10-04 19:56:37"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection - Reshiram": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:25"
+=======
+      "timestamp": "2025-10-04 19:56:37"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection - Zekrom": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:32"
+=======
+      "timestamp": "2025-10-04 19:56:44"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Giovanni's Mewtwo Ex box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:35"
+=======
+      "timestamp": "2025-10-04 19:56:47"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:35"
+=======
+      "timestamp": "2025-10-04 19:56:47"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:37"
+=======
+      "timestamp": "2025-10-04 19:56:50"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box - Zekrom": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:49"
+=======
+      "timestamp": "2025-10-04 19:59:22"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box - Reshiram": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:50"
+=======
+      "timestamp": "2025-10-04 19:59:23"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:51"
+=======
+      "timestamp": "2025-10-04 19:59:24"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:11"
+=======
+      "timestamp": "2025-10-04 19:59:46"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:22"
+=======
+      "timestamp": "2025-10-04 19:59:58"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Prismatic Evolutions: Booster Bundle": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:34"
+=======
+      "timestamp": "2025-10-04 20:00:12"
+>>>>>>> Stashed changes
     }
   },
   "pokemart": {
     "Pokémon TCG Angielski Elite Trainer Box - White Flare (WHTen)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:36"
+=======
+      "timestamp": "2025-10-04 19:56:48"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Elite Trainer Box - Black Bolt (BLKen)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:36"
+=======
+      "timestamp": "2025-10-04 19:56:48"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Rival Battle Deck - Marnie": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:37"
+=======
+      "timestamp": "2025-10-04 19:56:49"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Team Rocket's Mewtwo EX Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:37"
+=======
+      "timestamp": "2025-10-04 19:56:49"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Unova Mini Tin": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:37"
+=======
+      "timestamp": "2025-10-04 19:56:50"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Binder Collection - Black Bolt (BLKen)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:38"
+=======
+      "timestamp": "2025-10-04 19:56:50"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Binder Collection - White Flare (WHTen)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:50:38"
     }
   },
@@ -2445,45 +4423,99 @@
       "available": false,
       "price": "30,00 PLN",
       "timestamp": "2025-10-04 19:51:46"
+=======
+      "timestamp": "2025-10-04 19:56:51"
+    }
+  },
+  "flamberg": {
+    "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster": {
+      "available": false,
+      "price": "30,00 PLN",
+      "timestamp": "2025-10-04 19:58:10"
+    },
+    "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
+      "available": false,
+      "price": "349,00 PLN",
+      "timestamp": "2025-10-04 19:58:10"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10,5 - Black Bolt - Elite Trainer Box": {
       "available": true,
       "price": "299,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:03"
+=======
+      "timestamp": "2025-10-04 19:58:29"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10,5 - Black Bolt - Binder Collection - Zekrom": {
       "available": true,
       "price": "189,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:04"
+=======
+      "timestamp": "2025-10-04 19:58:30"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10,5 - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "129,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:06"
+=======
+      "timestamp": "2025-10-04 19:58:31"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10,5 - White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
       "price": "119,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:06"
+=======
+      "timestamp": "2025-10-04 19:58:32"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10,5 - White Flare - Elite Trainer Box": {
       "available": true,
       "price": "299,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:24"
+=======
+      "timestamp": "2025-10-04 19:58:57"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10,5 - White Flare - Binder Collection - Reshiram": {
       "available": true,
       "price": "189,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:25"
+=======
+      "timestamp": "2025-10-04 19:58:58"
+>>>>>>> Stashed changes
     },
     "Scarlet and Violet 151 - Booster Bundle Pokémon TCG": {
       "available": true,
       "price": "474,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:34"
+=======
+      "timestamp": "2025-10-04 19:59:06"
+    },
+    "Pokémon TCG: Rival Battle Deck - Marnie": {
+      "available": false,
+      "price": "99,00 PLN",
+      "timestamp": "2025-10-04 19:59:14"
+    },
+    "Pokémon TCG: Team Rocket's Mewtwo ex Box": {
+      "available": true,
+      "price": "169,00 PLN",
+      "timestamp": "2025-10-04 19:59:14"
+>>>>>>> Stashed changes
     },
     "Unova Mini Tin 10,5  -Alomomola , Axew Pokemon TCG": {
       "available": true,
       "price": "65,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:41"
     },
     "Pokémon TCG: Team Rocket's Mewtwo ex Box": {
@@ -2495,286 +4527,508 @@
       "available": false,
       "price": "99,00 PLN",
       "timestamp": "2025-10-04 19:52:42"
+=======
+      "timestamp": "2025-10-04 19:59:15"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10,5 - White Flare - Booster Bundle - Reshiram": {
       "available": true,
       "price": "180,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:58"
+=======
+      "timestamp": "2025-10-04 19:59:33"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet 10,5 - Black Bolt - Booster Bundle - Zekrom": {
       "available": true,
       "price": "180,00 PLN",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:12"
+=======
+      "timestamp": "2025-10-04 19:59:49"
+>>>>>>> Stashed changes
     }
   },
   "japancollectibles": {
     "Pokémon TCG Angielski Elite Trainer Box - Destined Rivals (DRIen)": {
       "available": true,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:55"
+=======
+      "timestamp": "2025-10-04 19:58:20"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Booster Box - Destined Rivals (DRIen)": {
       "available": true,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:56"
     },
     "Pokémon TCG Angielski Elite Trainer Box - Black Bolt (BLKen)": {
       "available": true,
       "price": "Brak ceny",
       "timestamp": "2025-10-04 19:52:16"
+=======
+      "timestamp": "2025-10-04 19:58:21"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Binder Collection - Black Bolt (BLKen)": {
       "available": true,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:16"
+=======
+      "timestamp": "2025-10-04 19:58:44"
+>>>>>>> Stashed changes
     },
-    "Pokémon TCG Angielski Binder Collection - White Flare (WHTen)": {
+    "Pokémon TCG Angielski Elite Trainer Box - Black Bolt (BLKen)": {
       "available": true,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:28"
+=======
+      "timestamp": "2025-10-04 19:58:44"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Elite Trainer Box - White Flare (WHTen)": {
       "available": true,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:28"
+=======
+      "timestamp": "2025-10-04 19:58:59"
+    },
+    "Pokémon TCG Angielski Binder Collection - White Flare (WHTen)": {
+      "available": true,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 19:59:00"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Rival Battle Deck - Marnie": {
       "available": true,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:44"
+=======
+      "timestamp": "2025-10-04 19:59:18"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Team Rocket's Mewtwo EX Box": {
       "available": true,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:44"
+=======
+      "timestamp": "2025-10-04 19:59:18"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Angielski Unova Mini Tin": {
       "available": true,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:47"
+=======
+      "timestamp": "2025-10-04 19:59:21"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Booster Bundle - Prismatic Evolutions": {
       "available": true,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:27"
+=======
+      "timestamp": "2025-10-04 20:00:07"
+>>>>>>> Stashed changes
     }
   },
   "letsgotry": {
     "Pokemon TCG Scarlet & Violet - Destined Rivals - Booster Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:56"
+=======
+      "timestamp": "2025-10-04 19:58:22"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:56"
+=======
+      "timestamp": "2025-10-04 19:58:22"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG Scarlet & Violet - Destined Rivals Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:59"
+=======
+      "timestamp": "2025-10-04 19:58:24"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt & White Flare - Binder Collection - Reshiram/Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:17"
+=======
+      "timestamp": "2025-10-04 19:58:48"
+>>>>>>> Stashed changes
     },
     "[PREORDER] Pokémon TCG Scarlet & Violet - Black Bolt Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:19"
+=======
+      "timestamp": "2025-10-04 19:58:50"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Unova Mini Tin": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:19"
+=======
+      "timestamp": "2025-10-04 19:58:50"
+>>>>>>> Stashed changes
     },
     "[PREORDER] Pokémon TCG Scarlet & Violet - White Flare Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:29"
+=======
+      "timestamp": "2025-10-04 19:59:01"
+>>>>>>> Stashed changes
     },
     "[PREORDER] Pokémon TCG: Mega Evolution - Elite Trainer Box - Lucario": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:33"
+=======
+      "timestamp": "2025-10-04 19:59:05"
+>>>>>>> Stashed changes
     },
     "[PREORDER] Pokémon TCG: Mega Evolution - Elite Trainer Box - Gardevoir": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:33"
+=======
+      "timestamp": "2025-10-04 19:59:05"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Prismatic Evolutions - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:28"
+=======
+      "timestamp": "2025-10-04 20:00:10"
+>>>>>>> Stashed changes
     }
   },
   "vanaheim": {
     "Pokémon TCG: SV10 Destined Rivals - Booster Box (36)": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:58"
+=======
+      "timestamp": "2025-10-04 19:58:23"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: SV10 Destined Rivals - Booster": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:51:59"
+=======
+      "timestamp": "2025-10-04 19:58:25"
+>>>>>>> Stashed changes
     },
     "Pokemon TCG: Destined Rivals - Team Rocket Mewtwo Ex Box": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:01"
+=======
+      "timestamp": "2025-10-04 19:58:26"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: SV10 Destined Rivals - Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:13"
+=======
+      "timestamp": "2025-10-04 19:58:40"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Binder Collection -...": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:21"
+=======
+      "timestamp": "2025-10-04 19:58:52"
+    },
+    "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:58:53"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Elite Trainer Box -...": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:21"
     },
     "Pokémon TCG: Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:52:22"
+=======
+      "timestamp": "2025-10-04 19:58:53"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Binder Collection -...": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:28"
+=======
+      "timestamp": "2025-10-04 19:59:00"
+    },
+    "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle -...": {
+      "available": false,
+      "price": "Brak ceny (tylko dla Playwright)",
+      "timestamp": "2025-10-04 19:59:01"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Elite Trainer Box -...": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:30"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle -...": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
       "timestamp": "2025-10-04 19:52:30"
+=======
+      "timestamp": "2025-10-04 19:59:02"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Unova Mini Tin - Volcarona - Emolga": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:49"
+=======
+      "timestamp": "2025-10-04 19:59:22"
+>>>>>>> Stashed changes
     }
   },
   "pokegemcollector": {
     "ZESTAW - Pokémon TCG: Black Bolt & White Flare - Elite Trainer Box - Reshiram/Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:18"
+=======
+      "timestamp": "2025-10-04 19:58:50"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:36"
+=======
+      "timestamp": "2025-10-04 19:59:08"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Rival Battle Deck - Marnie": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:45"
+=======
+      "timestamp": "2025-10-04 19:59:19"
+>>>>>>> Stashed changes
     },
     "White Flare - Tech Sticker - Gothitelle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:51"
+=======
+      "timestamp": "2025-10-04 19:59:24"
+>>>>>>> Stashed changes
     },
     "White Flare & Black Bolt - Unova Victini Illustration Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:51"
+=======
+      "timestamp": "2025-10-04 19:59:24"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet - White Flare - Booster Bundle - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:03"
+=======
+      "timestamp": "2025-10-04 19:59:39"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet - White Flare - Elite Trainer Box - Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:04"
+=======
+      "timestamp": "2025-10-04 19:59:40"
+>>>>>>> Stashed changes
     },
     "Scarlet & Violet - Black Bolt - Booster Bundle - Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:05"
+=======
+      "timestamp": "2025-10-04 19:59:41"
+>>>>>>> Stashed changes
     },
     "Black Bolt - Tech Sticker - Reuniclus": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:28"
+=======
+      "timestamp": "2025-10-04 20:00:04"
+>>>>>>> Stashed changes
     }
   },
   "hej mistrzu": {
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Lucario – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:49"
+=======
+      "timestamp": "2025-10-04 19:59:22"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Mega Evolution – Elite Trainer Box – Gardevoir – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:49"
+=======
+      "timestamp": "2025-10-04 19:59:23"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare – Booster Bundle – Reshiram – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:50"
+=======
+      "timestamp": "2025-10-04 19:59:24"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare – Elite Trainer Box – Reshiram – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:51"
+=======
+      "timestamp": "2025-10-04 19:59:24"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Victini Illustration Collection – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:51"
+=======
+      "timestamp": "2025-10-04 19:59:25"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare – Binder Collection – Reshiram": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:51"
+=======
+      "timestamp": "2025-10-04 19:59:25"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – White Flare & Black Bolt – Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:51"
+=======
+      "timestamp": "2025-10-04 19:59:25"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Unova Mini Tin": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:52:51"
+=======
+      "timestamp": "2025-10-04 19:59:25"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Black Bolt – Booster Bundle – Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:13"
+=======
+      "timestamp": "2025-10-04 19:59:49"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Black Bolt – Elite Trainer Box – Zekrom – Przedsprzedaż": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:13"
+=======
+      "timestamp": "2025-10-04 19:59:49"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Black Bolt – Binder Collection – Zekrom": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:13"
+=======
+      "timestamp": "2025-10-04 19:59:50"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet – Prismatic Evolutions – Booster Bundle": {
       "available": false,
       "price": "Brak ceny (tylko dla Playwright)",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-04 19:53:27"
+=======
+      "timestamp": "2025-10-04 20:00:05"
+>>>>>>> Stashed changes
     }
   }
 }
