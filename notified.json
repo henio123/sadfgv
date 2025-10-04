@@ -1053,9 +1053,9 @@
       "timestamp": "2025-10-03 22:16:04"
     },
     "Pokemon SV10 Destined Rivals Booster": {
-      "available": true,
-      "price": "45,00 zł",
-      "timestamp": "2025-10-03 22:16:06"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 03:56:53"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box": {
       "available": true,
@@ -1063,9 +1063,9 @@
       "timestamp": "2025-10-03 22:16:06"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
-      "available": true,
-      "price": "330,00 zł",
-      "timestamp": "2025-10-03 22:16:06"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 03:56:55"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
       "available": true,
@@ -1073,14 +1073,14 @@
       "timestamp": "2025-10-03 22:16:08"
     },
     "Pokemon Rival Battle Deck Marnie": {
-      "available": true,
-      "price": "120,00 zł",
-      "timestamp": "2025-10-03 22:16:32"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 03:57:15"
     },
     "Pokemon SV10,5 TCG Black Bolt and White Flare Zekrom Booster Bundle": {
-      "available": true,
-      "price": "240,00 zł",
-      "timestamp": "2025-10-03 22:17:12"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-04 03:57:40"
     },
     "Pokemon TCG Team Rocket's Mewtwo EX Box": {
       "available": true,
