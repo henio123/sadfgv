@@ -1063,14 +1063,14 @@
       "timestamp": "2025-10-04 23:21:29"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
-      "available": true,
-      "price": "330,00 zł",
-      "timestamp": "2025-10-05 00:01:28"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-05 04:38:55"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
-      "available": true,
-      "price": "375,00 zł",
-      "timestamp": "2025-10-05 04:23:28"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-05 04:38:55"
     },
     "Pokemon Rival Battle Deck Marnie": {
       "available": true,
@@ -1098,9 +1098,9 @@
       "timestamp": "2025-10-04 23:25:06"
     },
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
-      "available": true,
-      "price": "320,00 zł",
-      "timestamp": "2025-10-04 23:27:15"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-05 04:44:01"
     }
   },
   "tcglove": {
