@@ -1063,9 +1063,9 @@
       "timestamp": "2025-10-05 11:23:26"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
-      "available": true,
-      "price": "330,00 zł",
-      "timestamp": "2025-10-05 10:59:03"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-05 11:48:38"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
       "available": true,
@@ -1082,17 +1082,23 @@
 >>>>>>> Stashed changes
     },
     "Pokemon SV10,5 TCG Black Bolt and White Flare Zekrom Booster Bundle": {
-      "available": true,
-      "price": "240,00 zł",
-      "timestamp": "2025-10-05 11:00:07"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-05 11:49:31"
     },
     "Pokemon TCG Team Rocket's Mewtwo EX Box": {
+<<<<<<< Updated upstream
       "available": true,
       "price": "170,00 zł",
 <<<<<<< Updated upstream
       "timestamp": "2025-10-05 11:34:15"
 =======
       "timestamp": "2025-10-05 11:42:44"
+>>>>>>> Stashed changes
+=======
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-05 11:49:47"
 >>>>>>> Stashed changes
     },
     "Pokemon TCG Unova Mini Tin Volcarona - Emolga": {
@@ -1101,9 +1107,9 @@
       "timestamp": "2025-10-05 11:01:12"
     },
     "Pokemon SV10 Destined Rivals Booster Box": {
-      "available": true,
-      "price": "1 450,00 zł",
-      "timestamp": "2025-10-05 11:01:57"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-05 11:51:00"
     },
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
       "available": true,
