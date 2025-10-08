@@ -1063,9 +1063,9 @@
       "timestamp": "2025-10-08 22:22:35"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
-      "available": true,
-      "price": "330,00 zł",
-      "timestamp": "2025-10-08 22:22:36"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-08 23:41:20"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
       "available": true,
@@ -1088,9 +1088,9 @@
       "timestamp": "2025-10-08 22:24:04"
     },
     "Pokemon SV10 Destined Rivals Booster Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-10-08 23:33:28"
+      "available": true,
+      "price": "1 450,00 zł",
+      "timestamp": "2025-10-08 23:44:09"
     },
     "Pokemon TCG Unova Mini Tin Volcarona - Emolga": {
       "available": false,
