@@ -1053,14 +1053,14 @@
       "timestamp": "2025-10-09 16:59:44"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-10-09 19:52:51"
-    },
-    "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
       "available": true,
       "price": "330,00 zł",
-      "timestamp": "2025-10-09 17:34:36"
+      "timestamp": "2025-10-09 20:19:58"
+    },
+    "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-09 20:19:56"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
       "available": true,
@@ -1098,9 +1098,9 @@
       "timestamp": "2025-10-09 17:04:29"
     },
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
-      "available": true,
-      "price": "350,00 zł",
-      "timestamp": "2025-10-09 17:05:54"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-09 20:26:28"
     }
   },
   "tcglove": {
