@@ -1924,12 +1924,18 @@
 >>>>>>> Stashed changes
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
+<<<<<<< Updated upstream
       "available": true,
       "price": "475,00 zł",
 <<<<<<< Updated upstream
       "timestamp": "2025-10-10 21:19:36"
 =======
       "timestamp": "2025-10-10 21:31:08"
+>>>>>>> Stashed changes
+=======
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-10 21:40:01"
 >>>>>>> Stashed changes
     },
     "Pokemon Rival Battle Deck Marnie": {
