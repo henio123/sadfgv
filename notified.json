@@ -1063,9 +1063,9 @@
       "timestamp": "2025-10-12 22:13:33"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-10-13 01:03:25"
+      "available": true,
+      "price": "520,00 zł",
+      "timestamp": "2025-10-13 02:46:55"
     },
     "Pokemon SV10 Destined Rivals Booster": {
       "available": false,
@@ -1098,9 +1098,9 @@
       "timestamp": "2025-10-12 22:20:17"
     },
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
-      "available": true,
-      "price": "350,00 zł",
-      "timestamp": "2025-10-12 22:23:04"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-13 02:53:46"
     }
   },
   "tcglove": {
