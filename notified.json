@@ -1063,9 +1063,9 @@
       "timestamp": "2025-10-13 09:23:15"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
-      "available": true,
-      "price": "520,00 zł",
-      "timestamp": "2025-10-13 09:23:16"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-13 11:47:24"
     },
     "Pokemon SV10 Destined Rivals Booster": {
       "available": false,
@@ -1788,14 +1788,14 @@
   },
   "basanti": {
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36)": {
-      "available": true,
-      "price": "1 299,90 zł",
-      "timestamp": "2025-10-13 09:25:19"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-13 11:49:28"
     },
     "Pokémon TCG: Team Rocket’s Mewtwo (Giovanni's Mewtwo EX box)": {
-      "available": true,
-      "price": "159,90 zł",
-      "timestamp": "2025-10-13 09:25:34"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-13 11:49:49"
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
       "available": true,
