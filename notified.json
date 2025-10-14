@@ -1632,77 +1632,139 @@
     "mega evolution latias": {
       "available": false,
       "price": "95,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:18"
+=======
+      "timestamp": "2025-10-14 19:07:30"
+>>>>>>> Stashed changes
     },
     "mega evolution gengar": {
       "available": false,
       "price": "66,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:18"
+=======
+      "timestamp": "2025-10-14 19:07:31"
+>>>>>>> Stashed changes
     },
     "mega evolution phantasmal etb": {
       "available": false,
       "price": "216,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:21"
+=======
+      "timestamp": "2025-10-14 19:07:32"
+>>>>>>> Stashed changes
     },
     "mega evolution upc": {
       "available": false,
       "price": "649,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:24"
+=======
+      "timestamp": "2025-10-14 19:07:36"
+>>>>>>> Stashed changes
     },
     "mega evolutio gargevoir": {
       "available": false,
       "price": "216,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:25"
+=======
+      "timestamp": "2025-10-14 19:07:37"
+>>>>>>> Stashed changes
     },
     "mega evolution phantasmal box": {
       "available": false,
       "price": "682,20zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:26"
+=======
+      "timestamp": "2025-10-14 19:07:38"
+>>>>>>> Stashed changes
     },
     "mega evolution lucario": {
       "available": false,
       "price": "216,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:28"
     },
     "mega evolution blister golduch": {
       "available": false,
       "price": "61,95zł",
       "timestamp": "2025-10-14 18:59:30"
+=======
+      "timestamp": "2025-10-14 19:07:38"
+>>>>>>> Stashed changes
     },
     "mega evolution tin1": {
       "available": false,
       "price": "42,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:31"
     },
     "mega evolution tin2": {
       "available": false,
       "price": "42,95zł",
       "timestamp": "2025-10-14 18:59:32"
+=======
+      "timestamp": "2025-10-14 19:07:42"
+    },
+    "mega evolution blister golduch": {
+      "available": false,
+      "price": "61,95zł",
+      "timestamp": "2025-10-14 19:07:43"
+>>>>>>> Stashed changes
     },
     "mega evolution tin3": {
       "available": false,
       "price": "42,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:33"
+=======
+      "timestamp": "2025-10-14 19:07:45"
+    },
+    "mega evolution tin2": {
+      "available": false,
+      "price": "42,95zł",
+      "timestamp": "2025-10-14 19:07:45"
+>>>>>>> Stashed changes
     },
     "mega evolution tin4": {
       "available": false,
       "price": "42,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:35"
+=======
+      "timestamp": "2025-10-14 19:07:48"
+>>>>>>> Stashed changes
     },
     "mega evolution tin5": {
       "available": false,
       "price": "42,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:36"
+=======
+      "timestamp": "2025-10-14 19:07:49"
+>>>>>>> Stashed changes
     },
     "mega evolution blister golduck": {
       "available": false,
       "price": "61,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:38"
+=======
+      "timestamp": "2025-10-14 19:07:51"
+>>>>>>> Stashed changes
     },
     "mega evolution diancie": {
       "available": false,
       "price": "66,95zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-14 18:59:38"
+=======
+      "timestamp": "2025-10-14 19:07:51"
+>>>>>>> Stashed changes
     }
   },
   "zgrani": {
