@@ -1056,9 +1056,13 @@
       "available": true,
       "price": "330,00 zł",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "timestamp": "2025-10-17 19:45:07"
 =======
       "timestamp": "2025-10-17 19:44:28"
+>>>>>>> Stashed changes
+=======
+      "timestamp": "2025-10-17 19:52:39"
 >>>>>>> Stashed changes
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
@@ -1079,7 +1083,11 @@
     "Pokemon SV10,5 TCG Black Bolt and White Flare Zekrom Booster Bundle": {
       "available": true,
       "price": "240,00 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-17 19:46:20"
+=======
+      "timestamp": "2025-10-17 19:53:48"
+>>>>>>> Stashed changes
     },
     "Pokemon Rival Battle Deck Marnie": {
       "available": false,
