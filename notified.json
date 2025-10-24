@@ -1864,8 +1864,8 @@
   "basanti": {
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36)": {
       "available": true,
-      "price": "1 699,90 zł",
-      "timestamp": "2025-10-24 08:39:27"
+      "price": "1 499,90 zł",
+      "timestamp": "2025-10-24 09:58:06"
     },
     "Pokémon TCG: Team Rocket’s Mewtwo (Giovanni's Mewtwo EX box)": {
       "available": true,
@@ -1904,7 +1904,11 @@
     "Pokémon TCG: SV - Prismatic Evolutions - Booster Bundle": {
       "available": true,
       "price": "329,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-24 09:55:45"
+=======
+      "timestamp": "2025-10-24 10:04:15"
+>>>>>>> Stashed changes
     }
   },
   "heartspub": {
