@@ -1870,12 +1870,16 @@
     "Pokémon TCG: Team Rocket’s Mewtwo (Giovanni's Mewtwo EX box)": {
       "available": true,
       "price": "159,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-31 06:57:22"
+=======
+      "timestamp": "2025-10-31 07:03:20"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
-      "available": true,
-      "price": "369,90 zł",
-      "timestamp": "2025-10-30 21:20:17"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-10-31 07:04:34"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
       "available": true,
@@ -1885,7 +1889,11 @@
     "Zestaw: 2x Pokémon TCG: Black Bolt & White Flare - Binder Collection - Reshiram + /Zekrom": {
       "available": true,
       "price": "389,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-10-31 06:58:56"
+=======
+      "timestamp": "2025-10-31 07:05:13"
+>>>>>>> Stashed changes
     },
     "Zestaw: 8x Pokémon TCG: Unova Mini Tin - Bundle": {
       "available": true,
