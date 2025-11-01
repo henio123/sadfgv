@@ -1907,12 +1907,18 @@
 >>>>>>> Stashed changes
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
+<<<<<<< Updated upstream
       "available": false,
       "price": "Brak ceny",
 <<<<<<< Updated upstream
       "timestamp": "2025-11-01 19:41:23"
 =======
       "timestamp": "2025-11-01 19:49:56"
+>>>>>>> Stashed changes
+=======
+      "available": true,
+      "price": "330,00 zł",
+      "timestamp": "2025-11-01 19:56:36"
 >>>>>>> Stashed changes
     },
     "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box": {
