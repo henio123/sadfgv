@@ -1092,6 +1092,7 @@
       "price": "Brak ceny",
       "timestamp": "2025-11-01 20:55:56"
     },
+<<<<<<< Updated upstream
     "Pokemon SV10 Destined Rivals Booster Box": {
       "available": false,
       "price": "Brak ceny",
@@ -1101,6 +1102,12 @@
       "available": true,
       "price": "360,00 zł",
       "timestamp": "2025-11-01 20:59:02"
+=======
+    "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
+      "available": true,
+      "price": "360,00 zł",
+      "timestamp": "2025-11-01 21:04:17"
+>>>>>>> Stashed changes
     }
   },
   "tcglove": {
@@ -1974,6 +1981,7 @@
   },
   "aleplanszowki": {
     "Pokémon TCG: Scarlet & Violet - Team Rocket’s Mewtwo ex Box": {
+<<<<<<< Updated upstream
       "available": true,
       "price": "179,95 zł",
       "timestamp": "2025-11-01 20:53:45"
@@ -1982,6 +1990,11 @@
       "available": false,
       "price": "Brak ceny",
       "timestamp": "2025-11-01 20:53:47"
+=======
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-01 20:51:40"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Rival Battle Deck - Marnie": {
       "available": false,
