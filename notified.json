@@ -1058,9 +1058,9 @@
       "timestamp": "2025-11-04 20:28:00"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box": {
-      "available": true,
-      "price": "330,00 zł",
-      "timestamp": "2025-11-04 19:46:32"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-04 21:19:39"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
       "available": true,
@@ -1073,9 +1073,9 @@
       "timestamp": "2025-11-04 18:35:39"
     },
     "Pokemon SV10,5 TCG Black Bolt and White Flare Zekrom Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-11-04 21:01:07"
+      "available": true,
+      "price": "240,00 zł",
+      "timestamp": "2025-11-04 21:20:51"
     },
     "Pokemon TCG Team Rocket's Mewtwo EX Box": {
       "available": false,
