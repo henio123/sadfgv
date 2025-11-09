@@ -1053,9 +1053,9 @@
       "timestamp": "2025-11-09 12:29:47"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-11-09 15:49:12"
+      "available": true,
+      "price": "330,00 zł",
+      "timestamp": "2025-11-09 16:12:13"
     },
     "Pokemon SV10 Destined Rivals Booster": {
       "available": true,
@@ -1883,9 +1883,9 @@
       "timestamp": "2025-11-09 12:33:13"
     },
     "Zestaw: 8x Pokémon TCG: Unova Mini Tin - Bundle": {
-      "available": true,
-      "price": "499,90 zł",
-      "timestamp": "2025-11-09 12:33:14"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-09 16:16:04"
     },
     "Zestaw: 2x Pokémon TCG: Black Bolt & White Flare - Binder Collection - Reshiram + /Zekrom": {
       "available": true,
