@@ -1053,9 +1053,9 @@
       "timestamp": "2025-11-12 01:20:31"
     },
     "Pokemon SV10 Destined Rivals Booster": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-11-12 02:51:54"
+      "available": true,
+      "price": "45,00 zł",
+      "timestamp": "2025-11-12 03:38:52"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box": {
       "available": true,
@@ -1073,9 +1073,9 @@
       "timestamp": "2025-11-12 01:20:36"
     },
     "Pokemon SV10,5 TCG Black Bolt and White Flare Zekrom Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-11-12 02:52:56"
+      "available": true,
+      "price": "240,00 zł",
+      "timestamp": "2025-11-12 03:39:55"
     },
     "Pokemon TCG Team Rocket's Mewtwo EX Box": {
       "available": false,
@@ -1098,9 +1098,9 @@
       "timestamp": "2025-11-12 01:25:58"
     },
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-11-12 02:59:18"
+      "available": true,
+      "price": "360,00 zł",
+      "timestamp": "2025-11-12 03:46:36"
     }
   },
   "tcglove": {
