@@ -1098,12 +1098,18 @@
       "timestamp": "2025-11-14 01:35:08"
     },
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
+<<<<<<< Updated upstream
       "available": false,
       "price": "Brak ceny",
 <<<<<<< Updated upstream
       "timestamp": "2025-11-14 07:49:12"
 =======
       "timestamp": "2025-11-14 07:57:14"
+>>>>>>> Stashed changes
+=======
+      "available": true,
+      "price": "360,00 zł",
+      "timestamp": "2025-11-14 08:04:16"
 >>>>>>> Stashed changes
     }
   },
