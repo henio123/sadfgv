@@ -1053,22 +1053,28 @@
       "timestamp": "2025-11-18 10:27:00"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box": {
-      "available": true,
-      "price": "330,00 zł",
-      "timestamp": "2025-11-18 10:27:00"
-    },
-    "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny",
-      "timestamp": "2025-11-18 11:30:45"
+      "timestamp": "2025-11-18 11:48:23"
+    },
+    "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
+      "available": true,
+      "price": "330,00 zł",
+      "timestamp": "2025-11-18 11:48:25"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
+<<<<<<< Updated upstream
       "available": false,
       "price": "Brak ceny",
 <<<<<<< Updated upstream
       "timestamp": "2025-11-18 11:30:47"
 =======
       "timestamp": "2025-11-18 11:41:17"
+>>>>>>> Stashed changes
+=======
+      "available": true,
+      "price": "525,00 zł",
+      "timestamp": "2025-11-18 11:48:26"
 >>>>>>> Stashed changes
     },
     "Pokemon SV10 Destined Rivals Booster": {
@@ -1881,9 +1887,9 @@
       "timestamp": "2025-11-18 10:29:23"
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-11-18 11:34:09"
+      "available": true,
+      "price": "369,90 zł",
+      "timestamp": "2025-11-18 11:50:55"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
@@ -1895,6 +1901,7 @@
 >>>>>>> Stashed changes
     },
     "Zestaw: 2x Pokémon TCG: Black Bolt & White Flare - Binder Collection - Reshiram + /Zekrom": {
+<<<<<<< Updated upstream
       "available": false,
       "price": "Brak ceny",
 <<<<<<< Updated upstream
@@ -1902,11 +1909,16 @@
 =======
       "timestamp": "2025-11-18 11:44:41"
 >>>>>>> Stashed changes
+=======
+      "available": true,
+      "price": "389,90 zł",
+      "timestamp": "2025-11-18 11:51:47"
+>>>>>>> Stashed changes
     },
     "Zestaw: 8x Pokémon TCG: Unova Mini Tin - Bundle": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-11-18 11:34:56"
+      "available": true,
+      "price": "499,90 zł",
+      "timestamp": "2025-11-18 11:51:47"
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
       "available": false,
@@ -1916,7 +1928,11 @@
     "Pokémon TCG: SV - Prismatic Evolutions - Booster Bundle": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-11-18 11:48:08"
+=======
+      "timestamp": "2025-11-18 11:55:52"
+>>>>>>> Stashed changes
     }
   },
   "heartspub": {
