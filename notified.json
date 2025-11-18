@@ -1058,14 +1058,14 @@
       "timestamp": "2025-11-18 10:27:00"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
-      "available": true,
-      "price": "330,00 zł",
-      "timestamp": "2025-11-18 11:13:58"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 11:30:45"
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
-      "available": true,
-      "price": "525,00 zł",
-      "timestamp": "2025-11-18 11:14:37"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 11:30:47"
     },
     "Pokemon SV10 Destined Rivals Booster": {
       "available": false,
@@ -1098,9 +1098,9 @@
       "timestamp": "2025-11-18 10:33:32"
     },
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
-      "available": true,
-      "price": "360,00 zł",
-      "timestamp": "2025-11-18 10:36:29"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 11:39:21"
     }
   },
   "tcglove": {
@@ -1873,29 +1873,29 @@
       "timestamp": "2025-11-18 10:29:23"
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
-      "available": true,
-      "price": "369,90 zł",
-      "timestamp": "2025-11-18 10:30:50"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 11:34:09"
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
-      "available": true,
-      "price": "124,90 zł",
-      "timestamp": "2025-11-18 10:31:51"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 11:34:56"
     },
     "Zestaw: 2x Pokémon TCG: Black Bolt & White Flare - Binder Collection - Reshiram + /Zekrom": {
-      "available": true,
-      "price": "389,90 zł",
-      "timestamp": "2025-11-18 10:31:51"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 11:34:56"
     },
     "Zestaw: 8x Pokémon TCG: Unova Mini Tin - Bundle": {
-      "available": true,
-      "price": "499,90 zł",
-      "timestamp": "2025-11-18 10:31:54"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 11:34:56"
     },
     "Pokémon TCG: Scarlet and Violet 151 - Booster Bundle": {
-      "available": true,
-      "price": "399,90 zł",
-      "timestamp": "2025-11-18 10:35:25"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 11:38:10"
     },
     "Pokémon TCG: SV - Prismatic Evolutions - Booster Bundle": {
       "available": true,
