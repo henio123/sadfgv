@@ -1053,14 +1053,14 @@
       "timestamp": "2025-11-18 15:29:25"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Zekrom Elite Trainer Box": {
-      "available": true,
-      "price": "330,00 zł",
-      "timestamp": "2025-11-18 15:29:30"
-    },
-    "Pokemon SV10 Destined Rivals Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny",
-      "timestamp": "2025-11-18 17:56:46"
+      "timestamp": "2025-11-18 18:21:25"
+    },
+    "Pokemon SV10 Destined Rivals Elite Trainer Box": {
+      "available": true,
+      "price": "525,00 zł",
+      "timestamp": "2025-11-18 18:21:29"
     },
     "Pokemon TCG Scarlet and Violet 151 Booster Bundle": {
       "available": false,
@@ -1068,9 +1068,9 @@
       "timestamp": "2025-11-18 15:29:31"
     },
     "Pokemon SV10,5 Black Bolt and White Flare Reshiram Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2025-11-18 17:56:45"
+      "available": true,
+      "price": "330,00 zł",
+      "timestamp": "2025-11-18 18:21:28"
     },
     "Pokemon SV10,5 TCG Black Bolt and White Flare Zekrom Booster Bundle": {
       "available": true,
