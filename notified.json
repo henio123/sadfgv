@@ -1071,9 +1071,9 @@
 >>>>>>> Stashed changes
     },
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
-      "available": true,
-      "price": "525,00 zł",
-      "timestamp": "2025-11-18 14:44:27"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 15:02:02"
     },
     "Pokemon SV10,5 TCG Black Bolt and White Flare Zekrom Booster Bundle": {
       "available": true,
@@ -1877,22 +1877,38 @@
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36)": {
       "available": true,
       "price": "1 699,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-11-18 14:56:01"
+=======
+      "timestamp": "2025-11-18 15:03:43"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Team Rocket’s Mewtwo (Giovanni's Mewtwo EX box)": {
       "available": true,
       "price": "159,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-11-18 14:56:17"
+=======
+      "timestamp": "2025-11-18 15:03:59"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
       "available": true,
       "price": "369,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-11-18 14:57:22"
+=======
+      "timestamp": "2025-11-18 15:05:12"
+>>>>>>> Stashed changes
     },
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
       "available": true,
       "price": "124,90 zł",
+<<<<<<< Updated upstream
       "timestamp": "2025-11-18 14:58:08"
+=======
+      "timestamp": "2025-11-18 15:06:02"
+>>>>>>> Stashed changes
     },
     "Zestaw: 8x Pokémon TCG: Unova Mini Tin - Bundle": {
       "available": true,
@@ -1922,12 +1938,18 @@
 >>>>>>> Stashed changes
     },
     "Pokémon TCG: SV - Prismatic Evolutions - Booster Bundle": {
+<<<<<<< Updated upstream
       "available": true,
       "price": "329,90 zł",
 <<<<<<< Updated upstream
       "timestamp": "2025-11-18 14:52:10"
 =======
       "timestamp": "2025-11-18 15:01:43"
+>>>>>>> Stashed changes
+=======
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 15:10:08"
 >>>>>>> Stashed changes
     }
   },
