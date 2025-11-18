@@ -1065,7 +1065,11 @@
     "Pokemon SV10 Destined Rivals Elite Trainer Box": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-11-18 11:30:47"
+=======
+      "timestamp": "2025-11-18 11:41:17"
+>>>>>>> Stashed changes
     },
     "Pokemon SV10 Destined Rivals Booster": {
       "available": false,
@@ -1100,7 +1104,11 @@
     "Pokemon SV8,5 TCG Prismatic Evolutions Booster Bundle": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-11-18 11:39:21"
+=======
+      "timestamp": "2025-11-18 11:48:13"
+>>>>>>> Stashed changes
     }
   },
   "tcglove": {
@@ -1863,9 +1871,9 @@
   },
   "basanti": {
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36)": {
-      "available": true,
-      "price": "1 699,90 zł",
-      "timestamp": "2025-11-18 10:29:09"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 11:42:37"
     },
     "Pokémon TCG: Team Rocket’s Mewtwo (Giovanni's Mewtwo EX box)": {
       "available": true,
@@ -1880,12 +1888,20 @@
     "Pokémon TCG: White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-11-18 11:34:56"
+=======
+      "timestamp": "2025-11-18 11:44:40"
+>>>>>>> Stashed changes
     },
     "Zestaw: 2x Pokémon TCG: Black Bolt & White Flare - Binder Collection - Reshiram + /Zekrom": {
       "available": false,
       "price": "Brak ceny",
+<<<<<<< Updated upstream
       "timestamp": "2025-11-18 11:34:56"
+=======
+      "timestamp": "2025-11-18 11:44:41"
+>>>>>>> Stashed changes
     },
     "Zestaw: 8x Pokémon TCG: Unova Mini Tin - Bundle": {
       "available": false,
@@ -1898,9 +1914,9 @@
       "timestamp": "2025-11-18 11:38:10"
     },
     "Pokémon TCG: SV - Prismatic Evolutions - Booster Bundle": {
-      "available": true,
-      "price": "329,90 zł",
-      "timestamp": "2025-11-18 10:36:20"
+      "available": false,
+      "price": "Brak ceny",
+      "timestamp": "2025-11-18 11:48:08"
     }
   },
   "heartspub": {
