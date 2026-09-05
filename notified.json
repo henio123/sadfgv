@@ -1984,9 +1984,9 @@
       "timestamp": "2026-08-21 22:24:49"
     },
     "Pokémon TCG: Rival Battle Deck - Marnie": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2026-09-05 15:57:35"
+      "available": true,
+      "price": "399,95 zł",
+      "timestamp": "2026-09-05 17:51:20"
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Booster Box (36) (przedsprzedaż)": {
       "available": false,
@@ -2004,9 +2004,9 @@
       "timestamp": "2026-08-21 22:27:29"
     },
     "Pokémon TCG: Scarlet & Violet - Destined Rivals - Elite Trainer Box": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2026-09-05 16:00:27"
+      "available": true,
+      "price": "499,95 zł",
+      "timestamp": "2026-09-05 17:52:53"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare & Black Bolt - Unova Poster Collection": {
       "available": false,
@@ -2044,9 +2044,9 @@
       "timestamp": "2026-08-21 22:33:03"
     },
     "Pokémon TCG: Scarlet & Violet - White Flare - Booster Bundle - Reshiram": {
-      "available": false,
-      "price": "Brak ceny",
-      "timestamp": "2026-09-05 16:16:37"
+      "available": true,
+      "price": "369,95 zł",
+      "timestamp": "2026-09-05 18:04:32"
     }
   },
   "pikashop": {
